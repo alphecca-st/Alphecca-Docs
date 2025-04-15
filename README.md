@@ -8,6 +8,10 @@ icon: hand-wave
 
 ## Alphecca Tool Guide
 
+* [Contact](info/contact.md)
+
+## Alphecca Tool Guide
+
 * [Create Token](guide/create-token.md)
 * [Air Drop](guide/air-drop.md)
 * [Revoke Authority](guide/revoke-authority.md)
