@@ -1,6 +1,3 @@
----
-icon: paper-plane-top
----
 
 # Air Drop
 
