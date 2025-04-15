@@ -3,7 +3,7 @@
 
 The Air Drop page is a dApp tool that provides a program for sending tokens to multiple addresses simultaneously.
 
-<figure><img src="../.gitbook/assets/KakaoTalk_20250415_133005286.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/air_drop" alt=""><figcaption></figcaption></figure>
 
 
 
