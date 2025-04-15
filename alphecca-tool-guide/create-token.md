@@ -3,7 +3,7 @@
 
 The Create Token page is a dApp tool that allows you to create your custom SPL token without coding.
 
-<figure><img src="../.gitbook/assets/create_token" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/create_token.png" alt=""><figcaption></figcaption></figure>
 
 
 
