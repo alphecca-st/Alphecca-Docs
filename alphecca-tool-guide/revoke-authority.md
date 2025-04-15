@@ -1,6 +1,3 @@
----
-icon: lock
----
 
 # Revoke Authority
 
@@ -12,29 +9,15 @@ The Revoke Authority page is a dApp tool that allows you to revoke the Freeze Mi
 
 ## ## Steps to Revoke Authority
 
-{% stepper %}
-{% step %}
-### Connect Your Wallet
+1. Connect Your Wallet
+ - Supported wallets : Phantom, Solfare
 
-Supported wallets : Phantom, Solfare
-{% endstep %}
+2. Select type of Authority : (Freeze / Mint / Update).
 
-{% step %}
-### Select type of Authority : (Freeze / Mint / Update).
-{% endstep %}
+3. Select your token mint address to revoke authority.
+ - You don’t need to know the address. Our platform integrates with your connected wallet to retrieve all your token mint addresses automatically.
 
-{% step %}
-### Select your token mint address to revoke authority.
-
-You don’t need to know the address. Our platform integrates with your connected wallet to retrieve all your token mint addresses automatically.
-{% endstep %}
-
-{% step %}
-### Click the "Revoke Authority" button and approve the transaction in your wallet app.
-{% endstep %}
-{% endstepper %}
-
-## &#x20;
+4. Click the "Revoke Authority" button and approve the transaction in your wallet app.
 
 
 
