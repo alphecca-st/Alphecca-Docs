@@ -3,7 +3,7 @@
 
 The Revoke Authority page is a dApp tool that allows you to revoke the Freeze Mint Update authority.
 
-<figure><img src="../.gitbook/assets/KakaoTalk_20250415_132538444.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/revoke_auth.png" alt=""><figcaption></figcaption></figure>
 
 
 
