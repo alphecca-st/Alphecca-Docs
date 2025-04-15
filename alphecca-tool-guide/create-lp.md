@@ -1,6 +1,3 @@
----
-icon: chart-line
----
 
 # Create Liquidity Pool
 
