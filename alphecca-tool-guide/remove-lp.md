@@ -1,6 +1,3 @@
----
-icon: trash-can-xmark
----
 
 # Remove Liquidity Pool
 
