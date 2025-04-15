@@ -20,7 +20,6 @@ However, if you want to confirm that your order was successfully completed, plea
 
     <div align="left"><figure><img src="../.gitbook/assets/check_phantom.png" alt=""><figcaption></figcaption></figure></div>
 *   You can immediately check your order on Solscan.
-
     <div align="left"><figure><img src="../.gitbook/assets/check_solscan.png" alt=""><figcaption></figcaption></figure></div>
 
-##
+
