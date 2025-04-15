@@ -3,7 +3,7 @@
 
 The Remove Liquidity Pool page is a dApp tool that allows you to remove liquidity from a pool on the Alphecca platform.
 
-<figure><img src="../.gitbook/assets/remove_lp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/remove_lp.png" alt=""><figcaption></figcaption></figure>
 
 
 
