@@ -1,6 +1,3 @@
----
-icon: coin-front
----
 
 # Create Token
 
