@@ -16,10 +16,10 @@ The Air Drop page is a dApp tool that provides a program for sending tokens to m
 - You don’t need to know the address. The platform can retrieve all the tokens you hold through your wallet app. Simply make a selection.
 
 ### 3. Import a CSV File with Recipient Wallet Addresses and Amounts
-- You can download a sample CSV file. (Typically, the first column (header) will be ignored during the upload.)  
+- You can download a sample CSV file. (Header will be ignored during the upload.)  
 - Check the total number of recipient wallets and the total token amount.
 
-### 4. Press the "Air Drop" Button and Sign the Transaction
+### 4. Click the "Air Drop" Button and Sign the Transaction
 
 
 
