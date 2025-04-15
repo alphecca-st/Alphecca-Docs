@@ -1,6 +1,3 @@
----
-icon: fire
----
 
 # Burn Liquidity Pool
 
