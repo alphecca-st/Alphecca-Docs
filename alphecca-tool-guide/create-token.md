@@ -9,63 +9,32 @@ The Create Token page is a dApp tool that allows you to create your custom SPL t
 
 ## ## Steps to Create Token
 
-{% stepper %}
-{% step %}
-### Connect Your Wallet.
+1. Connect Your Wallet.
+ - Supported wallets : Phantom, Solfare
 
-Supported wallets : Phantom, Solfare
-{% endstep %}
+2. Select an image for your token.
+ - Most tokens use a 1 : 1 image ratio. If not, the central 1 : 1 portion will be displayed.
 
-{% step %}
-### Select an image for your token.
+3. Enter the name of your token.
 
-Most tokens use a 1 : 1 image ratio. If not, the central 1 : 1 portion will be displayed.
-{% endstep %}
+4. Enter the symbol of your token.
 
-{% step %}
-### Enter the name of your token.
-{% endstep %}
+5. Enter a description for your token.
 
-{% step %}
-### Enter the symbol of your token.
-{% endstep %}
+6. Enter the decimals for your token.
+ - Most tokens use 6 - 9 decimals
 
-{% step %}
-### Enter a description for your token.
-{% endstep %}
+7. Enter the supply amount.
 
-{% step %}
-### Enter the decimals for your token.
+8. \*\*Optional\*\* Add social links for your token.
+ - Website, Twitter, Telegram, Discord
 
-Most tokens use 6 - 9 decimals
-{% endstep %}
+9. \*\*Optional\*\* Add token creator information.
+ - By default : it shows an Alphecca.
 
-{% step %}
-### Enter the supply amount.
-{% endstep %}
+10. \*\*Optional\*\* Choose to Revoke Authority.
 
-{% step %}
-### \*\*Optional\*\* Add social links for your token.
-
-Website, Twitter, Telegram, Discord
-{% endstep %}
-
-{% step %}
-### \*\*Optional\*\* Add token creator information.
-
-By default : it shows an Alphecca.
-{% endstep %}
-
-{% step %}
-### \*\*Optional\*\* Choose to Revoke Authority.
-{% endstep %}
-
-{% step %}
-### Click the "Create Token" button and approve the transaction in your wallet app.
-{% endstep %}
-{% endstepper %}
-
-## &#x20;
+11. Click the "Create Token" button and approve the transaction in your wallet app.
 
 
 
