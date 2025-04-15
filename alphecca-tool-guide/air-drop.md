@@ -9,29 +9,18 @@ The Air Drop page is a dApp tool that provides a program for sending tokens to m
 
 ## ## Steps to Air Drop
 
-{% stepper %}
-{% step %}
-### Connect Your Wallet.
+### 1. Connect Your Wallet
+- Supported wallets: Phantom, Solflare
 
-Supported wallets : Phantom, Solfare
-{% endstep %}
+### 2. Select the Mint Token Address for Multi-Sending
+- You don’t need to know the address. The platform can retrieve all the tokens you hold through your wallet app. Simply make a selection.
 
-{% step %}
-### Select type of Authority : (Freeze / Mint / Update).
-{% endstep %}
+### 3. Import a CSV File with Recipient Wallet Addresses and Amounts
+- You can download a sample CSV file. (Typically, the first column (header) will be ignored during the upload.)  
+- Check the total number of recipient wallets and the total token amount.
 
-{% step %}
-### Select your token mint address.
+### 4. Press the "Air Drop" Button and Sign the Transaction
 
-You don’t need to know the address. Our platform integrates with your connected wallet to retrieve all your token mint addresses automatically.
-{% endstep %}
-
-{% step %}
-### Click the "Revoke Authority" button and approve the transaction in your wallet app.
-{% endstep %}
-{% endstepper %}
-
-## &#x20;
 
 
 
