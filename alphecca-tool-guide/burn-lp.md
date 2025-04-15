@@ -19,8 +19,8 @@ The Burn Liquidity Pool page is a dApp tool that enables you to burn liquidity p
 
 
 3. Enter the amount of LP tokens to burn.
- -You don’t need to know the burnable amount. Our platform retrieves the total balance of the selected LP token. Use the scrollbar or the 25%, 50%, 75%, 100% buttons on the right to adjust.
- -After entering the amount, you can check the amount of SOL and tokens to be burned from the liquidity pool.
+ - You don’t need to know the burnable amount. Our platform retrieves the total balance of the selected LP token. Use the scrollbar or the 25%, 50%, 75%, 100% buttons on the right to adjust.
+ - After entering the amount, you can check the amount of SOL and tokens to be burned from the liquidity pool.
 
 
 4. Click the "Burn LP" button and approve the transaction in your wallet app.
