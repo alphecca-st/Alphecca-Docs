@@ -3,7 +3,7 @@
 
 The Create Liquidity Pool page is a dApp tool that allows you to create a liquidity pool based on Raydium's CPMM model.
 
-<figure><img src="../.gitbook/assets/KakaoTalk_20250415_133022006.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/create_lp" alt=""><figcaption></figcaption></figure>
 
 
 
