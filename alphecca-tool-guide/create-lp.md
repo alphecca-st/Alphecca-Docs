@@ -10,7 +10,7 @@ The Create Liquidity Pool page is a dApp tool that allows you to create a liquid
 ## ## Steps to Create a SPL Token.
 
 
-## 1. Connect Your Wallet
+### 1. Connect Your Wallet
  - Supported wallets : Phantom, Solfare
 
 ### 2. Select your token mint address to create LP.
