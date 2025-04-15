@@ -3,7 +3,7 @@
 
 The Burn Liquidity Pool page is a dApp tool that enables you to burn liquidity pool tokens on the Alphecca platform.
 
-<figure><img src="../.gitbook/assets/KakaoTalk_20250415_133049738.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/burn_lp" alt=""><figcaption></figcaption></figure>
 
 
 
