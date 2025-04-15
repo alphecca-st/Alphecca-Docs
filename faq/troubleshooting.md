@@ -1,6 +1,4 @@
----
-icon: octagon-check
----
+
 
 # How to Check your Order?
 
@@ -20,7 +18,8 @@ However, if you want to confirm that your order was successfully completed, plea
 
 
 
-*   Once the transaction is complete, a green box will appear in the top-right corner of the screen, as shown in the image below. Here, you can find your transaction signature.    \
+*   Once the transaction is complete, a green box will appear in the top-right corner of the screen, as shown in the image below. Here, you can find your transaction signature.
+    \
     Copy this address and use it on Solscan to verify the details and results of the transaction you requested.
 
     <div align="left"><figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
