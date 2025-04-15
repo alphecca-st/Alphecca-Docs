@@ -1,8 +1,3 @@
----
-icon: address-book
----
-
-# Contact
 
 ### If you'd like to get in touch, refer to the link below.
 
