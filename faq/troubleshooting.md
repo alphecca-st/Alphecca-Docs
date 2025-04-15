@@ -22,19 +22,19 @@ However, if you want to confirm that your order was successfully completed, plea
     \
     Copy this address and use it on Solscan to verify the details and results of the transaction you requested.
 
-    <div align="left"><figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/check_alert.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
 *   Alternatively, as shown in the image below, you can check the transaction in the history of your wallet app where you signed the transaction. Click the "View on Solscan" button to see the details.
 
-    <div align="left"><figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/check_phantom.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
 *   You can immediately check your order on Solscan.
 
-    <div align="left"><figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/check_solscan.png" alt=""><figcaption></figcaption></figure></div>
 
 ## &#x20;
 
