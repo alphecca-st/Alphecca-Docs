@@ -18,7 +18,7 @@ layout:
 
 # Maker and Volume Bot
 
-**Sell from multiple wallets in one block to secure profits and protect against sandwich attacks.**
+**Automatically create token activity and maker addresses with optimized gas usage.**
 
 {% hint style="success" %}
 #### [https://alphecca.io/market-maker](https://alphecca.io/bundle-sell-buy)
