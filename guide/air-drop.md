@@ -1,5 +1,4 @@
 ---
-description: Distribute your tokens to multiple addresses quickly and easily.
 icon: paper-plane-top
 layout:
   width: default
@@ -21,13 +20,11 @@ layout:
 
 Distribute your tokens to multiple addresses quickly and easily.
 
-
-
 {% hint style="success" %}
-#### [https://alphecca.io/multi-sender](https://alphecca.io/multi-sender)1
+#### [https://alphecca.io/multi-sender](https://alphecca.io/multi-sender)
 {% endhint %}
 
-### How to Use Multi Sender (One to Many)&#x20;
+## How to Use Multi Sender (One to Many)&#x20;
 
 1. Open the Multi Sender (One to Many) page.
 2. Select the wallet you’ll use to send tokens.\
@@ -37,14 +34,32 @@ Distribute your tokens to multiple addresses quickly and easily.
 4. Import recipient wallet addresses.\
    \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of wallet addresses.\
    \- Or simply paste a list of addresses directly into the input field.
-5. **Click the "Send Tokens" button** to proceed with the transaction
+5. Enter the amount to send\
+   \- You can manually input the amount for each recipient wallet.\
+   \- Or use the **Amount** button to apply a fixed or random amount to all recipients at once.
+6. **Click the "Send Tokens" button** to proceed with the transaction.
+
+
+
+## How Much Does Multi Sender (One to Many) Cost?
+
+The total cost, including the service fee, is calculated **per transaction batch**:
+
+* **Per Batch:**\
+  `Network Gas Fee (0.000005 SOL) + Service Fee`
+* **Maximum addresses per batch:**
+  * **SOL Transfers:** up to **18** addresses
+  * **SPL Token Transfers:** up to **8** addresses
+
+**Example:**\
+&#x20; Sending SOL to 100 wallets\
+&#x20;   → Requires **6 transactions**\
+&#x20;   → **Total Fees:** `6 × (Network Gas Fee + Service Fee)`
 
 
 
 {% hint style="info" %}
-A service fee is charged per transaction. You will **not** be charged for failed transactions.
-{% endhint %}
-
-{% hint style="info" %}
-Alphecca does not store your private keys; they are used solely for local signing on your device.
+NOTE\
+\-  A service fee is charged per transaction. You will **not** be charged for failed transactions.\
+&#x20;\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
 {% endhint %}
