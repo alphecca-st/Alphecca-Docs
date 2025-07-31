@@ -2,7 +2,7 @@
 icon: rocket-launch
 ---
 
-# Bundled Buy
+# Bundled Sell
 
 The Air Drop page is a dApp tool that provides a program for sending tokens to multiple addresses simultaneously.
 

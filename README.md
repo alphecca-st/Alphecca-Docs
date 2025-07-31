@@ -13,7 +13,7 @@ icon: hand-wave
 ## Alphecca Tool Guide
 
 * [Create Token](guide/create-token.md)
-* [Air Drop](guide/air-drop.md)
+* [Air Drop](guide/multi-sender.md)
 * [Revoke Authority](guide/revoke-authority-2.md)
 * [Create Liquidity Pool](guide/create-lp-2.md)
 * [Burn LP Token](guide/burn-lp.md)

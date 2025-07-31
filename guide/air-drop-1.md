@@ -1,8 +1,8 @@
 ---
-icon: merge
+icon: rocket-launch
 ---
 
-# Batch Collection (Many to One)
+# Bundled Buy
 
 The Air Drop page is a dApp tool that provides a program for sending tokens to multiple addresses simultaneously.
 
