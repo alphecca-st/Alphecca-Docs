@@ -13,6 +13,7 @@
 * [New Address Buy (↑Makers)](guide/newaddr-maker.md)
 * [New Address Buy (↑Holders)](guide/newaddr-holder.md)
 * [Recover SOL](guide/recover-rent.md)
+* [Batch Wallet Generation](guide/batch-wallet-generation.md)
 * [Batch Recover SOL](guide/batch-recover-rent.md)
 * [Create Liquidity Pool](guide/create-lp.md)
 * [Burn Liquidity Pool](guide/burn-lp.md)
