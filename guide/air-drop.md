@@ -1,15 +1,31 @@
 ---
 description: Distribute your tokens to multiple addresses quickly and easily.
 icon: paper-plane-top
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Multi Sender (One to Many)
 
+Distribute your tokens to multiple addresses quickly and easily.
+
+
+
 {% hint style="success" %}
 #### [https://alphecca.io/multi-sender](https://alphecca.io/multi-sender)1
 {% endhint %}
-
-###
 
 ### How to Use Multi Sender (One to Many)&#x20;
 
