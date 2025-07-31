@@ -43,7 +43,7 @@ Distribute your tokens to multiple addresses quickly and easily.
 
 The total cost, including the service fee, is calculated **per transaction batch**:
 
-*   **Per Batch:**\
+*   **Per Transaction Batch:**\
     `Network Gas Fee + Service Fee`&#x20;
 
     #### &#x20;\* Network Gas Fee
@@ -59,7 +59,7 @@ The total cost, including the service fee, is calculated **per transaction batch
   &#x20; Sending **SOL** to 100 wallets\
   &#x20;   → Requires **6 transactions**\
   &#x20;   → **Total Fees:** `6 × (Network Gas Fee + Service Fee)`\
-  &#x20;Sending **SPL-Token** to 100 wallets\
+  &#x20; Sending **SPL-Token** to 100 wallets\
   &#x20;   → Requires **13 transactions**\
   &#x20;   → **Total Fees:** `13 × (Network Gas Fee + Service Fee)`
 

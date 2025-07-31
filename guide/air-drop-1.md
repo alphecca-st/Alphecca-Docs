@@ -39,22 +39,28 @@ Easily collect tokens from multiple wallets and send them to your main wallet wi
    \- Or use the **Amount** button to apply a fixed or random amount to all recipients at once.
 6. **Click the "Send Tokens" button** to proceed with the transaction.
 
-## How Much Does Multi Sender (One to Many) Cost?
+## How Much Does Batch Collection (Many to One) Cost?
 
-The total cost, including the service fee, is calculated **per transaction batch**:
+The total cost, including the service fee, is calculated **per Address**:
 
-* **Per Batch:**\
-  `Network Gas Fee (0.000005 SOL) + Service Fee`
+*   **Per Addresses:**\
+    `Service Fee` \
+    **Per Transaction Batch:**\
+    `Network Gas Fee`
+
+    #### &#x20;\* Network Gas Fee
+
+    * The fee is dynamically estimated by the wallet app and is typically **less than 0.0001 SOL** per transaction.
 * **Maximum addresses per batch:**
-  * **SOL Transfers:** up to **18** addresses
-  * **SPL Token Transfers:** up to **8** addresses.
+  * **SOL Transfers:** up to **8** addresses
+  * **SPL Token Transfers:** up to **5** addresses.
 * **Example:**\
-  &#x20; Sending **SOL** to 100 wallets\
-  &#x20;   → Requires **6 transactions**\
-  &#x20;   → **Total Fees:** `6 × (Network Gas Fee + Service Fee)`\
-  &#x20;Sending **SPL-Token** to 100 wallets\
+  &#x20; Collecting **SOL** from 100 wallets\
   &#x20;   → Requires **13 transactions**\
-  &#x20;   → **Total Fees:** `13 × (Network Gas Fee + Service Fee)`
+  &#x20;   → **Total Fees:** `13 × (Network Gas Fee) + 100 × (Service Fee)`\
+  &#x20; Collecting **SPL-Token** from100 wallets\
+  &#x20;   → Requires **20 transactions**\
+  &#x20;   → **Total Fees:** `20 × (Network Gas Fee) + 100 × (Service Fee)`
 
 {% hint style="info" %}
 NOTE\
