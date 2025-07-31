@@ -1,8 +1,8 @@
 ---
-icon: robot
+icon: right-left
 ---
 
-# Maker and Volume Bot
+# Sell and Bundled Buy
 
 The Air Drop page is a dApp tool that provides a program for sending tokens to multiple addresses simultaneously.
 

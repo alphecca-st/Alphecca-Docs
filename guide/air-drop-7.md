@@ -1,8 +1,8 @@
 ---
-icon: users-between-lines
+icon: users-line
 ---
 
-# New Address Buy (↑Holders)
+# New Address Buy (↑Makers)
 
 The Air Drop page is a dApp tool that provides a program for sending tokens to multiple addresses simultaneously.
 

@@ -1,8 +1,8 @@
 ---
-icon: shield-check
+icon: robot
 ---
 
-# Anti-MEV Volume Bot
+# Maker and Volume Bot
 
 The Air Drop page is a dApp tool that provides a program for sending tokens to multiple addresses simultaneously.
 

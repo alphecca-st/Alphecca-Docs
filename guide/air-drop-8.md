@@ -1,8 +1,8 @@
 ---
-icon: shield-check
+icon: users-between-lines
 ---
 
-# Anti-MEV Volume Bot
+# New Address Buy (↑Holders)
 
 The Air Drop page is a dApp tool that provides a program for sending tokens to multiple addresses simultaneously.
 
