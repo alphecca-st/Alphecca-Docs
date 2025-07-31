@@ -14,8 +14,8 @@ icon: hand-wave
 
 * [Create Token](guide/create-token.md)
 * [Air Drop](guide/air-drop.md)
-* [Revoke Authority](guide/revoke-authority.md)
-* [Create Liquidity Pool](guide/create-lp.md)
+* [Revoke Authority](guide/revoke-authority-2.md)
+* [Create Liquidity Pool](guide/create-lp-2.md)
 * [Burn LP Token](guide/burn-lp.md)
 * [Remove Liquidity](guide/remove-lp.md)
 

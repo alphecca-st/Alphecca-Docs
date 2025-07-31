@@ -1,8 +1,8 @@
 ---
-icon: coins
+icon: arrows-retweet
 ---
 
-# Token Mint
+# Update Metadata
 
 The Revoke Authority page is a dApp tool that allows you to revoke the Freeze Mint Update authority.
 

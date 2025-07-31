@@ -1,8 +1,8 @@
 ---
-icon: clipboard-medical
+icon: landmark-magnifying-glass
 ---
 
-# Recover SOL
+# Batch Recover SOL
 
 The Create Liquidity Pool page is a dApp tool that allows you to create a liquidity pool based on Raydium's CPMM model.
 

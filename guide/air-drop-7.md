@@ -1,12 +1,10 @@
 ---
-icon: paper-plane-top
+icon: users-line
 ---
 
-# MultiSender (One to Many)
+# New Address Buy (↑Makers)
 
-{% hint style="success" %}
-#### [https://alphecca.io/multi-sender](https://alphecca.io/multi-sender)
-{% endhint %}
+The Air Drop page is a dApp tool that provides a program for sending tokens to multiple addresses simultaneously.
 
 <figure><img src="../.gitbook/assets/air_drop.png" alt=""><figcaption></figcaption></figure>
 
