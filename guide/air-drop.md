@@ -39,14 +39,19 @@ Distribute your tokens to multiple addresses quickly and easily.
    \- Or use the **Amount** button to apply a fixed or random amount to all recipients at once.
 6. **Click the "Send Tokens" button** to proceed with the transaction.
 
-
-
 ## How Much Does Multi Sender (One to Many) Cost?
 
 The total cost, including the service fee, is calculated **per transaction batch**:
 
-* **Per Batch:**\
-  `Network Gas Fee (0.000005 SOL) + Service Fee`
+*   **Per Batch:**\
+    `Network Gas Fee + Service Fee`&#x20;
+
+    #### &#x20;\* Network Gas Fee
+
+    * **Connected Wallets** (e.g. via wallet apps like Phantom):\
+      The fee is dynamically estimated by the wallet app and is typically **less than 0.0001 SOL** per transaction.
+    * **Other Wallets** (manual private key input):\
+      A fixed fee of **0.000005 SOL** is applied per transaction, with **no priority fee**.
 * **Maximum addresses per batch:**
   * **SOL Transfers:** up to **18** addresses
   * **SPL Token Transfers:** up to **8** addresses.
@@ -57,10 +62,6 @@ The total cost, including the service fee, is calculated **per transaction batch
   &#x20;Sending **SPL-Token** to 100 wallets\
   &#x20;   → Requires **13 transactions**\
   &#x20;   → **Total Fees:** `13 × (Network Gas Fee + Service Fee)`
-
-
-
-
 
 {% hint style="info" %}
 NOTE\
