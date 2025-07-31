@@ -49,12 +49,16 @@ The total cost, including the service fee, is calculated **per transaction batch
   `Network Gas Fee (0.000005 SOL) + Service Fee`
 * **Maximum addresses per batch:**
   * **SOL Transfers:** up to **18** addresses
-  * **SPL Token Transfers:** up to **8** addresses
+  * **SPL Token Transfers:** up to **8** addresses.
+* **Example:**\
+  &#x20; Sending **SOL** to 100 wallets\
+  &#x20;   → Requires **6 transactions**\
+  &#x20;   → **Total Fees:** `6 × (Network Gas Fee + Service Fee)`\
+  &#x20;Sending **SPL-Token** to 100 wallets\
+  &#x20;   → Requires **13 transactions**\
+  &#x20;   → **Total Fees:** `13 × (Network Gas Fee + Service Fee)`
 
-**Example:**\
-&#x20; Sending SOL to 100 wallets\
-&#x20;   → Requires **6 transactions**\
-&#x20;   → **Total Fees:** `6 × (Network Gas Fee + Service Fee)`
+
 
 
 
