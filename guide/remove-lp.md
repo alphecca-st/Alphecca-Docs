@@ -1,26 +1,36 @@
 ---
 icon: trash-can-xmark
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Remove Liquidity Pool
 
-The Remove Liquidity Pool page is a dApp tool that allows you to remove liquidity from a pool on the Alphecca platform.
+**Withdraw liquidity and remove your token’s LP.**
 
-<figure><img src="../.gitbook/assets/remove_lp.png" alt=""><figcaption></figcaption></figure>
+{% hint style="success" %}
+#### [https://alphecca.io/remove-lp](https://alphecca.io/renive-lp)
+{% endhint %}
 
-## ## Steps to Remove LP
+## How to Use Burn Liquidity Pool?&#x20;
 
-### 1. Connect Your Wallet
+1. Click the **Connect Wallet** button in the top-right corner to connect.
+2. Enter the **token mint address** for the liquidity pool removal.
+3. Select or Input the amount of LP tokens to remove.
+4. Click the **Remove LP button** and approve the transaction in your wallet app.
 
-* Supported wallets : Phantom, Solfare
+## What is the purpose of Remove LP?
 
-### 2. Select your LP token mint address.
-
-* You don’t need to know the address. Our platform integrates with your connected wallet to retrieve all your LP token mint addresses automatically.
-
-### 3. Enter the amount of LP tokens to remove.
-
-* You don’t need to know the removeable amount. Our platform retrieves the total balance of the selected LP token. Use the scrollbar or the 25%, 50%, 75%, 100% buttons on the right to adjust.
-* After entering the amount, you can check the amount of SOL and tokens to be withdrawn from the liquidity pool.
-
-### 4. Click the "RemoveLP" button and approve the transaction in your wallet app
+Removing liquidity means withdrawing the SOL and tokens remaining in the liquidity pool that correspond to your share. By redeeming (removing) your LP tokens, you reclaim your contributed assets from the pool. This process is essentially the withdrawal of funds that were previously supplied as liquidity.

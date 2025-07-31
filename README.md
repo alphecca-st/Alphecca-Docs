@@ -18,40 +18,35 @@ layout:
 
 # Create Token
 
-The Create Token page is a dApp tool that allows you to create your custom SPL token without coding.
+**Launch your own Solana token instantly — no coding required.**
 
-<figure><img src=".gitbook/assets/create_token.png" alt=""><figcaption></figcaption></figure>
+{% hint style="success" %}
+#### [https://alphecca.io/create-token](https://alphecca.io/create-token)
+{% endhint %}
 
-## ## Steps to Create Token
+## How to Use Create Token?&#x20;
 
-### 1. Connect Your Wallet.
+1. Click the **Connect Wallet** button in the top-right corner to connect.
+2. Enter the required fields:
+   * **Image:** The image for the token, which must not exceed 1.5 MB.
+   * **Name:** The full name of the token.
+   * **Symbol:** The token’s abbreviation.
+   * **Description:** A description of the token.
+   * **Supply:** The total supply of tokens to be issued.
+   * **Decimals:** The token’s decimal precision.
+3. (Optional) Enter the **Social Links**:\
+   \- Website, Discord, Twitter, Telegram
+4. (Optional) Set **Revoke Authorities**\
+   \- For tokens intended to be listed on Raydium, it is generally recommended to **revoke freeze** and **mint** permissions.\
+   \- The metadata update permission can be set according to your preference.\
+   \- If metadata update permission is revoked, the token’s name and logo **cannot be changed** afterward.
+5. Click the **Create Token button** and approve the transaction in your wallet app.
 
-* Supported wallets : Phantom, Solfare
+## How Much Does Multi Sender (One to Many) Cost?
 
-### 2. Select an image for your token.
+In addition to the Service Fees, approximately **0.019 SOL** in extra costs will be incurred.\
+These cover token **ATA creation fees**, **minting fees**, **metadata fees**, and other related expenses.
 
-* Most tokens use a 1 : 1 image ratio. If not, the central 1 : 1 portion will be displayed.
+## Can I trade the token immediately after creation?
 
-### 3. Enter the name of your token.
-
-### 4. Enter the symbol of your token.
-
-### 5. Enter a description for your token.
-
-### 6. Enter the decimals for your token.
-
-* Most tokens use 6 - 9 decimals
-
-### 7. Enter the supply amount.
-
-### 8. \*\*Optional\*\* Add social links for your token.
-
-* Website, Twitter, Telegram, Discord
-
-### 9. \*\*Optional\*\* Add token creator information.
-
-* By default : it shows an Alphecca.
-
-### 10. \*\*Optional\*\* Choose to Revoke Authority.
-
-### 11. Click the "Create Token" button and approve the transaction in your wallet app.
+No. After creating the token, you need to create a liquidity pool to enable trading. Please use Alphecca’s **Create Liquidity Pool** page to set this up.

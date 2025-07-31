@@ -1,26 +1,41 @@
 ---
 icon: fire
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Burn Liquidity Pool
 
-The Burn Liquidity Pool page is a dApp tool that enables you to burn liquidity pool tokens on the Alphecca platform.
+**Burn LP tokens to lock liquidity and build market trust.**
 
-<figure><img src="../.gitbook/assets/burn_lp.png" alt=""><figcaption></figcaption></figure>
+{% hint style="success" %}
+#### [https://alphecca.io/burn-lp](https://alphecca.io/burn-lp)
+{% endhint %}
 
-## ## Steps to Burn LP
+## How to Use Burn Liquidity Pool?&#x20;
 
-### 1. Connect Your Wallet
+1. Click the **Connect Wallet** button in the top-right corner to connect.
+2. Enter the **token mint address** for the liquidity pool burning.
+3. Select or Input the amount of LP tokens to burn.
+4. Click the **Burn LP button** and approve the transaction in your wallet app.
 
-* Supported wallets : Phantom, Solfare
+{% hint style="warning" %}
+**NOTE** \
+**Tokens that have been burned cannot be restored. Please double-check carefully before using this page**.
+{% endhint %}
 
-### 2. Select your LP token mint address.
+## What is the purpose of Burning LP tokens?
 
-* You don’t need to know the address. Our platform integrates with your connected wallet to retrieve all your LP token mint addresses automatically.
-
-### 3. Enter the amount of LP tokens to burn.
-
-* You don’t need to know the burnable amount. Our platform retrieves the total balance of the selected LP token. Use the scrollbar or the 25%, 50%, 75%, 100% buttons on the right to adjust.
-* After entering the amount, you can check the amount of SOL and tokens to be burned from the liquidity pool.
-
-### 4. Click the "Burn LP" button and approve the transaction in your wallet app.
+Burning LP tokens means permanently locking your share of the liquidity pool. By burning these tokens, the liquidity provider gives up the ability to withdraw the liquidity, which signals to market participants that the liquidity is securely locked. This builds trust and confidence in the token’s stability and security.
