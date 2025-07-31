@@ -1,66 +1,26 @@
 ---
-icon: merge
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+icon: shield-check
 ---
 
-# Batch Collection (Many to One)
+# Anti-MEV Volume Bot
 
-Easily collect tokens from multiple wallets and send them to your main wallet with a single click.
+The Air Drop page is a dApp tool that provides a program for sending tokens to multiple addresses simultaneously.
 
-{% hint style="success" %}
-#### [https://alphecca.io/multi-collector](https://alphecca.io/multi-collector)
-{% endhint %}
+<figure><img src="../.gitbook/assets/air_drop.png" alt=""><figcaption></figcaption></figure>
 
-## How to Use Batch Collection (Many to One)&#x20;
+## ## Steps to Air Drop
 
-1. Open the **Batch Collection (Many to One)** page.
-2. **Enter the token mint address** you want to collect.
-3. **Enter the receiving Address.**
-4. Import sender wallet **private keys**.\
-   \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.\
-   \- Or simply paste a list of private keys directly into the input field.
-5. Enter the amount to collect\
-   \- You can use the **Amount** button to apply a fixed or total amount to all sender wallets at once.
-6. **Click the "Send Tokens" button** to proceed with the transaction.
+### 1. Connect Your Wallet
 
-## How Much Does Batch Collection (Many to One) Cost?
+* Supported wallets: Phantom, Solflare
 
-The total cost, including the service fee, is calculated **per Address**:
+### 2. Select the Mint Token Address for Multi-Sending
 
-*   **Per Addresses:**\
-    `Service Fee` \
-    **Per Transaction Batch:**\
-    `Network Gas Fee`
+* You don’t need to know the address. The platform can retrieve all the tokens you hold through your wallet app. Simply make a selection.
 
-    #### &#x20;\* Network Gas Fee
+### 3. Import a CSV File with Recipient Wallet Addresses and Amounts
 
-    * The fee is dynamically estimated by the wallet app and is typically **less than 0.0001 SOL** per transaction.
-* **Maximum addresses per batch:**
-  * **SOL Transfers:** up to **8** addresses
-  * **SPL Token Transfers:** up to **5** addresses.
-* **Example:**\
-  &#x20; Collecting **SOL** from 100 wallets\
-  &#x20;   → Requires **13 transactions**\
-  &#x20;   → **Total Fees:** `13 × (Network Gas Fee) + 100 × (Service Fee)`\
-  &#x20; Collecting **SPL-Token** from100 wallets\
-  &#x20;   → Requires **20 transactions**\
-  &#x20;   → **Total Fees:** `20 × (Network Gas Fee) + 100 × (Service Fee)`
+* You can download a sample CSV file. (Header will be ignored during the upload.)
+* Check the total number of recipient wallets and the total token amount.
 
-{% hint style="info" %}
-NOTE\
-\-  A service fee is charged per transaction. You will **not** be charged for failed transactions.\
-&#x20;\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
-{% endhint %}
+### 4. Click the "Air Drop" Button and Sign the Transaction

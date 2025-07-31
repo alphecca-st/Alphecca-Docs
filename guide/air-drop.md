@@ -24,7 +24,7 @@ Distribute your tokens to multiple addresses quickly and easily.
 #### [https://alphecca.io/multi-sender](https://alphecca.io/multi-sender)
 {% endhint %}
 
-## How to Use Multi Sender (One to Many)&#x20;
+## How to Use Multi Sender (One to Many)?&#x20;
 
 1. Open the Multi Sender (One to Many) page.
 2. **Enter the token mint address** you want to send.
@@ -38,6 +38,13 @@ Distribute your tokens to multiple addresses quickly and easily.
    \- You can manually input the amount for each recipient wallet.\
    \- Or use the **Amount** button to apply a fixed or random amount to all recipients at once.
 6. **Click the "Send Tokens" button** to proceed with the transaction.
+
+{% hint style="info" %}
+NOTE\
+\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.\
+\- All Service Fees and Network Gas Fees are charged from the sender wallets.\
+\- You will **not** be charged for failed transactions.
+{% endhint %}
 
 ## How Much Does Multi Sender (One to Many) Cost?
 
@@ -62,9 +69,3 @@ The total cost, including the service fee, is calculated **per transaction batch
   &#x20; Sending **SPL-Token** to 100 wallets\
   &#x20;   → Requires **13 transactions**\
   &#x20;   → **Total Fees:** `13 × (Network Gas Fee + Service Fee)`
-
-{% hint style="info" %}
-NOTE\
-\-  A service fee is charged per transaction. You will **not** be charged for failed transactions.\
-&#x20;\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
-{% endhint %}

@@ -1,0 +1,48 @@
+---
+icon: rocket-launch
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
+# Bundled Sell
+
+Sell from multiple wallets in one block to secure profits and protect against sandwich attacks.
+
+{% hint style="success" %}
+#### [https://alphecca.io/bundle-sell](https://alphecca.io/bundle-sell)
+{% endhint %}
+
+## How to Use Bundled Sell?&#x20;
+
+1. Open the **Bundled Sell** page.
+2. **Enter the token mint address** you want to buy.
+3. Import selling wallet **private keys**.\
+   \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.\
+   \- Or simply paste a list of private keys directly into the input field.
+4. Select wallets for bundled sell.\
+   \- You can select up to **29 wallets.**
+5. Select the amount to sell.\
+   \- You can use the **Amount** button to apply amount to all selling wallets at once.\
+   \- Among the selected wallets, the one with the highest SOL balance must be **at least** **0.003 SOL + Service Fees + Jito Tip**.
+6. Select or Enter the Jito Tip\
+   \- Jito Tip must be **at least 0.000001 SOL**
+7. **Click the "Bundled Sell" button** to proceed with the transaction.
+
+{% hint style="info" %}
+NOTE\
+\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.\
+\- Jito Tip, All Transaction Gas Fees and Service Fees are paid from the wallet with the highest Solana balance of the selected wallets.\
+\- You will **not** be charged for failed transactions.
+{% endhint %}
