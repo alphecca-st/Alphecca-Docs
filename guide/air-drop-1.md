@@ -26,17 +26,14 @@ Easily collect tokens from multiple wallets and send them to your main wallet wi
 
 ## How to Use Batch Collection (Many to One)&#x20;
 
-1. Open the Batch Collection (Many to One) page.
-2. Select the wallet you’ll use to send tokens.\
-   \- If you're using a wallet extension like Phantom, choose **Connected Wallet** and click the **Connect Wallet** button in the top-right corner to connect.\
-   \- If you'd rather input your private key manually, choose **Other Wallet** and enter your key directly.
-3. **Enter the token mint address** you want to collect.
-4. Import recipient wallet addresses.\
-   \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of wallet addresses.\
-   \- Or simply paste a list of addresses directly into the input field.
-5. Enter the amount to send\
-   \- You can manually input the amount for each recipient wallet.\
-   \- Or use the **Amount** button to apply a fixed or random amount to all recipients at once.
+1. Open the **Batch Collection (Many to One)** page.
+2. **Enter the token mint address** you want to collect.
+3. **Enter the receiving Address.**
+4. Import sender wallet **private keys**.\
+   \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.\
+   \- Or simply paste a list of private keys directly into the input field.
+5. Enter the amount to collect\
+   \- You can use the **Amount** button to apply a fixed or total amount to all sender wallets at once.
 6. **Click the "Send Tokens" button** to proceed with the transaction.
 
 ## How Much Does Batch Collection (Many to One) Cost?

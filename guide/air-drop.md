@@ -27,10 +27,10 @@ Distribute your tokens to multiple addresses quickly and easily.
 ## How to Use Multi Sender (One to Many)&#x20;
 
 1. Open the Multi Sender (One to Many) page.
-2. Select the wallet you’ll use to send tokens.\
+2. **Enter the token mint address** you want to send.
+3. Select the wallet you’ll use to send tokens.\
    \- If you're using a wallet extension like Phantom, choose **Connected Wallet** and click the **Connect Wallet** button in the top-right corner to connect.\
    \- If you'd rather input your private key manually, choose **Other Wallet** and enter your key directly.
-3. **Enter the token mint address** you want to send.
 4. Import recipient wallet addresses.\
    \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of wallet addresses.\
    \- Or simply paste a list of addresses directly into the input field.
