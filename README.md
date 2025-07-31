@@ -1,12 +1,26 @@
 ---
 icon: coin-front
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Create Token
 
 The Create Token page is a dApp tool that allows you to create your custom SPL token without coding.
 
-<figure><img src="../.gitbook/assets/create_token.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/create_token.png" alt=""><figcaption></figcaption></figure>
 
 ## ## Steps to Create Token
 

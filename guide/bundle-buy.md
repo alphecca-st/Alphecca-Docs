@@ -18,7 +18,7 @@ layout:
 
 # Bundled Buy
 
-Buy tokens using multiple wallets in a single block to push price momentum and maximize gains.
+**Buy tokens using multiple wallets in a single block to push price momentum and maximize gains.**
 
 {% hint style="success" %}
 #### [https://alphecca.io/bundle-buy](https://alphecca.io/bundle-buy)
@@ -36,7 +36,7 @@ Buy tokens using multiple wallets in a single block to push price momentum and m
 5. Enter the amount to buy.\
    \- You can manually enter the amount of SOL for each buying wallet.\
    \- Or use the **Amount** button to apply a fixed or total amount to all buying wallets at once.\
-   \- Each buying wallet's SOL balance must be **at least** **Buying Amount + 0.005 SOL**, and among the selected wallets, the one with the highest SOL balance must be **at least** **Buying Amount + 0.005 SOL + Service Fees + Jito Tip**.
+   \- Each buying wallet's SOL balance must be **at least** **Buying Amount + 0.005 SOL**, and among the selected wallets, the one with the highest SOL balance must be **at least** **Buying Amount + 0.005 SOL + Total Service Fees + Jito Tip**.
 6. Select or Enter the Jito Tip\
    \- Jito Tip must be **at least 0.000001 SOL**
 7. (Optional) Enter a specified address to receive purchased tokens:\
@@ -45,9 +45,20 @@ Buy tokens using multiple wallets in a single block to push price momentum and m
 8. **Click the "Bundled Buy" button** to proceed with the transaction.
 
 {% hint style="info" %}
-NOTE\
+**NOTE**\
 \- Alphecca does **not** store your private keys; they are used solely for local signing on your device.\
 \- Jito Tip and Service Fees are paid from the wallet with the highest Solana balance of the selected wallets.\
-\- You will **not** be charged for failed transactions.
+\- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 
+## What is the purpose of Bundled Buy?
+
+Bundled Buy is a powerful tool designed to safely increase the token price by generating coordinated buy orders. It helps create strong and sustained upward price momentum while minimizing risks such as front-running, sandwich attacks, and price manipulation.
+
+## What is a sandwich attack?
+
+A sandwich attack is a malicious technique where an attacker performs front-running by inserting transactions immediately before and after a user's trade order—buying before and selling after—to manipulate the price and profit from the price difference. This usually occurs on decentralized exchanges (DEXs) and exploits the slippage in transaction prices.
+
+## Can the Bundled Buy completely prevent sandwich attacks?
+
+The Bundled Buy uses Jito technology to execute multiple buy orders **within the same block**, enabling it to **completely prevent** sandwich attacks.

@@ -18,7 +18,7 @@ layout:
 
 # Maker and Volume Bot
 
-Sell from multiple wallets in one block to secure profits and protect against sandwich attacks.
+**Sell from multiple wallets in one block to secure profits and protect against sandwich attacks.**
 
 {% hint style="success" %}
 #### [https://alphecca.io/market-maker](https://alphecca.io/bundle-sell-buy)
@@ -29,7 +29,7 @@ Sell from multiple wallets in one block to secure profits and protect against sa
 1. Open the **Maker and Volume Bot** page.
 2. Select Bot type.
 3. **Enter the token mint address** to run the bot on.
-4. Input the **number of makers** to create.\
+4. Input the **number of makers** to generate.\
    \- Maximum: 9,000 makers
 5. Choose Selling Amount.
 6.  For **Boost Bot:**
@@ -47,7 +47,7 @@ Sell from multiple wallets in one block to secure profits and protect against sa
 9. You can monitor the progress of the bot cycle through the **Bot Logs**.
 
 {% hint style="info" %}
-NOTE\
+**NOTE**\
 \- If liquidity is removed during the bot cycle, the bot may stop operating. In this case, any remaining SOL will be sent back to the paying wallet within 60 minutes.\
 \- The bot will continue running even if you close or refresh the page.
 {% endhint %}
@@ -66,8 +66,8 @@ Alphecca automatically calculates the token’s swap fee rate and determines the
 Afterwards, the server automatically executes buy, sell, and close operations for each maker. Once the entire bot cycle finishes, the SOL used for volume generation is returned to the paying wallet, and the bot cycle ends.
 
 {% hint style="info" %}
-NOTE\
-\- For Pump bots, the tokens swapped with SOL are sent to the paying wallet for each maker to support price movement.
+**NOTE**\
+\- For Bump bots, the tokens swapped with SOL are sent to the paying wallet for each maker to support price movement.
 {% endhint %}
 
 ## Can I Use the Bot with Zero Priority Fee?

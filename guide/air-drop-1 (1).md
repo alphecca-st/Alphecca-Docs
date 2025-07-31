@@ -18,7 +18,7 @@ layout:
 
 # Batch Collection (Many to One)
 
-Easily collect tokens from multiple wallets and send them to your main wallet with a single click.
+**Easily collect tokens from multiple wallets and send them to your main wallet with a single click.**
 
 {% hint style="success" %}
 #### [https://alphecca.io/multi-collector](https://alphecca.io/multi-collector)
@@ -27,20 +27,21 @@ Easily collect tokens from multiple wallets and send them to your main wallet wi
 ## How to Use Batch Collection (Many to One)?&#x20;
 
 1. Open the **Batch Collection (Many to One)** page.
-2. **Enter the token mint address** you want to collect.
-3. **Enter the receiving Address.**
-4. Import sender wallet **private keys**.\
+2. Click the **Connect Wallet** button in the top-right corner to connect.
+3. **Enter the token mint address** you want to collect.
+4. **Enter the receiving Address.**
+5. Import sender wallet **private keys**.\
    \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.\
    \- Or simply paste a list of private keys directly into the input field.
-5. Enter the amount to collect\
+6. Enter the amount to collect\
    \- You can use the **Amount** button to apply a fixed or total amount to all sender wallets at once.
-6. **Click the "Collect Tokens" button** to proceed with the transaction.
+7. **Click the "Collect Tokens" button** to proceed with the transaction.
 
 {% hint style="info" %}
-NOTE\
+**NOTE**\
 \- Alphecca does **not** store your private keys; they are used solely for local signing on your device.\
 \- All Service Fees and Network Gas Fees are charged from the connected wallet.\
-\- You will **not** be charged for failed transactions.
+\- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 
 ## How Much Does Batch Collection (Many to One) Cost?
@@ -65,3 +66,7 @@ The total cost, including the service fee, is calculated **per Address**:
   &#x20; Collecting **SPL-Token** from100 wallets\
   &#x20;   → Requires **20 transactions**\
   &#x20;   → **Total Fees:** `20 × (Network Gas Fee) + 100 × (Service Fee)`
+
+## Can tokens be collected even if the sender wallet’s SOL balance is zero?
+
+Yes, it is possible. All service fees and network gas fees are charged to the connected wallet.
