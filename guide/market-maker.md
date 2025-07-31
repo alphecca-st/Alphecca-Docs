@@ -44,7 +44,7 @@ Sell from multiple wallets in one block to secure profits and protect against sa
 
 ## How Does the Bot Work?
 
-Alphecca automatically calculates the token’s swap fee rate and determines the optimized cost required for the requested bot cycle. It calculates the swap fees, network gas fees, and the SOL needed to generate volume, then sends this information to the client via the wallet app.
+Alphecca automatically calculates the token’s swap fee rate and determines the optimized cost required for the requested bot cycle. It calculates the swap fees, network gas fees, and the SOL needed to generate volume, then collects payment from the client through the wallet app.
 
 After that, the server automatically executes a sequence of buy, sell, and close actions for each maker. Once the entire bot cycle is complete, the SOL used for volume generation is returned to the paying wallet, and the bot cycle ends.
 
