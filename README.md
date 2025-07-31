@@ -42,7 +42,7 @@ layout:
    \- If metadata update permission is revoked, the token’s name and logo **cannot be changed** afterward.
 5. Click the **Create Token button** and approve the transaction in your wallet app.
 
-## How Much Does Multi Sender (One to Many) Cost?
+## How Much Does Create Token Cost?
 
 In addition to the Service Fees, approximately **0.019 SOL** in extra costs will be incurred.\
 These cover token **ATA creation fees**, **minting fees**, **metadata fees**, and other related expenses.
