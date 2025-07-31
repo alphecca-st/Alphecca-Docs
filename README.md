@@ -1,24 +1,43 @@
 ---
-icon: hand-wave
+icon: coin-front
 ---
 
-# Welcome to Alphecca
+# Create Token
 
-**Alphecca** is a decentralized platform on the Solana blockchain, simplifying token management and liquidity operations without coding. As a dApp, it uses smart contracts to provide tools like token creation, airdrops, authority revocation, liquidity pool creation, LP token burning, and liquidity removal. Users can interact with the blockchain using wallets like Phantom or Solflare for secure and efficient transactions.
+The Create Token page is a dApp tool that allows you to create your custom SPL token without coding.
 
-## Alphecca Tool Guide
+<figure><img src="../.gitbook/assets/create_token.png" alt=""><figcaption></figcaption></figure>
 
-* [Contact](info/contact.md)
+## ## Steps to Create Token
 
-## Alphecca Tool Guide
+### 1. Connect Your Wallet.
 
-* [Create Token](guide/create-token.md)
-* [Air Drop](guide/air-drop.md)
-* [Revoke Authority](guide/revoke-authority-2.md)
-* [Create Liquidity Pool](guide/create-lp-2.md)
-* [Burn LP Token](guide/burn-lp.md)
-* [Remove Liquidity](guide/remove-lp.md)
+* Supported wallets : Phantom, Solfare
 
-## Frequently Asked Questions
+### 2. Select an image for your token.
 
-* [Troubleshooting](faq/troubleshooting.md)
+* Most tokens use a 1 : 1 image ratio. If not, the central 1 : 1 portion will be displayed.
+
+### 3. Enter the name of your token.
+
+### 4. Enter the symbol of your token.
+
+### 5. Enter a description for your token.
+
+### 6. Enter the decimals for your token.
+
+* Most tokens use 6 - 9 decimals
+
+### 7. Enter the supply amount.
+
+### 8. \*\*Optional\*\* Add social links for your token.
+
+* Website, Twitter, Telegram, Discord
+
+### 9. \*\*Optional\*\* Add token creator information.
+
+* By default : it shows an Alphecca.
+
+### 10. \*\*Optional\*\* Choose to Revoke Authority.
+
+### 11. Click the "Create Token" button and approve the transaction in your wallet app.
