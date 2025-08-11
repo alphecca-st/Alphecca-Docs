@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Batch Recover SOL
+# Batch Reclaim ATA
 
 **Burn tokens and close multiple wallets in one click to reclaim SOL rent efficiently.**
 
@@ -24,9 +24,9 @@ layout:
 #### [https://alphecca.io/batch-recover-rent](https://alphecca.io/batch-recover-rent)
 {% endhint %}
 
-## How to Use Batch **Recover SOL**?&#x20;
+## How to Use Batch **Reclaim ATA**?&#x20;
 
-1. Open the **Batch Recover SOL** page.
+1. Open the **Batch Reclaim ATA** page.
 2. Import reclaim wallet **private keys**.\
    \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.\
    \- Or simply paste a list of private keys directly into the input field.
@@ -51,7 +51,7 @@ layout:
 **Tokens that have been burned cannot be restored. Please double-check carefully before using this page**.
 {% endhint %}
 
-## What is the purpose of the Batch Recover SOL page?
+## What is the purpose of the Batch **Reclaim ATA** page?
 
 To hold tokens in any Solana wallet, an **ATA (Associated Token Account)** address for that token is required. Creating this ATA incurs a rent fee of **0.00203928 SOL**. Even when the token balance reaches zero, the ATA account is not automatically deleted.
 

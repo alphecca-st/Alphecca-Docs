@@ -3,8 +3,13 @@
 ## Alphecca Tool Guide <a href="#guide" id="guide"></a>
 
 * [Create Token](README.md)
+* [SWAP](guide/swap.md)
 * [Multi Sender (One to Many)](guide/air-drop.md)
 * [Batch Collection (Many to One)](<guide/air-drop-1 (1).md>)
+* [Reclaim ATA](guide/recover-rent.md)
+* [Batch Reclaim ATA](guide/batch-recover-rent.md)
+* [Reclaim Pump PDA](guide/pump-recover-rent.md)
+* [Batch Pump Reclaim PDA](guide/batch-pump-recover-rent.md)
 * [Bundled Buy](guide/bundle-buy.md)
 * [Bundled Sell](guide/bundle-sell.md)
 * [Sell and Bundled Buy](guide/bundle-sell-buy.md)
@@ -13,8 +18,6 @@
 * [New Address Buy (↑Makers)](guide/newaddr-maker.md)
 * [New Address Buy (↑Holders)](guide/newaddr-holder.md)
 * [Batch Wallet Generation](guide/batch-wallet-generation.md)
-* [Recover SOL](guide/recover-rent.md)
-* [Batch Recover SOL](guide/batch-recover-rent.md)
 * [Create Liquidity Pool](guide/create-lp.md)
 * [Burn Liquidity Pool](guide/burn-lp.md)
 * [Remove Liquidity Pool](guide/remove-lp.md)

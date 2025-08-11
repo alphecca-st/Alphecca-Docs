@@ -1,5 +1,5 @@
 ---
-icon: right-left
+icon: shuffle
 layout:
   width: default
   title:
