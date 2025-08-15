@@ -24,7 +24,7 @@ layout:
 #### [https://alphecca.io/bundle-sell-buy](https://alphecca.io/bundle-sell-buy)
 {% endhint %}
 
-## How to Use Bundled Sell?&#x20;
+## How to Use **Sell and Bundled Buy**?&#x20;
 
 1. Open the **Sell and Bundled Buy** page.
 2. **Enter the token mint address** you want to sell and bundled buy.
