@@ -53,7 +53,7 @@ layout:
     * **Slippage Setting (%):** Choose the slippage tolerance (%) for swap transactions. _AUTO_ is recommended for higher success rates.
     * **Jito MEV Tip (SOL):** This priority fee is paid to Jito to protect against front-running. If transaction success is low, you may set it to _ZERO_ to send normal transactions instead.
     * _**(Optional) Termination Conditions** — The bot will stop automatically if any of the following are met:_
-      * **Target Price Change (%):Target Price Change (%):** If the price falls below the specified % from the initial price. _For example, if you enter 30, the bot will automatically stop once the price decreases by 30% from the starting point._
+      * **Target Price Change (%):** If the price falls below the specified % from the initial price. _For example, if you enter 30, the bot will automatically stop once the price decreases by 30% from the starting point._
       * **Running Duration (minutes):** The bot stops after the specified time has elapsed.
       * **Total Maximum Transaction Amount (Token):** The bot stops once the total accumulated sell volume exceeds this limit.\
         \
