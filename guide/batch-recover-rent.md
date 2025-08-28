@@ -41,13 +41,16 @@ layout:
 7. **Click the "Recover Rent" button** to proceed with the transactions.
 
 {% hint style="info" %}
-**NOTE**\
-\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.\
+**NOTE**
+
+\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
+
 \- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 
 {% hint style="warning" %}
-**NOTE** \
+**NOTE**&#x20;
+
 **Tokens that have been burned cannot be restored. Please double-check carefully before using this page**.
 {% endhint %}
 

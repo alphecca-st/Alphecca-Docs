@@ -34,6 +34,7 @@ Swap SPL tokens quickly, cheaply, and easily.
 6. Click the **SWAP button** and approve the transaction in your wallet app.
 
 {% hint style="info" %}
-**NOTE**\
+**NOTE**
+
 \- SPL Token – A transaction can only be made if a liquidity pool exists for SOL, USDT, or USDC. If a liquidity pool is available, the SWAP button will be enabled.
 {% endhint %}

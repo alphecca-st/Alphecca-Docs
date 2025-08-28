@@ -26,8 +26,13 @@ layout:
 
 ## How to Use **New Address Buy (↑Holders)**?&#x20;
 
+### Why Use a New Address Instead of an Existing Wallet?
+
+Using a new address ensures that the increase in holder count is genuine and not merely an adjustment to existing accounts. This approach reduces the risk of centralization and enhances the perception of a legitimate, active community supporting the token, which is crucial for attracting investors and increasing token credibility.
+
 1. Open the **New Address Buy (↑Holders)** page.
-2. **Enter the token mint address** to run the holder bot on.
+2. **Enter the token mint address** to run the holder bot on.\
+   \- **SPL 2022 Program** Token Cannot be Processed.
 3. Enter the private key of the wallet that will pay for the service fees, network gas fees and Jito tip.\
    \- The SOL balance of the payment wallet must be greater than\
    **maker count × (Buying Amount + Service Fees + Jito Tip + 0.00001 SOL) + 0.005 SOL.**
@@ -36,16 +41,19 @@ layout:
    \- The wallet's public and private key pair will be automatically downloaded.\
    \- **Keep this file safe — you will need it to collect the purchased tokens or reclaim ATA rent fees after the project ends.**
 6. Enter the buying amount per holder\
-   \- buying amount must be **at least 0.0000001 SOL**
+   \- buying amount must be **at least 0.00001 SOL**
 7. Select or Enter the Jito Tip\
    \- Jito Tip must be **at least 0.000001 SOL**
 8. Click the **Start** button to activate the bot.
 9. You can monitor the progress of the bot cycle through the **Bot Logs**.
 
 {% hint style="info" %}
-**NOTE**\
-\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.\
-\- If you **close** or **refresh** the page while the bot is running, the bot operation will stop.\
+**NOTE**
+
+\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
+
+\- If you **close** or **refresh** the page while the bot is running, the bot operation will stop.
+
 \- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 
@@ -67,7 +75,9 @@ The bot operates as follows:
 * **Bundled Execution**: These transactions are bundled into a single atomic unit and repeated according to the selected Holder count.
 
 {% hint style="warning" %}
-**NOTE : Keep the holder wallet list safe.**\
-\- Use Alphecca’s **Bundled Sell Page** or **Batch Collection Page** to manage the tokens purchased by these wallets.\
+**NOTE : Keep the holder wallet list safe.**
+
+\- Use Alphecca’s **Bundled Sell Page** or **Batch Collection Page** to manage the tokens purchased by these wallets.
+
 \- After the project ends, close each wallet’s token ATA account through the **Batch Recover SOL Page** to recover **0.00203928 SOL** per wallet.
 {% endhint %}

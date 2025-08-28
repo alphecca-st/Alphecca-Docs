@@ -37,6 +37,7 @@ Yes, you can. Most wallet apps (e.g., Phantom, Solflare) allow you to import a w
 Go to your wallet app and use the **"Add/Connect Wallet → Import with Private Key"** option to import.
 
 {% hint style="info" %}
-**NOTE**\
+**NOTE**
+
 \- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
 {% endhint %}

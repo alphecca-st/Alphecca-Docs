@@ -28,7 +28,8 @@ layout:
 
 1. Open the **Maker and Volume Bot** page.
 2. Select Bot type.
-3. **Enter the token mint address** to run the bot on.
+3. **Enter the token mint address** to run the bot on.\
+   \- **SPL 2022 Program** Token Cannot be Processed.
 4. Input the **number of makers** to generate.\
    \- Maximum: 9,000 makers
 5. Choose Selling Amount.
@@ -47,8 +48,10 @@ layout:
 9. You can monitor the progress of the bot cycle through the **Bot Logs**.
 
 {% hint style="info" %}
-**NOTE**\
-\- If liquidity is removed during the bot cycle, the bot may stop operating. In this case, any remaining SOL will be sent back to the paying wallet within 60 minutes.\
+**NOTE**
+
+\- If liquidity is removed during the bot cycle, the bot may stop operating. In this case, any remaining SOL will be sent back to the paying wallet within 60 minutes.
+
 \- The bot will continue running even if you close or refresh the page.
 {% endhint %}
 
@@ -66,7 +69,8 @@ Alphecca automatically calculates the token’s swap fee rate and determines the
 Afterwards, the server automatically executes buy, sell, and close operations for each maker. Once the entire bot cycle finishes, the SOL used for volume generation is returned to the paying wallet, and the bot cycle ends.
 
 {% hint style="info" %}
-**NOTE**\
+**NOTE**
+
 \- For Bump bots, the tokens swapped with SOL are sent to the paying wallet for each maker to support price movement.
 {% endhint %}
 

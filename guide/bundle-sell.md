@@ -41,9 +41,12 @@ layout:
 7. **Click the "Bundled Sell" button** to proceed with the transaction.
 
 {% hint style="info" %}
-**NOTE**\
-\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.\
-\- Jito Tip, All Transaction Gas Fees and Service Fees are paid from the wallet with the highest Solana balance of the selected wallets.\
+**NOTE**
+
+\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
+
+\- Jito Tip, All Transaction Gas Fees and Service Fees are paid from the wallet with the highest Solana balance of the selected wallets.
+
 \- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 

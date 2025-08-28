@@ -35,7 +35,7 @@ layout:
    \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.\
    \- Or simply paste a list of private keys directly into the input field.
 5. Enter the buying amount\
-   \- buying amount must be **at least 0.0000001 SOL**
+   \- buying amount must be **at least 0.00001 SOL**
 6. Select or Enter the Jito Tip\
    \- Jito Tip must be **at least 0.000001 SOL**
 7. Click the **Start** button and approve the transaction in your wallet app.
@@ -51,7 +51,7 @@ layout:
 5. Select wallets for volume brush.
 6. Select or enter the volume brushing count.
 7. Enter the buying amount per brushing\
-   \- buying amount must be **at least 0.0000001 SOL**
+   \- buying amount must be **at least 0.00001 SOL**
 8. Enter the delay\
    \- delay must be **at least 1 second**
 9. Select or Enter the Jito Tip\
@@ -60,10 +60,14 @@ layout:
 11. You can monitor the progress of the bot cycle through the **Bot Logs**.
 
 {% hint style="info" %}
-**NOTE**\
-\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.\
-\- If a selected wallet's balance falls below **0.005 SOL + Buying Amount + Jito Tip**, its transaction will fail.\
-\- If you **close** or **refresh** the page while the bot is running, the bot operation will stop.\
+**NOTE**
+
+\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
+
+\- If a selected wallet's balance falls below **0.005 SOL + Buying Amount + Jito Tip**, its transaction will fail.
+
+\- If you **close** or **refresh** the page while the bot is running, the bot operation will stop.
+
 \- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 

@@ -40,9 +40,12 @@ layout:
 6. **Click the "Send Tokens" button** to proceed with the transaction.
 
 {% hint style="info" %}
-**NOTE**\
-\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.\
-\- All Service Fees and Network Gas Fees are charged from the sender wallets.\
+**NOTE**
+
+\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
+
+\- All Service Fees and Network Gas Fees are charged from the sender wallets.
+
 \- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 

@@ -33,16 +33,19 @@ layout:
    **maker count × (Buying Amount + Service Fees + Jito Tip + 0.00001 SOL) + 0.005 SOL.**
 4. Select or enter the **number of makers** to generate.
 5. Enter the buying amount per maker\
-   \- buying amount must be **at least 0.0000001 SOL**
+   \- buying amount must be **at least 0.00001 SOL**
 6. Select or Enter the Jito Tip\
    \- Jito Tip must be **at least 0.000001 SOL**
 7. Click the **Start** button to activate the bot.
 8. You can monitor the progress of the bot cycle through the **Bot Logs**.
 
 {% hint style="info" %}
-**NOTE**\
-\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.\
-\- If you **close** or **refresh** the page while the bot is running, the bot operation will stop.\
+**NOTE**
+
+\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
+
+\- If you **close** or **refresh** the page while the bot is running, the bot operation will stop.
+
 \- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 

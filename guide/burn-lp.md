@@ -32,7 +32,8 @@ layout:
 4. Click the **Burn LP button** and approve the transaction in your wallet app.
 
 {% hint style="warning" %}
-**NOTE** \
+**NOTE**&#x20;
+
 **Tokens that have been burned cannot be restored. Please double-check carefully before using this page**.
 {% endhint %}
 
