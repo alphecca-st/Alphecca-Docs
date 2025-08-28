@@ -21,7 +21,7 @@ layout:
 **Withdraw liquidity and remove your token’s LP.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/remove-lp](https://alphecca.io/renive-lp)
+#### [https://alphecca.io/remove-lp](https://alphecca.io/remove-lp)
 {% endhint %}
 
 ## How to Use Burn Liquidity Pool?&#x20;

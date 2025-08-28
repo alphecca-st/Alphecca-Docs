@@ -1,5 +1,5 @@
 ---
-icon: chart-line
+icon: chart-simple
 layout:
   width: default
   title:

@@ -21,7 +21,7 @@ layout:
 Check the Pump PDAs of multiple wallets and easily reclaim the rent fees.
 
 {% hint style="success" %}
-#### [https://alphecca.io/batch-pump-recover-rent](batch-pump-recover-rent.md)
+#### [https://alphecca.io/batch-pump-recover-rent](https://alphecca.io/batch-pump-recover-rent)
 {% endhint %}
 
 ## How to Use Batch **Recover SOL**?&#x20;

@@ -21,7 +21,7 @@ layout:
 **Auto-generate new wallets to instantly increase the number of token makers.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/newaddre-maker](https://alphecca.io/newaddre-maker)
+#### [https://alphecca.io/newaddr-maker](https://alphecca.io/newaddr-maker)
 {% endhint %}
 
 ## How to Use **New Address Buy (↑Makers)**?&#x20;

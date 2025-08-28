@@ -21,7 +21,7 @@ layout:
 Swap SPL tokens quickly, cheaply, and easily.
 
 {% hint style="success" %}
-#### [https://alphecca.io/swap](https://alphecca.io/create-token)
+#### [https://alphecca.io/swap](https://alphecca.io/swap)
 {% endhint %}
 
 ## How to Use SWAP?&#x20;

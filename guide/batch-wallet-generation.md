@@ -21,7 +21,7 @@ layout:
 **Create multiple Solana wallets (public-private key pairs) with one click.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/batch-wallet-generation](https://alphecca.io/recover-rent)
+#### [https://alphecca.io/batch-wallet-generation](https://alphecca.io/batch-wallet-generation)
 {% endhint %}
 
 ## How to Use **Batch Wallet Generation**?&#x20;

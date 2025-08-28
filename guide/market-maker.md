@@ -21,7 +21,7 @@ layout:
 **Automatically create token activity and maker addresses with optimized gas usage.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/market-maker](https://alphecca.io/bundle-sell-buy)
+#### [https://alphecca.io/market-maker](https://alphecca.io/market-maker)
 {% endhint %}
 
 ## How to Use Maker and Volume Bot?&#x20;
@@ -79,3 +79,7 @@ Afterwards, the server automatically executes buy, sell, and close operations fo
 Yes — Alphecca is optimized to run bots reliably even with a zero priority fee. However, during periods of high congestion on the Solana network, transaction delays may occur, ranging from a few minutes to over an hour.
 
 While such delays are not common, if you prefer smooth and uninterrupted bot operation, we recommend setting a priority fee of at least **0.00001 SOL**.
+
+## Recommendation
+
+This bot is designed for cost-efficient operations. For maximum impact, use it together with other features. For example, running the bot alongside **Multi Swap Page** or the **Market Making Page** can create a more organic and **natural-looking chart**.
