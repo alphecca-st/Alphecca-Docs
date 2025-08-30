@@ -27,7 +27,7 @@ layout:
 ## How to Use Burn Liquidity Pool?&#x20;
 
 1. Click the **Connect Wallet** button in the top-right corner to connect.
-2. Enter the **token mint address** for the liquidity pool removal.
+2. Select the **LP Token** for the liquidity pool removal.
 3. Select or Input the amount of LP tokens to remove.
 4. Click the **Remove LP button** and approve the transaction in your wallet app.
 
