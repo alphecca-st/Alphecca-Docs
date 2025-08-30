@@ -27,7 +27,7 @@ layout:
 ## How to Use Create Liquidity Pool?&#x20;
 
 1. Click the **Connect Wallet** button in the top-right corner to connect.
-2. Enter the **token mint address** for the liquidity pool creation.
+2. Select the **token mint address** for the liquidity pool creation.
 3. Input the **amount of tokens and Solana** to be added to the **initial liquidity pool**.\
    \- Your SOL balance must be greater than the sum of the Solana amount to add, Service Fees, and Raydium CPMM Fees + Network Gas Fees (approximately 0.19 SOL).
 4. Click the **Create LP button** and approve the transaction in your wallet app.
