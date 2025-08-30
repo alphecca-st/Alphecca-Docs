@@ -24,7 +24,7 @@ layout:
 #### [https://alphecca.io/remove-lp](https://alphecca.io/remove-lp)
 {% endhint %}
 
-## How to Use Burn Liquidity Pool?&#x20;
+## How to Use Remove Liquidity Pool?&#x20;
 
 1. Click the **Connect Wallet** button in the top-right corner to connect.
 2. Select the **LP Token** for the liquidity pool removal.
