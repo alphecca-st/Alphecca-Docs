@@ -26,10 +26,6 @@ layout:
 
 ## How to Use **New Address Buy (↑Holders)**?&#x20;
 
-### Why Use a New Address Instead of an Existing Wallet?
-
-Using a new address ensures that the increase in holder count is genuine and not merely an adjustment to existing accounts. This approach reduces the risk of centralization and enhances the perception of a legitimate, active community supporting the token, which is crucial for attracting investors and increasing token credibility.
-
 1. Open the **New Address Buy (↑Holders)** page.
 2. **Enter the token mint address** to run the holder bot on.\
    \- **SPL 2022 Program** Token Cannot be Processed.
