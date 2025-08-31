@@ -31,14 +31,11 @@ layout:
 1. Open the **Anti-MEV Volume Bot** page.
 2. Select Connected Wallet and click the **Connect Wallet** button in the top-right corner to connect.
 3. **Enter the token mint address** perform volume brushing on.
-4. Import wallet **private keys** for volume brushing.\
-   \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.\
-   \- Or simply paste a list of private keys directly into the input field.
-5. Enter the buying amount\
+4. Enter the buying amount\
    \- buying amount must be **at least 0.00001 SOL**
-6. Select or Enter the Jito Tip\
+5. Select or Enter the **Jito Tip**\
    \- Jito Tip must be **at least 0.000001 SOL**
-7. Click the **Start** button and approve the transaction in your wallet app.
+6. Click the **Start** button and approve the transaction in your wallet app.
 
 * **Other Wallet**
 
