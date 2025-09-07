@@ -62,6 +62,6 @@ Bundle Buy is designed to execute multiple token purchase orders together in a s
 
 A sandwich attack is a malicious technique where an attacker performs front-running by inserting transactions immediately before and after a user's trade order—buying before and selling after—to manipulate the price and profit from the price difference. This usually occurs on decentralized exchanges (DEXs) and exploits the slippage in transaction prices.
 
-## Can the Bundled Sell completely prevent sandwich attacks?
+## Can the Bundle Buy completely prevent sandwich attacks?
 
-The Bundled Sell uses Jito technology to execute multiple sell orders **within the same block**, enabling it to **completely prevent** sandwich attacks.
+The Bundle Sell uses Jito technology to execute multiple sell orders **within the same block**, enabling it to **completely prevent** sandwich attacks.
