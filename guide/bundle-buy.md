@@ -49,36 +49,19 @@ layout:
 
 \- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
 
-\- Jito Tip and Service Fees are paid from the **Connected wallet**.
+\- Jito Tip, Service Fees are paid from the wallet with the highest Solana balance of the selected wallets.
 
 \- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 
-## What is the purpose of Bundle Launch?
+## What is the purpose of Bundle Buy?
 
-The purpose of Bundle Launch is to enable sniping at the lowest possible price by executing the 'first' purchase simultaneously with token creation. Using the atomicity of Jito bundle technology ensures that no other sniper bots can intervene in the process.
+Bundle Buy is designed to execute multiple token purchase orders together in a single batch. This helps efficiently manage token acquisition, reduce transaction costs, and maintain orderly market activity by preventing large, sudden buy-ins. Additionally, it helps protect against sandwich attacks by minimizing exposure to front-running tactics during the purchasing process.
 
-Distributing purchases across multiple wallets provides the following advantages:
+## What is a sandwich attack?
 
-**Holder Distribution Effects**
+A sandwich attack is a malicious technique where an attacker performs front-running by inserting transactions immediately before and after a user's trade order—buying before and selling after—to manipulate the price and profit from the price difference. This usually occurs on decentralized exchanges (DEXs) and exploits the slippage in transaction prices.
 
-* Holder concentration appears dispersed on analysis tools like DEXTools and DexScreener
-* Lower single-wallet concentration reduces perceived dumping risk
-* Creates natural holder distribution that enhances investor confidence
+## Can the Bundled Sell completely prevent sandwich attacks?
 
-**Market Perception Improvement**
-
-* Increased initial trading volume and holder count creates perception of an active token
-* Higher likelihood of attracting genuine investor interest rather than just bots
-* Establishes healthier chart formation during migration from Pump.fun to Raydium
-
-**Risk Management**
-
-* Different exit timing strategies possible for each wallet
-* Protection of overall position even if some wallets are exposed
-* Optimal gas fee efficiency through appropriate amount allocation per wallet
-
-The core concept is securing optimal entry points through technical advantage (bundling) combined with strategic distribution.
-
-**Note:** This information is provided for educational purposes about DeFi mechanisms. Users should be aware of the risks involved in cryptocurrency trading and consider the regulatory and ethical implications of their trading strategies.
-
+The Bundled Sell uses Jito technology to execute multiple sell orders **within the same block**, enabling it to **completely prevent** sandwich attacks.
