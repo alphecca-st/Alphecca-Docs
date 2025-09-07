@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Bundled Buy
+# Bundle Buy
 
 **Buy tokens using multiple wallets in a single block to push price momentum and maximize gains.**
 
@@ -24,9 +24,9 @@ layout:
 #### [https://alphecca.io/bundle-buy](https://alphecca.io/bundle-buy)
 {% endhint %}
 
-## How to Use Bundled Buy?&#x20;
+## How to Use Bundle Buy?&#x20;
 
-1. Open the **Bundled Buy** page.
+1. Open the **Bundle Buy** page.
 2. **Enter the token mint address** you want to buy.
 3. Import buying wallet **private keys**.\
    \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.\
@@ -49,19 +49,36 @@ layout:
 
 \- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
 
-\- Jito Tip and Service Fees are paid from the wallet with the highest Solana balance of the selected wallets.
+\- Jito Tip and Service Fees are paid from the **Connected wallet**.
 
 \- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 
-## What is the purpose of Bundled Buy?
+## What is the purpose of Bundle Launch?
 
-Bundled Buy is a powerful tool designed to safely increase the token price by generating coordinated buy orders. It helps create strong and sustained upward price momentum while minimizing risks such as front-running, sandwich attacks, and price manipulation.
+The purpose of Bundle Launch is to enable sniping at the lowest possible price by executing the 'first' purchase simultaneously with token creation. Using the atomicity of Jito bundle technology ensures that no other sniper bots can intervene in the process.
 
-## What is a sandwich attack?
+Distributing purchases across multiple wallets provides the following advantages:
 
-A sandwich attack is a malicious technique where an attacker performs front-running by inserting transactions immediately before and after a user's trade order—buying before and selling after—to manipulate the price and profit from the price difference. This usually occurs on decentralized exchanges (DEXs) and exploits the slippage in transaction prices.
+**Holder Distribution Effects**
 
-## Can the Bundled Buy completely prevent sandwich attacks?
+* Holder concentration appears dispersed on analysis tools like DEXTools and DexScreener
+* Lower single-wallet concentration reduces perceived dumping risk
+* Creates natural holder distribution that enhances investor confidence
 
-The Bundled Buy uses Jito technology to execute multiple buy orders **within the same block**, enabling it to **completely prevent** sandwich attacks.
+**Market Perception Improvement**
+
+* Increased initial trading volume and holder count creates perception of an active token
+* Higher likelihood of attracting genuine investor interest rather than just bots
+* Establishes healthier chart formation during migration from Pump.fun to Raydium
+
+**Risk Management**
+
+* Different exit timing strategies possible for each wallet
+* Protection of overall position even if some wallets are exposed
+* Optimal gas fee efficiency through appropriate amount allocation per wallet
+
+The core concept is securing optimal entry points through technical advantage (bundling) combined with strategic distribution.
+
+**Note:** This information is provided for educational purposes about DeFi mechanisms. Users should be aware of the risks involved in cryptocurrency trading and consider the regulatory and ethical implications of their trading strategies.
+

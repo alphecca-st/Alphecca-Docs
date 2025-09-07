@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Bundled Sell
+# Bundle Sell
 
 **Sell from multiple wallets in one block to secure profits and protect against sandwich attacks.**
 
@@ -24,9 +24,9 @@ layout:
 #### [https://alphecca.io/bundle-sell](https://alphecca.io/bundle-sell)
 {% endhint %}
 
-## How to Use Bundled Sell?&#x20;
+## How to Use Bundle Sell?&#x20;
 
-1. Open the **Bundled Sell** page.
+1. Open the **Bundle Sell** page.
 2. **Enter the token mint address** you want to buy.
 3. Import selling wallet **private keys**.\
    \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.\
@@ -50,7 +50,7 @@ layout:
 \- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 
-## What is the purpose of Bundled Sell?
+## What is the purpose of Bundle Sell?
 
 Bundled Sell is designed to execute multiple token sell orders together in a single batch. This helps efficiently manage token liquidity, reduce transaction costs, and maintain orderly market activity by preventing large, sudden sell-offs. Additionally, it helps protect against sandwich attacks by minimizing exposure to front-running tactics during the selling process.
 

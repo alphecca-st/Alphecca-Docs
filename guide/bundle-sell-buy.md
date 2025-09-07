@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Sell and Bundled Buy
+# Sell and Bundle Buy
 
 **Sell from multiple wallets in one block to secure profits and protect against sandwich attacks.**
 
@@ -24,9 +24,9 @@ layout:
 #### [https://alphecca.io/bundle-sell-buy](https://alphecca.io/bundle-sell-buy)
 {% endhint %}
 
-## How to Use **Sell and Bundled Buy**?&#x20;
+## How to Use **Sell and Bundle Buy**?&#x20;
 
-1. Open the **Sell and Bundled Buy** page.
+1. Open the **Sell and Bundle Buy** page.
 2. **Enter the token mint address** you want to sell and bundled buy.
 3. Enter the selling wallet private key.
 4. Choose Selling Amount.
@@ -53,7 +53,7 @@ layout:
 \- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 
-## What is the purpose of Sell and Bundled Buy?
+## What is the purpose of Sell and Bundle Buy?
 
 Sell and Bundled Buy is designed to execute token sales and simultaneous bundled purchases within the same transaction or block. This helps maintain market activity by generating continuous buy and sell volume, supporting token price stability. It also prevents sandwich attacks and helps maintain the most advantageous position.
 

@@ -3,6 +3,7 @@
 ## Alphecca Tool Guide <a href="#guide" id="guide"></a>
 
 * [Create Token](README.md)
+* [Pump.Fun Bundle Launch](guide/pump-bundle-launch.md)
 * [Multi Sender (One to Many)](guide/air-drop.md)
 * [Batch Collection (Many to One)](<guide/air-drop-1 (1).md>)
 * [Reclaim ATA](guide/recover-rent.md)
@@ -11,9 +12,9 @@
 * [Batch Pump Reclaim PDA](guide/batch-pump-recover-rent.md)
 * [SWAP](guide/swap.md)
 * [Multi Swap](guide/multi-swap.md)
-* [Bundled Buy](guide/bundle-buy.md)
-* [Bundled Sell](guide/bundle-sell.md)
-* [Sell and Bundled Buy](guide/bundle-sell-buy.md)
+* [Bundle Buy](guide/bundle-buy.md)
+* [Bundle Sell](guide/bundle-sell.md)
+* [Sell and Bundle Buy](guide/bundle-sell-buy.md)
 * [Market Making](guide/market-making.md)
 * [Maker and Volume Bot](guide/market-maker.md)
 * [Anti-MEV Volume Bot](guide/anti-mev.md)
