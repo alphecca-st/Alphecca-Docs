@@ -4,6 +4,8 @@
 
 * [Create Token](README.md)
 * [Pump.Fun Bundle Launch](guide/pump-bundle-launch.md)
+* [Raydium.LaunchLab Bundle Launch](guide/raydiumlaunchlab-bundle-launch.md)
+* [Let'sBonk Bundle Launch](guide/bonk-bundle-launch.md)
 * [Multi Sender (One to Many)](guide/air-drop.md)
 * [Batch Collection (Many to One)](<guide/air-drop-1 (1).md>)
 * [Reclaim ATA](guide/recover-rent.md)

@@ -16,16 +16,16 @@ layout:
     visible: true
 ---
 
-# Pump.Fun Bundle Launch
+# Raydium.LaunchLab Bundle Launch
 
 **Complete launch Token and simultaneous buy orders in the same block using Jito bundle technology.**\
 **Maximize profits by sniping tokens at the lowest prices with multiple wallets.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/pump-bundle-launch](https://alphecca.io/pump-bundle-launch)
+#### [https://alphecca.io/raydiumlaunchlab-bundle-launch](https://alphecca.io/raydiumlaunchlab-bundle-launch)
 {% endhint %}
 
-## How to Use Pump.Fun Bundle Launch?&#x20;
+## How to Use Raydium.LaunchLab Bundle Launch?&#x20;
 
 1. Click the **Connect Wallet** button in the top-right corner to connect.
 2. Enter the required fields:
