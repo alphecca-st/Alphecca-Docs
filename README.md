@@ -27,20 +27,34 @@ layout:
 ## How to Use Create Token?&#x20;
 
 1. Click the **Connect Wallet** button in the top-right corner to connect.
-2. Enter the required fields:
-   * **Image:** The image for the token, which must not exceed 1.5 MB.
-   * **Name:** The full name of the token.
-   * **Symbol:** The token’s abbreviation.
-   * **Description:** A description of the token.
-   * **Supply:** The total supply of tokens to be issued.
-   * **Decimals:** The token’s decimal precision.
-3. (Optional) Enter the **Social Links**:\
-   \- Website, Discord, Twitter, Telegram
-4. (Optional) Set **Revoke Authorities**\
-   \- For tokens intended to be listed on Raydium, it is generally recommended to **revoke freeze** and **mint** permissions.\
-   \- The metadata update permission can be set according to your preference.\
-   \- If metadata update permission is revoked, the token’s name and logo **cannot be changed** afterward.
-5. Click the **Create Token button** and approve the transaction in your wallet app.
+2.  Enter the required fields:
+
+    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+    * **Image:** The image for the token, which must not exceed 1.5 MB.
+    * **Name:** The full name of the token.
+    * **Symbol:** The token’s abbreviation.
+    * **Description:** A description of the token.
+    * **Supply:** The total supply of tokens to be issued.
+    * **Decimals:** The token’s decimal precision.
+3.  (Optional) Enter the **Social Links**:
+
+    <div data-full-width="true"><figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
+
+    Website, Discord, Twitter, Telegram
+4.  (Optional) Set **Revoke Authorities**
+
+    <div align="center" data-full-width="true"><figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure></div>
+
+    * &#x20;For tokens intended to be listed on Raydium, it is generally recommended to **revoke freeze** and **mint** permissions.
+    * &#x20;The metadata update permission can be set according to your preference.
+    * If metadata update permission is revoked, the token’s name and logo **cannot be changed** afterward.
+5.  Click the **Create Token button** and approve the transaction in your wallet app.\
+
+
+    <div align="left"><figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure></div>
+
+
 
 ## How Much Does Create Token Cost?
 
