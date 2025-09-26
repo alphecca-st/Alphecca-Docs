@@ -29,7 +29,7 @@ layout:
 1. Click the **Connect Wallet** button in the top-right corner to connect.
 2.  Enter the required fields:
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
     * **Image:** The image for the token, which must not exceed 1.5 MB.
     * **Name:** The full name of the token.
@@ -39,7 +39,7 @@ layout:
     * **Decimals:** The token’s decimal precision.
 3.  (Optional) Enter the **Social Links**:
 
-    <div data-full-width="true"><figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
+    <div data-full-width="true"><figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure></div>
 
     Website, Discord, Twitter, Telegram
 4.  (Optional) Set **Revoke Authorities**

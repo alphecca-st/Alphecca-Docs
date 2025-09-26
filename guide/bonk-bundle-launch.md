@@ -28,11 +28,14 @@ layout:
 ## How to Use Raydium.LaunchLab Bundle Launch?&#x20;
 
 1. Click the **Connect Wallet** button in the top-right corner to connect.
-2. Enter the required fields:
-   * **Image:** The image for the token, which must not exceed 1.5 MB.
-   * **Name:** The full name of the token.
-   * **Symbol:** The token’s abbreviation.
-   * **Description:** A description of the token.
+2.  Enter the required fields:
+
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+    * **Image:** The image for the token, which must not exceed 1.5 MB.
+    * **Name:** The full name of the token.
+    * **Symbol:** The token’s abbreviation.
+    * **Description:** A description of the token.
 3. (Optional) Enter the **Social Links**:\
    \- Telegram, Website, Twitter
 4. (Optional) Import **private keys** of other wallets for **bundle purchasing**.

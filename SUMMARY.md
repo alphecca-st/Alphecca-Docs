@@ -24,6 +24,7 @@
 * [New Address Buy (↑Holders)](guide/newaddr-holder.md)
 * [Batch Wallet Generation](guide/batch-wallet-generation.md)
 * [Create Liquidity Pool](guide/create-lp.md)
+* [Add Liquidity Pool](guide/add-lp.md)
 * [Burn Liquidity Pool](guide/burn-lp.md)
 * [Remove Liquidity Pool](guide/remove-lp.md)
 * [Token Mint](guide/revoke-authority.md)
