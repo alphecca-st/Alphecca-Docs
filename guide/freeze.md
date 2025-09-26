@@ -28,8 +28,8 @@ layout:
 
 1. Click the **Connect Wallet** button in the top-right corner to connect.&#x20;
 2. Select the **token mint address** from your wallet's token list.
-   * Alphecca automatically filters and shows only tokens where you have freeze authority.
-   * The green checkmark indicates you can freeze accounts for that token.
+   * The green checkmark indicates you have freeze authority for that token.
+   * If you see a red X, you don't have freeze authority for that token.
 3. **Import wallet addresses** by clicking the Import button and entering the public keys of accounts you want to freeze.
    * You can import multiple addresses at once by separating them with line breaks.
 4. **Select accounts to freeze** using the checkboxes or the dropdown menu options:
