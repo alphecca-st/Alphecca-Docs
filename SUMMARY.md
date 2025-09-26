@@ -27,9 +27,9 @@
 * [Add Liquidity Pool](guide/add-lp.md)
 * [Burn Liquidity Pool](guide/burn-lp.md)
 * [Remove Liquidity Pool](guide/remove-lp.md)
-* [Token Mint](guide/revoke-authority.md)
-* [Update Metadata](guide/revoke-authority-1.md)
-* [Revoke Authority](guide/revoke-authority-2.md)
+* [Mint Token](guide/token-mint.md)
+* [Update Metadata](guide/update-metadata.md)
+* [Revoke Authority](guide/revoke-authority.md)
 
 ## ALPHECCA INFO <a href="#info" id="info"></a>
 
