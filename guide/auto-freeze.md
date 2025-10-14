@@ -33,20 +33,18 @@ layout:
 
     * **Green checkmark**: Indicates you have freeze authority for that token.
     * **Red X**: You don't have freeze authority for that token.
-3. **Import wallet addresses** by clicking the Import button and entering the public keys of accounts you want to freeze.
-   * You can import multiple addresses at once by separating them with line breaks.
-4.  **Filter Settings (Optional)**
+3.  **Filter Settings (Optional)**
 
     **Additional Filter Options:**
 
-    * **Whitelist Registration (Optional)**: If you want to exclude specific addresses from freezing, you can add them to the whitelist. Whitelisted addresses are automatically excluded from freeze targets.
+    * **Whitelist Registration (Optional)**: Click the Import button and enter the public keys of accounts you want to exclude from freezing. You can import multiple addresses at once by separating them with line breaks. Whitelisted addresses are automatically excluded from freeze targets.
     * **Minimum Balance Setting (Optional)**: You can set a filter to freeze only accounts with a token balance above a specific amount.
 
     **Note**: Both whitelist registration and minimum balance settings are **optional**. You can use them as needed or skip them.
-5.  **Execute Auto Freeze**
+4.  **Execute Auto Freeze**
 
     Click the **Start** button and approve the transaction in your wallet app.
-6. Click the **Transaction Logs** tab to view bot logs. Here you can monitor transaction signatures and account statuses in real-time.
+5. Click the **Transaction Logs** tab to view bot logs. Here you can monitor transaction signatures and account statuses in real-time.
 
 ## Why can't I freeze certain tokens?
 
