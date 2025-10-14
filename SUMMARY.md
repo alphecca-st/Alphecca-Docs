@@ -27,6 +27,7 @@
 * [Add Liquidity Pool](guide/add-lp.md)
 * [Burn Liquidity Pool](guide/burn-lp.md)
 * [Remove Liquidity Pool](guide/remove-lp.md)
+* [Auto Freeze Accounts](guide/auto-freeze.md)
 * [Freeze Account](guide/freeze.md)
 * [Unfreeze Account](guide/unfreeze.md)
 * [Mint Token](guide/token-mint.md)
