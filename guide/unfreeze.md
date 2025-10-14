@@ -16,15 +16,15 @@ layout:
     visible: true
 ---
 
-# Freeze Account
+# Unfreeze Account
 
-**Freeze token accounts to block all token activity — maintain full control over your token.**
+**Unfreeze token accounts to block all token activity — maintain full control over your token.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/freeze](https://alphecca.io/freeze)
+#### [https://alphecca.io/unfreeze](https://alphecca.io/unfreeze)
 {% endhint %}
 
-## How to Use Freeze Accounts?&#x20;
+## How to Use Unfreeze Token Accounts?&#x20;
 
 1. Click the **Connect Wallet** button in the top-right corner to connect.&#x20;
 2. Select the **token mint address** from your wallet's token list.
@@ -32,12 +32,12 @@ layout:
    * If you see a red X, you don't have freeze authority for that token.
 3. **Import wallet addresses** by clicking the Import button and entering the public keys of accounts you want to freeze.
    * You can import multiple addresses at once by separating them with line breaks.
-4. **Select accounts to freeze** using the checkboxes or the dropdown menu options:
+4. **Select accounts to unfreeze** using the checkboxes or the dropdown menu options:
    * Select All - selects all imported accounts
-   * Select Freezable - automatically selects only accounts that can be frozen
+   * Select Unfreezable - automatically selects only accounts that can be frozen
    * Deselect - clears all selections
-5. Click the **Freeze Accounts** button and approve the transaction in your wallet app.
-6. When transactions are completed, the **transaction signatures** will be displayed and account statuses will update to "Freeze Success".
+5. Click the **Unfreeze Accounts** button and approve the transaction in your wallet app.
+6. When transactions are completed, the **transaction signatures** will be displayed and account statuses will update to "Unfreeze Success".
 
 ## Why can't I freeze certain tokens?
 

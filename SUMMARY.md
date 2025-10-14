@@ -28,6 +28,7 @@
 * [Burn Liquidity Pool](guide/burn-lp.md)
 * [Remove Liquidity Pool](guide/remove-lp.md)
 * [Freeze Account](guide/freeze.md)
+* [Unfreeze Account](guide/unfreeze.md)
 * [Mint Token](guide/token-mint.md)
 * [Update Metadata](guide/update-metadata.md)
 * [Revoke Authority](guide/revoke-authority.md)
