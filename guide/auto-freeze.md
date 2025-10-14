@@ -43,7 +43,7 @@ layout:
     **Note**: Both whitelist registration and minimum balance settings are **optional**. You can use them as needed or skip them.
 4.  **Execute Auto Freeze**
 
-    Click the **Start** button and approve the transaction in your wallet app.
+    Click the **Start** button. The bot will automatically monitor and freeze accounts that meet the conditions.
 5. Click the **Transaction Logs** tab to view bot logs. Here you can monitor transaction signatures and account statuses in real-time.
 
 ## Why can't I freeze certain tokens?
