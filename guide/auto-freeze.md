@@ -46,16 +46,15 @@ layout:
     Click the **Start** button. The bot will automatically monitor and freeze accounts that meet the conditions.
 5. Click the **Transaction Logs** tab to view bot logs. Here you can monitor transaction signatures and account statuses in real-time.
 
-## Why can't I freeze certain tokens?
+## How does Auto Freeze work?
 
-Only tokens where you hold the freeze authority can be frozen. The green checkmark next to the token selection indicates you have freeze authority for that token. If you see a red X, it means either the freeze authority has been revoked or is held by another wallet. You can only freeze accounts for tokens you created or where freeze authority was transferred to you.
+**Auto Freeze** monitors the blockchain in real-time and automatically freezes new token holder accounts that meet your specified conditions. All accounts are **automatically** targeted for freezing except those on the whitelist and those that don't meet the minimum balance requirement.
 
-## What happens after freezing accounts?
+## Why is account freezing needed?
 
-The selected token accounts become frozen and cannot transfer tokens until they are unfrozen by the freeze authority. Alphecca automatically identifies which accounts are freezable and filters out:
+Token account freezing is useful in the following situations:
 
-* Accounts with no Associated Token Account (ATA)
-* Accounts with zero token balance
-* Accounts already frozen
-
-The freeze action is permanent until reversed and costs 0.001 SOL per account plus network transaction fees. Only accounts that can actually be frozen will be processed, ensuring efficient transaction execution.
+* **Token Distribution Management**: Restrict token movement until a specific point during airdrops or token distribution events to ensure fair distribution.
+* **Vesting Schedule Management**: Enforce vesting periods for team tokens or investor tokens to comply with agreed-upon lockup periods.
+* **Project Stability Maintenance**: Temporarily prevent token transfers during critical updates or migration periods to ensure safe transitions.
+* **Compliance Requirements**: Meet regulatory requirements by implementing necessary transfer restrictions for specific token holders.
