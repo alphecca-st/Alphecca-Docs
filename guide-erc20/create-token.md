@@ -21,7 +21,7 @@ layout:
 **Launch your own Solana token instantly — no coding required.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/create-token](https://alphecca.io/create-token)
+#### [https://alphecca.io/ethereum/create-token](https://alphecca.io/create-token)
 {% endhint %}
 
 ## How to Use Create Token?&#x20;
@@ -29,29 +29,24 @@ layout:
 1. Click the **Connect Wallet** button in the top-right corner to connect.
 2.  Enter the required fields:
 
-    <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-
-    * **Image:** The image for the token, which must not exceed 1.5 MB.
     * **Name:** The full name of the token.
     * **Symbol:** The token’s abbreviation.
-    * **Description:** A description of the token.
     * **Supply:** The total supply of tokens to be issued.
     * **Decimals:** The token’s decimal precision.
-3.  (Optional) Enter the **Social Links**:
 
-    <div data-full-width="true"><figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure></div>
-
-    Website, Discord, Twitter, Telegram
-4.  (Optional) Set **Revoke Authorities**
-
-    <div align="center" data-full-width="true"><figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure></div>
-
-    * &#x20;For tokens intended to be listed on Raydium, it is generally recommended to **revoke freeze** and **mint** permissions.
-    * &#x20;The metadata update permission can be set according to your preference.
-    * If metadata update permission is revoked, the token’s name and logo **cannot be changed** afterward.
+    <div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p><strong>NOTE</strong></p><p>- Alphecca does <strong>not</strong> store your private keys; they are used solely for local signing on your device.</p><p>- Jito Tip and Service Fees are paid from the <strong>Connected wallet</strong>.</p><p>- In the case of failed transactions, <strong>no costs</strong> (Service Fee, Network Gas Fees) will be charged.</p></div>
+3. (Optional) Set  the **Tax System**:
+   * **Buy Tax:** The full name of the token.
+   * **Sell Tax:**&#x20;
+   * **Transfer Tax:**
+   * **Fee Receiver Wallet**
+4. (Optional) Set the **Anti-Bot**:
+   * &#x20;For tokens intended to be listed on Raydium, it is generally recommended to **revoke freeze** and **mint** permissions.
+   * &#x20;The metadata update permission can be set according to your preference.
+   * If metadata update permission is revoked, the token’s name and logo **cannot be changed** afterward.
 5.  Click the **Create Token button** and approve the transaction in your wallet app.<br>
 
-    <div align="left"><figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure></div>
 
 
 

@@ -31,8 +31,7 @@ layout:
 3. Import operational wallet **private keys**.\
    \- You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.\
    \- Or simply paste a list of private keys directly into the input field.
-4.  Select a **bot type** and input **parameters** to run:\
-
+4.  Select a **bot type** and input **parameters** to run:<br>
 
     **Pull Up**: The bot automatically buys tokens to push the price upward.
 
@@ -43,8 +42,7 @@ layout:
     * _**(Optional) Termination Conditions** — The bot will stop automatically if any of the following are met:_
       * **Target Price Change (%):** If the price rises above the specified % from the initial price. _For example, if you enter 30, the bot will automatically stop once the price increases by 30% from the starting point._
       * **Running Duration (minutes):** The bot stops after the specified time has elapsed.
-      * **Total Maximum Transaction Amount (SOL):** The bot stops once the total accumulated buy volume exceeds this limit.\
-
+      * **Total Maximum Transaction Amount (SOL):** The bot stops once the total accumulated buy volume exceeds this limit.<br>
 
     **Drop**: The bot automatically sells tokens to push the price downward.
 
@@ -56,8 +54,7 @@ layout:
       * **Target Price Change (%):** If the price falls below the specified % from the initial price. _For example, if you enter 30, the bot will automatically stop once the price decreases by 30% from the starting point._
       * **Running Duration (minutes):** The bot stops after the specified time has elapsed.
       * **Total Maximum Transaction Amount (Token):** The bot stops once the total accumulated sell volume exceeds this limit.\
-        \
-
+        <br>
 
     **Traffic**: If the bot does not hold enough tokens to sell, it will buy. If tokens are available, the bot will randomly buy or sell with a 50% probability.
 
