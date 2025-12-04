@@ -25,67 +25,75 @@ layout:
 #### [https://alphecca.io/pump-bundle-launch](https://alphecca.io/pump-bundle-launch)
 {% endhint %}
 
-## How to Use Pump.Fun Bundle Launch?&#x20;
+## How to Use Pump.Fun Bundle Launch
 
-1. Click the **Connect Wallet** button in the top-right corner to connect.
-2.  Enter the required fields:
+### Step 1: Connect Wallet
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+Click the Connect Wallet button in the top-right corner to connect.
 
-    * **Image:** The image for the token, which must not exceed 1.5 MB.
-    * **Name:** The full name of the token.
-    * **Symbol:** The token’s abbreviation.
-    * **Description:** A description of the token.
-3.  (Optional) Enter the **Social Links**:
+### Step 2: Basic Information (Required)
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+| Field       | Description                              |
+| ----------- | ---------------------------------------- |
+| Image       | The image for the token (max 1.5 MB)     |
+| Name        | The full name of your token              |
+| Symbol      | The token's ticker symbol (abbreviation) |
+| Description | A description of your token              |
 
-    Telegram, Website, Twitter
-4.  (Optional) Import **private keys** of other wallets for **bundle purchasing**.
+### Step 3: Social Links (Optional)
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+| Field    | Description           |
+| -------- | --------------------- |
+| Website  | Project website URL   |
+| Twitter  | Twitter profile URL   |
+| Telegram | Telegram group invite |
 
-    * You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.
-    * Or simply paste a list of private keys directly into the input field.
-    * Enter the **purchase amount** for each wallet. (Purchase amount cannot exceed SOL balance - 0.005 SOL.)
-    * Select or Enter the **Jito Tip**\
-      \- Jito Tip must be **at least 0.000001 SOL**
-5. Click the **Launch Coin Button** and approve the transaction in your wallet app.
+### Step 4: Bundle Purchase Setup (Optional)
+
+Import private keys of additional wallets for simultaneous bundle purchasing.
+
+| Method       | Description                                                |
+| ------------ | ---------------------------------------------------------- |
+| File Upload  | Upload a `.csv`, `.txt`, or `.json` file with private keys |
+| Manual Input | Paste a list of private keys directly into the input field |
+
+| Field           | Description                                           |
+| --------------- | ----------------------------------------------------- |
+| Purchase Amount | Amount for each wallet (max: balance - 0.005 SOL)     |
+| Jito Tip        | Priority fee for bundle execution (min: 0.000001 SOL) |
 
 {% hint style="info" %}
-**NOTE**
-
-\- Alphecca does **not** store your private keys; they are used solely for local signing on your device.
-
-\- Jito Tip and Service Fees are paid from the **Connected wallet**.
-
-\- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
+Alphecca does not store your private keys. They are used solely for local signing on your device.
 {% endhint %}
 
-## What is the purpose of Bundle Launch?
+{% hint style="info" %}
+Jito Tip and Service Fees are paid from the connected wallet.
+{% endhint %}
 
-The purpose of Bundle Launch is to enable sniping at the lowest possible price by executing the 'first' purchase simultaneously with token creation. Using the atomicity of Jito bundle technology ensures that no other sniper bots can intervene in the process.
+### Step 5: Launch Token
 
-Distributing purchases across multiple wallets provides the following advantages:
+Click the 'Launch Coin' button and approve the transaction in your wallet.
 
-**Holder Distribution Effects**
+***
 
-* Holder concentration appears dispersed on analysis tools like DEXTools and DexScreener
-* Lower single-wallet concentration reduces perceived dumping risk
-* Creates natural holder distribution that enhances investor confidence
+### Frequently Asked Questions
 
-**Market Perception Improvement**
+#### What is Bundle Launch?
 
-* Increased initial trading volume and holder count creates perception of an active token
-* Higher likelihood of attracting genuine investor interest rather than just bots
-* Establishes healthier chart formation during migration from Pump.fun to Raydium
+Bundle Launch uses Jito bundle technology to execute the first purchase simultaneously with token creation. This atomic transaction ensures no other sniper bots can intervene, securing the lowest possible entry price.
 
-**Risk Management**
+#### Why distribute purchases across multiple wallets?
 
-* Different exit timing strategies possible for each wallet
-* Protection of overall position even if some wallets are exposed
-* Optimal gas fee efficiency through appropriate amount allocation per wallet
+| Benefit             | Description                                                             |
+| ------------------- | ----------------------------------------------------------------------- |
+| Holder Distribution | Appears dispersed on DEXTools/DexScreener, reducing perceived dump risk |
+| Market Perception   | Increased initial volume and holder count attracts genuine investors    |
+| Risk Management     | Different exit strategies per wallet, optimal gas efficiency            |
 
-The core concept is securing optimal entry points through technical advantage (bundling) combined with strategic distribution.
+#### What happens if the transaction fails?
 
-**Note:** This information is provided for educational purposes about DeFi mechanisms. Users should be aware of the risks involved in cryptocurrency trading and consider the regulatory and ethical implications of their trading strategies.
+No costs (service fee or gas fees) will be charged for failed transactions.
+
+{% hint style="warning" %}
+This information is provided for educational purposes about DeFi mechanisms. Users should be aware of the risks involved in cryptocurrency trading.
+{% endhint %}

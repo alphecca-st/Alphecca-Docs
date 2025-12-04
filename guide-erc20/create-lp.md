@@ -73,6 +73,18 @@ Your wallet balance must be greater than the sum of tokens to add, service fees,
 
 Click the 'Create LP' button and approve the transaction in your wallet.
 
+{% hint style="info" %}
+**Transaction Approvals Required:**
+
+* **Native Token (ETH, BNB, POL):** 2 transactions
+  * 1x Base Token Approve
+  * 1x Create Liquidity Pool
+* **Stablecoin (USDC, USDT, etc.):** 3 transactions
+  * 1x Base Token Approve
+  * 1x Quote Token Approve
+  * 1x Create Liquidity Pool
+{% endhint %}
+
 ***
 
 ### Frequently Asked Questions
