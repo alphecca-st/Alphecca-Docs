@@ -6,8 +6,8 @@
 * [Pump.Fun Bundle Launch](guide-solana/pump-bundle-launch.md)
 * [Raydium.LaunchLab Bundle Launch](guide-solana/raydiumlaunchlab-bundle-launch.md)
 * [Let'sBonk Bundle Launch](guide-solana/bonk-bundle-launch.md)
-* [Multi Sender (One to Many)](guide-solana/multi-sender.md)
-* [Batch Collection (Many to One)](guide-solana/air-drop.md)
+* [Multi Sender](guide-solana/multi-sender.md)
+* [Batch Collection](guide-solana/air-drop.md)
 * [Reclaim ATA](guide-solana/recover-rent.md)
 * [Batch Reclaim ATA](guide-solana/batch-recover-rent.md)
 * [Reclaim Pump PDA](guide-solana/pump-recover-rent.md)
@@ -37,7 +37,7 @@
 ## Alphecca Tool Guide (ERC20) <a href="#guide-erc20" id="guide-erc20"></a>
 
 * [Create Token](guide-erc20/create-token.md)
-* [Multi Sender (One to Many)](guide-erc20/multi-sender.md)
+* [Multi Sender](guide-erc20/multi-sender.md)
 * [SWAP](guide-erc20/swap.md)
 * [Maker and Volume Bot](guide-erc20/market-maker.md)
 * [Create Liquidity Pool](guide-erc20/create-lp.md)

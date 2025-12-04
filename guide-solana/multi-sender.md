@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Multi Sender (One to Many)
+# Multi Sender
 
 **Distribute your tokens to multiple addresses quickly and easily.**
 
@@ -24,7 +24,7 @@ layout:
 #### [https://alphecca.io/multi-sender](https://alphecca.io/multi-sender)
 {% endhint %}
 
-## How to Use Multi Sender (One to Many)?&#x20;
+## How to Use Multi Sender?&#x20;
 
 1. Open the Multi Sender (One to Many) page.
 2. **Enter the token mint address** you want to send.
@@ -49,7 +49,7 @@ layout:
 \- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 
-## How Much Does Multi Sender (One to Many) Cost?
+## How Much Does Multi Sender Cost?
 
 The total cost, including the service fee, is calculated **per transaction batch**:
 

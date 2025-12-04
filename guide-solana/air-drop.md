@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# Batch Collection (Many to One)
+# Batch Collection
 
 **Easily collect tokens from multiple wallets and send them to your main wallet with a single click.**
 
@@ -24,7 +24,7 @@ layout:
 #### [https://alphecca.io/multi-collector](https://alphecca.io/multi-collector)
 {% endhint %}
 
-## How to Use Batch Collection (Many to One)?&#x20;
+## How to Use Batch Collection?&#x20;
 
 1. Open the **Batch Collection (Many to One)** page.
 2. Click the **Connect Wallet** button in the top-right corner to connect.
@@ -47,7 +47,7 @@ layout:
 \- In the case of failed transactions, **no costs** (Service Fee, Network Gas Fees) will be charged.
 {% endhint %}
 
-## How Much Does Batch Collection (Many to One) Cost?
+## How Much Does Batch Collection Cost?
 
 The total cost, including the service fee, is calculated **per Address**:
 
