@@ -123,7 +123,7 @@ No. After creating the token, you need to create a liquidity pool to enable trad
 
 #### What are the benefits of Anti Bot?
 
-Anti Bot prevents sniper bots from buying large amounts at launch. By limiting transactions per block, it ensures fair distribution and protects early investors from bot manipulation.
+Anti Bot limits the number of transactions per wallet per block, effectively defending against sandwich attacks and preventing bots from exploiting your trades.
 
 #### What are the benefits of Anti Whale?
 
@@ -137,7 +137,7 @@ This creates a healthier trading environment and prevents pump-and-dump schemes.
 
 #### Can I modify Tax / Anti Bot / Anti Whale settings after creation?
 
-Yes. All settings can be modified for free anytime through their respective settings pages. However, features that were disabled during token creation cannot be enabled later.
+Yes. A one-time fee of 0.006 ETH is charged only during initial setup. After that, all changes are completely free through their respective settings pages. However, features that were disabled during token creation cannot be enabled later.
 
 #### Do I need to verify the contract manually?
 
