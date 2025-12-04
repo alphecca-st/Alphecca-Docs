@@ -92,6 +92,10 @@ Click the 'Create LP' button and approve the transaction in your wallet.
 
 A liquidity pool enables trading for your token. Without it, holders cannot buy or sell on decentralized exchanges. Creating a pool instantly lists your token and opens it to the entire DeFi ecosystem.
 
+#### Which DEXs are supported?
+
+Alphecca supports major DEXs on each chain including Uniswap, PancakeSwap, Aerodrome, and more. Both V2 and V3 pools are available.
+
 #### Which pool type should I choose?
 
 | Pool Type | Pros                              | Cons                       |
