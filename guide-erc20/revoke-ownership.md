@@ -24,7 +24,7 @@ layout:
 #### [https://alphecca.io/revoke-ownership/binance](https://alphecca.io/revoke-ownership/binance)
 {% endhint %}
 
-## How to Use Renounce Ownership
+## How to Use Revoke Ownership
 
 ### Step 1: Connect Wallet
 
@@ -32,7 +32,7 @@ Click the Connect Wallet button in the top-right corner to connect.
 
 ### Step 2: Select Token Address
 
-Select the token contract address you want to renounce ownership for.
+Select the token contract address you want to revoke ownership for.
 
 {% hint style="warning" %}
 This feature is only available for tokens created through Alphecca. Only the token owner can renounce ownership.
@@ -43,26 +43,26 @@ This feature is only available for tokens created through Alphecca. Only the tok
 Review the warning message and confirm that you understand the consequences.
 
 {% hint style="danger" %}
-This action is irreversible. Once ownership is renounced, you will permanently lose the ability to modify token settings including Tax, Anti Bot, Anti Whale, Blacklist, Mint, and Pause functions.
+This action is irreversible. Once ownership is revoked, you will permanently lose the ability to modify token settings including Tax, Anti Bot, Anti Whale, Blacklist, Mint, and Pause functions.
 {% endhint %}
 
-### Step 4: Renounce Ownership
+### Step 4: Revoke Ownership
 
-Click the 'Renounce Ownership' button and approve the transaction in your wallet.
+Click the 'Revoke Ownership' button and approve the transaction in your wallet.
 
 ***
 
 ### Frequently Asked Questions
 
-#### Why renounce ownership?
+#### Why revoke ownership?
 
-Renouncing ownership signals to your community that the token is fully decentralized and cannot be manipulated by the creator. This builds trust and confidence among holders.
+Revoking ownership signals to your community that the token is fully decentralized and cannot be manipulated by the creator. This builds trust and confidence among holders.
 
-#### Can I recover ownership after renouncing?
+#### Can I recover ownership after revoking?
 
-No. Renouncing ownership is permanent and irreversible. The token will have no owner forever.
+No. Revoking  ownership is permanent and irreversible. The token will have no owner forever.
 
-#### What functions become unavailable after renouncing?
+#### What functions become unavailable after revoking?
 
 | Function     | Status After Renounce |
 | ------------ | --------------------- |
@@ -73,6 +73,6 @@ No. Renouncing ownership is permanent and irreversible. The token will have no o
 | Mint         | Disabled forever      |
 | Pause        | Disabled forever      |
 
-#### Should I configure all settings before renouncing?
+#### Should I configure all settings before revoking?
 
-Yes. Make sure all Tax, Anti Bot, and Anti Whale settings are finalized before renouncing. You will not be able to change them afterward.
+Yes. Make sure all Tax, Anti Bot, and Anti Whale settings are finalized before revoking. You will not be able to change them afterward.
