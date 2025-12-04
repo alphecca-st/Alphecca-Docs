@@ -30,12 +30,12 @@ layout:
 
 Click the Connect Wallet button in the top-right corner to connect.
 
-### Step 2: Enter Token Address
+### Step 2: Select Token Address
 
-Enter the token contract address you want to configure tax settings for.
+Select the token contract address you want to configure tax settings for.
 
 {% hint style="warning" %}
-Only the token owner can modify tax settings.
+This feature is only available for tokens created through Alphecca. Only the token owner can modify settings.
 {% endhint %}
 
 ### Step 3: Configure Tax Rates
@@ -48,7 +48,7 @@ Only the token owner can modify tax settings.
 | Tax Wallet   | Wallet address to receive collected fees      |
 
 {% hint style="info" %}
-Maximum tax rate is 100% (10000 basis points). Setting 0% disables that specific tax.
+Maximum tax rate is 100%. Setting 0% disables that specific tax.
 {% endhint %}
 
 ### Step 4: Save Settings
