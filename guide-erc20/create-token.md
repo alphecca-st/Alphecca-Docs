@@ -84,9 +84,9 @@ Prevent large holders from manipulating the market.
 | Max Buy Amount    | Maximum tokens per buy transaction (0 = no limit)  |
 | Max Sell Amount   | Maximum tokens per sell transaction (0 = no limit) |
 | Max Wallet Amount | Maximum tokens a wallet can hold (0 = no limit)    |
-| Buy Cooldown      | Minimum time between buys (seconds)                |
-| Sell Cooldown     | Minimum time between sells (seconds)               |
-| Active Duration   | How long this feature stays active (hours)         |
+| Buy Cooldown      | Minimum time between buys (minutes)                |
+| Sell Cooldown     | Minimum time between sells (minutes)               |
+| Active Duration   | How long this feature stays active (days)          |
 
 {% hint style="info" %}
 Buy/Sell limits are based on liquidity pool transactions. You must create a liquidity pool through Alphecca's Create Liquidity Pool page for these limits to take effect.
