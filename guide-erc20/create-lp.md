@@ -54,12 +54,12 @@ Multiple quote token options available. Choose the best pairing for your token's
 
 ### Step 4: Set Fee Tier (V3 Only)
 
-| Fee Tier | Best For              |
-| -------- | --------------------- |
-| 0.01%    | Stablecoin pairs      |
-| 0.05%    | Correlated pairs      |
-| 0.30%    | Most pairs            |
-| 1.00%    | Exotic/volatile pairs |
+| Fee Tier      | Best For              |
+| ------------- | --------------------- |
+| 0.01%         | Stablecoin pairs      |
+| 0.05%         | Correlated pairs      |
+| 0.25% / 0.30% | Most pairs            |
+| 1.00%         | Exotic/volatile pairs |
 
 ### Step 5: Set Initial Liquidity
 
