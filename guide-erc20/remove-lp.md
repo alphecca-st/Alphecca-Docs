@@ -37,27 +37,24 @@ Click the Connect Wallet button in the top-right corner to connect.
 | V2 Pool   | Remove liquidity using LP tokens   |
 | V3 Pool   | Remove liquidity from NFT position |
 
-### Step 3: Select Position
+### Step 3: Select LP Token
 
-| Pool Type | Selection Method                             |
-| --------- | -------------------------------------------- |
-| V2 Pool   | Select LP token from your wallet             |
-| V3 Pool   | Select NFT position from your positions list |
+Select your LP token (V2) or NFT position (V3) from the dropdown field. Alphecca automatically detects your available positions.
 
 ### Step 4: Set Amount
 
 Enter the amount or percentage of liquidity to remove.
 
-### Step 5: Collect Fees (V3 Only)
+### Step 5: Fee Collection Option (V3 Only)
+
+| Option                | Description                                   |
+| --------------------- | --------------------------------------------- |
+| Remove Only           | Remove liquidity without collecting fees      |
+| Remove + Collect Fees | Remove liquidity and collect accumulated fees |
 
 {% hint style="info" %}
-V3 positions accumulate trading fees separately. You can collect fees without removing liquidity, or collect them together when removing.
+V3 positions accumulate trading fees separately. Choose whether to collect them together when removing liquidity.
 {% endhint %}
-
-| Option            | Description                                       |
-| ----------------- | ------------------------------------------------- |
-| Collect Fees Only | Claim accumulated fees without removing liquidity |
-| Remove + Collect  | Remove liquidity and collect fees together        |
 
 ### Step 6: Remove Liquidity
 
@@ -79,10 +76,10 @@ Not necessarily. The amount you receive depends on:
 * Impermanent loss (price divergence between paired tokens)
 * Accumulated trading fees (added to your share)
 
-#### What happens to uncollected fees in V3?
-
-Uncollected fees remain in your position until you claim them. You can collect fees anytime without removing your liquidity.
-
 #### Can I remove partial liquidity?
 
 Yes. You can remove any percentage of your liquidity while keeping the rest in the pool.
+
+#### How do I collect fees only without removing liquidity? (V3)
+
+Use the Collect Fees page to claim accumulated trading fees while keeping your position active.
