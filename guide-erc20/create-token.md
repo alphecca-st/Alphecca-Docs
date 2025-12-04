@@ -41,7 +41,7 @@ Click the Connect Wallet button in the top-right corner.
 | Decimals | The decimal precision of your token      |
 | Supply   | The total number of tokens to be issued  |
 
-### Step 3: Optional Features
+### Step 3: Advanced Options
 
 #### Tax Settings
 
