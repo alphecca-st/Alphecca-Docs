@@ -113,7 +113,9 @@ Tokens created with these features disabled cannot use them later.
 
 Click the 'Create Token' button and approve the transaction in your wallet.
 
+### Step 5: Check Transaction Logs
 
+After transaction is confirmed, go to the 'Transaction Logs' tab to view your token contract address and transaction hash. Click the explorer icon to verify directly on the block explorer.
 
 ### Frequently Asked Questions
 
