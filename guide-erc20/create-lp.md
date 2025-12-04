@@ -43,27 +43,26 @@ V3 pools allow you to concentrate liquidity within specific price ranges, potent
 
 ### Step 3: Select Token Pair
 
-| Field       | Description                               |
-| ----------- | ----------------------------------------- |
-| Base Token  | Your token to be listed                   |
-| Quote Token | The pairing token (ETH, USDC, USDT, etc.) |
+| Field      | Description                               |
+| ---------- | ----------------------------------------- |
+| Token      | Your token to be listed                   |
+| Base Token | The pairing token (ETH, USDC, USDT, etc.) |
 
 {% hint style="success" %}
-Multiple quote token options available. Choose the best pairing for your token's target market.
+Multiple base token options available. Choose the best pairing for your token's target market.
 {% endhint %}
 
 ### Step 4: Set Fee Tier (V3 Only)
 
-| Fee Tier      | Best For              |
-| ------------- | --------------------- |
-| 0.01%         | Stablecoin pairs      |
-| 0.05%         | Correlated pairs      |
-| 0.25% / 0.30% | Most pairs            |
-| 1.00%         | Exotic/volatile pairs |
+Select a fee tier: 0.01% / 0.05% / (0.25%, 0.30%) / 1.00%
+
+{% hint style="info" %}
+Lower fee tiers mean less cost for traders but smaller rewards for liquidity providers. The pool creator earns rewards proportional to this fee rate from every trade.
+{% endhint %}
 
 ### Step 5: Set Initial Liquidity
 
-Enter the amount of tokens and quote tokens to add to the initial liquidity pool.
+Enter the amount of tokens and base tokens to add to the initial liquidity pool.
 
 {% hint style="warning" %}
 Your wallet balance must be greater than the sum of tokens to add, service fees, and network gas fees.
@@ -77,11 +76,11 @@ Click the 'Create LP' button and approve the transaction in your wallet.
 **Transaction Approvals Required:**
 
 * **Native Token (ETH, BNB, POL):** 2 transactions
-  * 1x Base Token Approve
+  * 1x Token Approve
   * 1x Create Liquidity Pool
 * **Stablecoin (USDC, USDT, etc.):** 3 transactions
+  * 1x Token Approve
   * 1x Base Token Approve
-  * 1x Quote Token Approve
   * 1x Create Liquidity Pool
 {% endhint %}
 
