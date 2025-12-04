@@ -44,9 +44,9 @@
 * [Add Liquidity Pool](guide-erc20/add-lp.md)
 * [Burn Liquidity Pool](guide-erc20/burn-lp.md)
 * [Remove Liquidity Pool](guide-erc20/remove-lp.md)
-* [Tax Settings](guide-erc20/remove-lp-1.md)
-* [Copy of Copy of Remove Liquidity Pool](guide-erc20/remove-lp-2.md)
-* [Copy of Copy of Remove Liquidity Pool](guide-erc20/remove-lp-3.md)
+* [Tax Settings](guide-erc20/tax.md)
+* [Anti-Bot Settings](guide-erc20/anti-bot.md)
+* [Copy of Copy of Remove Liquidity Pool](guide-erc20/remove-lp-1.md)
 
 ## ALPHECCA INFO <a href="#info" id="info"></a>
 

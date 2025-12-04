@@ -16,61 +16,62 @@ layout:
     visible: true
 ---
 
-# Tax Settings
+# Copy of Copy of Remove Liquidity Pool
 
 **Withdraw liquidity and remove your token’s LP.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/tax/bsc/](https://alphecca.io/tax/bsc/)
+#### [https://alphecca.io/bsc/remove-lp](https://alphecca.io/bsc/remove-lp)
 {% endhint %}
 
-## How to Use Tax Settings
+## How to Use Remove Liquidity
 
 ### Step 1: Connect Wallet
 
 Click the Connect Wallet button in the top-right corner to connect.
 
-### Step 2: Select Token Address
+### Step 2: Select Pool Type
 
-Select the token contract address you want to configure tax settings for.
+| Pool Type | Description                        |
+| --------- | ---------------------------------- |
+| V2 Pool   | Remove liquidity using LP tokens   |
+| V3 Pool   | Remove liquidity from NFT position |
 
-{% hint style="warning" %}
-This feature is only available for tokens created through Alphecca. Only the token owner can modify settings.
-{% endhint %}
+### Step 3: Select LP Token
 
-### Step 3: Configure Tax Rates
+Select your LP token (V2) or NFT position (V3) from the dropdown field. Alphecca automatically detects your available positions.
 
-| Field        | Description                                   |
-| ------------ | --------------------------------------------- |
-| Buy Tax      | Fee applied when buying (%)                   |
-| Sell Tax     | Fee applied when selling (%)                  |
-| Transfer Tax | Fee applied on wallet-to-wallet transfers (%) |
-| Tax Wallet   | Wallet address to receive collected fees      |
+### Step 4: Set Amount
+
+Enter the amount or percentage of liquidity to remove.
+
+### Step 5: Fee Collection Option (V3 Only)
+
+| Option                | Description                                   |
+| --------------------- | --------------------------------------------- |
+| Remove Only           | Remove liquidity without collecting fees      |
+| Remove + Collect Fees | Remove liquidity and collect accumulated fees |
 
 {% hint style="info" %}
-Maximum tax rate is 100%. Setting 0% disables that specific tax.
+V3 positions accumulate trading fees separately. Choose whether to collect them together when removing liquidity.
 {% endhint %}
 
-### Step 4: Save Settings
+### Step 6: Remove Liquidity
 
-Click the 'Update Tax' button and approve the transaction in your wallet.
+Click the 'Remove Liquidity' button and approve the transaction in your wallet.
 
 ***
 
 ### Frequently Asked Questions
 
-#### How much does it cost to change tax settings?
+#### What is the purpose of Remove Liquidity?
 
-A one-time fee is charged only during initial setup. After that, all changes are completely free.
+Removing liquidity means withdrawing your share of tokens from the liquidity pool. When you redeem your LP tokens (V2) or close your position (V3), you receive back your contributed assets based on the current pool ratio.
 
-#### Can I disable tax after enabling it?
+#### Can I remove partial liquidity?
 
-Yes. Set all tax rates to 0% to effectively disable taxation. The feature remains enabled but no fees will be collected.
+Yes. You can remove any percentage of your liquidity while keeping the rest in the pool.
 
-#### When do tax settings take effect?
+#### How do I collect fees only without removing liquidity? (V3)
 
-Tax settings take effect immediately after the transaction is confirmed. All subsequent trades will apply the new rates.
-
-#### Why isn't my Buy/Sell Tax working?
-
-Buy/Sell Tax only applies to trades through liquidity pools. Make sure you have created a liquidity pool through Alphecca's Create Liquidity Pool page for the tax to take effect.
+Use the Collect Fees page to claim accumulated trading fees while keeping your position active.
