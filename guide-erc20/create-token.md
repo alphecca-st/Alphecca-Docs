@@ -96,7 +96,7 @@ Buy/Sell limits are based on liquidity pool transactions. You must create a liqu
 Can be modified for free anytime via Anti Whale Settings page.
 {% endhint %}
 
-#### Additional Features
+#### Built-in Features
 
 | Feature     | Description                                     |
 | ----------- | ----------------------------------------------- |
@@ -143,8 +143,12 @@ These restrictions help maintain price stability and create a fair trading envir
 
 #### Can I modify Tax / Anti-Bot / Anti-Whale settings after creation?
 
-Yes. A one-time fee of 0.006 ETH is charged only during initial setup. After that, all changes are completely free through their respective settings pages. However, features that were disabled during token creation cannot be enabled later.
+Yes. A one-time fee of 0.006 ETH is charged only during initial setup. After that, all changes are completely free through their respective settings pages.
 
 #### Do I need to verify the contract manually?
 
 If you enable Auto Verify, the contract will be automatically verified on the block explorer. Otherwise, you can verify it manually through the block explorer's verification page.
+
+#### I can't see my created token in my wallet app.
+
+ERC-20 tokens are not automatically detected by wallet apps. You need to manually import the token by entering the token contract address through the 'Import Token' feature in your wallet. Alternatively, you can view all tokens held by your wallet by entering your wallet address on the chain's block explorer.
