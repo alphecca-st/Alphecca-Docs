@@ -63,12 +63,16 @@ When adding liquidity to an existing pool, you must maintain the current pool ra
 
 #### What happens to my LP tokens after adding liquidity?
 
-After successfully adding liquidity, you'll receive additional LP tokens proportional to your contribution. These tokens represent your increased share of the pool and entitle you to a larger portion of trading fees.
+After successfully adding liquidity, you'll receive LP tokens proportional to your contribution. These tokens represent your share of the pool and entitle you to a portion of trading fees.
 
-| Pool Type | LP Token Format                                              |
-| --------- | ------------------------------------------------------------ |
-| V2 Pool   | Additional tokens added to existing LP balance               |
-| V3 Pool   | New NFT position or increased liquidity in existing position |
+| Pool Type | LP Token Format                                      |
+| --------- | ---------------------------------------------------- |
+| V2 Pool   | Additional tokens added to existing LP balance       |
+| V3 Pool   | New NFT position created for each liquidity addition |
+
+{% hint style="info" %}
+V3 pools create a new NFT for each position, even when adding to the same price range. You can manage multiple positions separately.
+{% endhint %}
 
 #### Can I add liquidity to any pool?
 
