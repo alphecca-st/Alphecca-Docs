@@ -65,7 +65,7 @@ Lower fee tiers mean less cost for traders but smaller rewards for liquidity pro
 Enter the amount of tokens and base tokens to add to the initial liquidity pool.
 
 {% hint style="warning" %}
-Your wallet balance must be greater than the sum of tokens to add, service fees, and network gas fees.
+Your wallet balance must be greater than the sum of base tokens to add, service fees, and network gas fees.
 {% endhint %}
 
 ### Step 6: Create Pool

@@ -117,25 +117,29 @@ Click the 'Create Token' button and approve the transaction in your wallet.
 
 ### Frequently Asked Questions
 
+#### What kind of token does Alphecca create?
+
+Alphecca creates standard ERC-20 tokens that are fully compatible with all decentralized exchanges (DEXs), wallets, and DeFi protocols. Your token can be traded on Uniswap, PancakeSwap, SushiSwap, and any other ERC-20 compatible platform.
+
 #### Can I trade the token immediately after creation?
 
 No. After creating the token, you need to create a liquidity pool to enable trading. Please use Alphecca's Create Liquidity Pool page to set this up.
 
-#### What are the benefits of Anti Bot?
+#### What are the benefits of Anti-Bot?
 
-Anti Bot limits the number of transactions per wallet per block, effectively defending against sandwich attacks and preventing bots from exploiting your trades.
+Anti-Bot limits the number of transactions per wallet per block, effectively defending against sandwich attacks and preventing bots from exploiting your trades.
 
-#### What are the benefits of Anti Whale?
+#### What are the benefits of Anti-Whale?
 
-Anti Whale protects your community by preventing large-scale market manipulation:
+Anti-Whale protects your community by preventing large-scale market manipulation:
 
-* **Max Buy/Sell Amount:** Limits how many tokens can be bought or sold in a single transaction
-* **Max Wallet Amount:** Limits how many tokens a single wallet can hold
+* **Max Buy/Sell Limit:** Limits how many tokens can be bought or sold in a single transaction
+* **Wallet Limit:** Limits how many tokens a single wallet can hold
 * **Buy/Sell Cooldown:** Sets minimum waiting time between transactions
 
 These restrictions help maintain price stability and create a fair trading environment for all holders.
 
-#### Can I modify Tax / Anti Bot / Anti Whale settings after creation?
+#### Can I modify Tax / Anti-Bot / Anti-Whale settings after creation?
 
 Yes. A one-time fee of 0.006 ETH is charged only during initial setup. After that, all changes are completely free through their respective settings pages. However, features that were disabled during token creation cannot be enabled later.
 
