@@ -30,35 +30,34 @@ layout:
 
 Click the Connect Wallet button in the top-right corner to connect.
 
-### Step 2: Select Pool Type
+### Step 2: Select LP Token
 
-| Pool Type | Description                        |
-| --------- | ---------------------------------- |
-| V2 Pool   | Remove liquidity using LP tokens   |
-| V3 Pool   | Remove liquidity from NFT position |
+Select the LP token you want to remove from the dropdown. Both V2 LP tokens and V3 NFT positions are displayed.
 
-### Step 3: Select LP Token
+| Pool Type | LP Token Type                         |
+| --------- | ------------------------------------- |
+| V2 Pool   | Standard ERC-20 LP token              |
+| V3 Pool   | NFT position (unique per price range) |
 
-Select your LP token (V2) or NFT position (V3) from the dropdown field. Alphecca automatically detects your available positions.
+### Step 3: Set Remove Amount
 
-### Step 4: Set Amount
-
-Enter the amount or percentage of liquidity to remove.
-
-### Step 5: Fee Collection Option (V3 Only)
-
-| Option                | Description                                   |
-| --------------------- | --------------------------------------------- |
-| Remove Only           | Remove liquidity without collecting fees      |
-| Remove + Collect Fees | Remove liquidity and collect accumulated fees |
+Use the slider or percentage buttons (25%, 50%, 75%, 100%) to select how much liquidity to remove.
 
 {% hint style="info" %}
-V3 positions accumulate trading fees separately. Choose whether to collect them together when removing liquidity.
+The estimated assets to be received are displayed below the slider, calculated based on current pool reserves.
 {% endhint %}
 
-### Step 6: Remove Liquidity
+### Step 4: V3 Options (V3 Only)
+
+For V3 positions, toggle 'With Fees' to collect accumulated trading fees along with your liquidity removal.
+
+### Step 5: Remove Liquidity
 
 Click the 'Remove Liquidity' button and approve the transaction in your wallet.
+
+### Step 6: Check Transaction Logs
+
+After transaction is confirmed, go to the 'Transaction Logs' tab to view your transaction hash. Click the explorer icon to verify directly on the block explorer.
 
 ***
 
@@ -72,6 +71,11 @@ Removing liquidity means withdrawing your share of tokens from the liquidity poo
 
 Yes. You can remove any percentage of your liquidity while keeping the rest in the pool.
 
-#### How do I collect fees only without removing liquidity? (V3)
+#### Do I receive wrapped or native tokens?
 
-Use the Collect Fees page to claim accumulated trading fees while keeping your position active.
+No. If your pool contains wrapped native tokens (WETH, WBNB, WPOL, etc.), Alphecca automatically unwraps them. You will receive native tokens (ETH, BNB, POL) directly to your wallet.
+
+#### What happens to my uncollected V3 fees if I remove 100% liquidity?
+
+If 'With Fees' toggle is ON, all accumulated trading fees are collected along with your liquidity. If OFF, fees remain in the position - but since liquidity is removed, you'll need to collect them separately before the position is burned.
+
