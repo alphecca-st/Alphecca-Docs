@@ -24,42 +24,60 @@ layout:
 #### [https://alphecca.io/create-token](https://alphecca.io/create-token)
 {% endhint %}
 
-## How to Use Create Token?&#x20;
+## How to Create a Token
 
-1. Click the **Connect Wallet** button in the top-right corner to connect.
-2.  Enter the required fields:
+### Step 1: Connect Wallet
 
-    <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+Click the Connect Wallet button in the top-right corner to connect.
 
-    * **Image:** The image for the token, which must not exceed 1.5 MB.
-    * **Name:** The full name of the token.
-    * **Symbol:** The token’s abbreviation.
-    * **Description:** A description of the token.
-    * **Supply:** The total supply of tokens to be issued.
-    * **Decimals:** The token’s decimal precision.
-3.  (Optional) Enter the **Social Links**:
+### Step 2: Basic Information (Required)
 
-    <div data-full-width="true"><figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure></div>
+| Field       | Description                              |
+| ----------- | ---------------------------------------- |
+| Image       | The image for the token (max 1.5 MB)     |
+| Name        | The full name of your token              |
+| Symbol      | The token's ticker symbol (abbreviation) |
+| Description | A description of your token              |
+| Supply      | The total number of tokens to be issued  |
+| Decimals    | The decimal precision of your token      |
 
-    Website, Discord, Twitter, Telegram
-4.  (Optional) Set **Revoke Authorities**
+### Step 3: Social Links (Optional)
 
-    <div align="center" data-full-width="true"><figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure></div>
+| Field    | Description           |
+| -------- | --------------------- |
+| Website  | Project website URL   |
+| Discord  | Discord server invite |
+| Twitter  | Twitter profile URL   |
+| Telegram | Telegram group invite |
 
-    * &#x20;For tokens intended to be listed on Raydium, it is generally recommended to **revoke freeze** and **mint** permissions.
-    * &#x20;The metadata update permission can be set according to your preference.
-    * If metadata update permission is revoked, the token’s name and logo **cannot be changed** afterward.
-5.  Click the **Create Token button** and approve the transaction in your wallet app.<br>
+### Step 4: Revoke Authorities (Optional)
 
-    <div align="left"><figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure></div>
+| Authority     | Description                                  |
+| ------------- | -------------------------------------------- |
+| Revoke Freeze | Remove the ability to freeze token accounts  |
+| Revoke Mint   | Remove the ability to mint additional tokens |
+| Revoke Update | Remove the ability to update token metadata  |
 
+{% hint style="info" %}
+For tokens intended to be listed on Raydium, it is generally recommended to revoke freeze and mint permissions.
+{% endhint %}
 
+{% hint style="warning" %}
+If metadata update permission is revoked, the token's name and logo cannot be changed afterward.
+{% endhint %}
 
-## How Much Does Create Token Cost?
+### Step 5: Create Token
 
-In addition to the Service Fees, approximately **0.019 SOL** in extra costs will be incurred.\
-These cover token **ATA creation fees**, **minting fees**, **metadata fees**, and other related expenses.
+Click the 'Create Token' button and approve the transaction in your wallet.
 
-## Can I trade the token immediately after creation?
+***
 
-No. After creating the token, you need to create a liquidity pool to enable trading. Please use Alphecca’s **Create Liquidity Pool** page to set this up.
+### Frequently Asked Questions
+
+#### How much does it cost to create a token?
+
+In addition to the service fee, approximately 0.019 SOL in extra costs will be incurred. These cover token ATA creation fees, minting fees, metadata fees, and other related expenses.
+
+#### Can I trade the token immediately after creation?
+
+No. After creating the token, you need to create a liquidity pool to enable trading. Please use Alphecca's Create Liquidity Pool page to set this up.
