@@ -84,6 +84,10 @@ Click the 'Create LP' button and approve the transaction in your wallet.
   * 1x Create Liquidity Pool
 {% endhint %}
 
+### Step 7: Check Transaction Logs
+
+After transaction is confirmed, go to the 'Transaction Logs' tab to view transaction hash. Click the explorer icon to verify directly on the block explorer.
+
 ***
 
 ### Frequently Asked Questions
