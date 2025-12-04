@@ -21,7 +21,7 @@ layout:
 **Distribute your tokens to multiple addresses quickly and easily.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/ethreum/multi-sender](https://alphecca.io/multi-sender)
+#### [https://alphecca.io/bsc/multi-sender](https://alphecca.io/bsc/multi-sender)
 {% endhint %}
 
 ## How to Use Multi Sender
