@@ -21,25 +21,81 @@ layout:
 **Set up a liquidity pool to make your token tradable.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/create-lp](https://alphecca.io/create-lp)
+#### [https://alphecca.io/ethereum/create-lp](https://alphecca.io/create-lp)
 {% endhint %}
 
-## How to Use Create Liquidity Pool?&#x20;
+## How to Use Create Liquidity Pool
 
-1. Click the **Connect Wallet** button in the top-right corner to connect.
-2. Select the **token mint address** for the liquidity pool creation.
-3. Input the **amount of tokens and Solana** to be added to the **initial liquidity pool**.\
-   \- Your SOL balance must be greater than the sum of the Solana amount to add, Service Fees, and 'Raydium CPMM Fees + Network Gas Fees (approximately 0.19 SOL)'.
-4. Click the **Create LP button** and approve the transaction in your wallet app.
-5. When the transaction is completed, the **transaction signature** and **Pool ID** will be displayed at the **top right corner**.
+### Step 1: Connect Wallet
 
-## How can I check the token’s trading chart after the liquidity pool is created?
+Click the Connect Wallet button in the top-right corner to connect.
 
-You can view the trading chart immediately after the pool creation on **DEX Tools**.\
-Typically, you can check it at:\
-`https://dexscreener.com/solana/{your_token_mint_address}`\
-(Replace `{your_token_mint_address}` with your actual token mint address.)
+### Step 2: Select Pool Type
 
-## After creating the liquidity pool, an "Unknown Token" appeared in my wallet app. What is this?
+| Pool Type | Description                                          |
+| --------- | ---------------------------------------------------- |
+| V2 Pool   | Classic constant product AMM (x \* y = k)            |
+| V3 Pool   | Concentrated liquidity for higher capital efficiency |
 
-This is the LP (Liquidity Provider) Token, which represents your share of the liquidity pool. When you add liquidity, you receive LP tokens as proof of your contribution. These tokens can be used later to withdraw your share of the pool or to participate in staking or farming programs, depending on the platform. The “Unknown Token” label appears because your wallet may not recognize the LP token metadata by default, but rest assured, it is a standard part of liquidity provision on decentralized exchanges.
+{% hint style="info" %}
+V3 pools allow you to concentrate liquidity within specific price ranges, potentially earning more fees with less capital.
+{% endhint %}
+
+### Step 3: Select Token Pair
+
+| Field       | Description                               |
+| ----------- | ----------------------------------------- |
+| Base Token  | Your token to be listed                   |
+| Quote Token | The pairing token (ETH, USDC, USDT, etc.) |
+
+{% hint style="success" %}
+Multiple quote token options available. Choose the best pairing for your token's target market.
+{% endhint %}
+
+### Step 4: Set Fee Tier (V3 Only)
+
+| Fee Tier | Best For              |
+| -------- | --------------------- |
+| 0.01%    | Stablecoin pairs      |
+| 0.05%    | Correlated pairs      |
+| 0.30%    | Most pairs            |
+| 1.00%    | Exotic/volatile pairs |
+
+### Step 5: Set Initial Liquidity
+
+Enter the amount of tokens and quote tokens to add to the initial liquidity pool.
+
+{% hint style="warning" %}
+Your wallet balance must be greater than the sum of tokens to add, service fees, and network gas fees.
+{% endhint %}
+
+### Step 6: Create Pool
+
+Click the 'Create LP' button and approve the transaction in your wallet.
+
+***
+
+### Frequently Asked Questions
+
+#### Why create a liquidity pool?
+
+A liquidity pool enables trading for your token. Without it, holders cannot buy or sell on decentralized exchanges. Creating a pool instantly lists your token and opens it to the entire DeFi ecosystem.
+
+#### Which pool type should I choose?
+
+| Pool Type | Pros                              | Cons                       |
+| --------- | --------------------------------- | -------------------------- |
+| V2 Pool   | Simple, set-and-forget            | Lower capital efficiency   |
+| V3 Pool   | Higher fee earnings, less capital | Requires active management |
+
+#### How can I check the trading chart after creation?
+
+You can view the trading chart immediately on DEX Screener: `https://dexscreener.com/{chain}/{your_token_address}`
+
+#### What is the LP Token in my wallet?
+
+The LP (Liquidity Provider) Token represents your share of the liquidity pool. It proves your contribution and can be used to withdraw your liquidity or participate in staking/farming programs. The "Unknown Token" label may appear because your wallet doesn't recognize the metadata, but this is completely normal.
+
+#### Can I add more liquidity later?
+
+Yes. You can add or remove liquidity anytime through the Manage Liquidity page.
