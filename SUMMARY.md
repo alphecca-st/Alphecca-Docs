@@ -46,7 +46,7 @@
 * [Remove Liquidity Pool](guide-erc20/remove-lp.md)
 * [Tax Settings](guide-erc20/tax.md)
 * [Anti-Bot Settings](guide-erc20/anti-bot.md)
-* [Anti-Whale Settings](guide-erc20/anti-whale.md)
+* [Anti-Whale Settings](guide-erc20/remove-lp-1.md)
 
 ## ALPHECCA INFO <a href="#info" id="info"></a>
 
