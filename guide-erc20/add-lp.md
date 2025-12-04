@@ -45,10 +45,6 @@ Select the token and quote token pair for the existing liquidity pool you want t
 
 Enter the amount of tokens to add. The required quote token amount will be automatically calculated based on current pool ratio.
 
-{% hint style="info" %}
-V3 pools require selecting a price range. Your liquidity only earns fees when the price is within your selected range.
-{% endhint %}
-
 {% hint style="warning" %}
 Your wallet balance must be greater than the sum of tokens to add, service fees, and network gas fees.
 {% endhint %}
