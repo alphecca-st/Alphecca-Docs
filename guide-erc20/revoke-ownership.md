@@ -21,7 +21,7 @@ layout:
 **Withdraw liquidity and remove your token’s LP.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/revoke-ownership/binance](https://alphecca.io/anti-whale/binance)
+#### [https://alphecca.io/revoke-ownership/binance](https://alphecca.io/revoke-ownership/binance)
 {% endhint %}
 
 ## How to Use Renounce Ownership
