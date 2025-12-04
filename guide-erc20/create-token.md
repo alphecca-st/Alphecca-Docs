@@ -127,13 +127,13 @@ Anti Bot limits the number of transactions per wallet per block, effectively def
 
 #### What are the benefits of Anti Whale?
 
-Anti Whale prevents large holders from manipulating the market by:
+Anti Whale protects your community by preventing large-scale market manipulation:
 
-* Limiting maximum buy/sell amounts per transaction
-* Setting maximum wallet holdings
-* Enforcing cooldown periods between trades
+* **Max Buy/Sell Amount:** Limits how many tokens can be bought or sold in a single transaction
+* **Max Wallet Amount:** Limits how many tokens a single wallet can hold
+* **Buy/Sell Cooldown:** Sets minimum waiting time between transactions
 
-This creates a healthier trading environment and prevents pump-and-dump schemes.
+These restrictions help maintain price stability and create a fair trading environment for all holders.
 
 #### Can I modify Tax / Anti Bot / Anti Whale settings after creation?
 
