@@ -21,7 +21,7 @@ layout:
 **Distribute your tokens to multiple addresses quickly and easily.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/bsc/multi-sender](https://alphecca.io/bsc/multi-sender)
+#### [https://alphecca.io/multi-sender/binance](https://alphecca.io/multi-sender/binance)
 {% endhint %}
 
 ## How to Use Multi Sender

@@ -21,7 +21,7 @@ layout:
 **Withdraw liquidity and remove your token’s LP.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/bsc/remove-lp](https://alphecca.io/bsc/remove-lp)
+#### [https://alphecca.io/remove-lp/binance](https://alphecca.io/remove-lp/binance)
 {% endhint %}
 
 ## How to Use Remove Liquidity

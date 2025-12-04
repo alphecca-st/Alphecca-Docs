@@ -21,7 +21,7 @@ layout:
 **Launch your own Solana token instantly — no coding required.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/bsc/create-token](https://alphecca.io/bsc/create-token)
+#### [https://alphecca.io/token-creator/binance](https://alphecca.io/token-creator/binance)
 {% endhint %}
 
 

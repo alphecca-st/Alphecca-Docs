@@ -21,7 +21,7 @@ layout:
 **Set up a liquidity pool to make your token tradable.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/bsc/create-lp](https://alphecca.io/bsc/create-lp)
+#### [https://alphecca.io/create-lp/binance](https://alphecca.io/create-lp/binance)
 {% endhint %}
 
 ## How to Use Create Liquidity Pool

@@ -21,7 +21,7 @@ layout:
 **Add liquidity to existing Raydium CPMM pools to receive LP tokens and earn trading fees.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/bsc/add-lp](https://alphecca.io/bsc/add-lp)
+#### [https://alphecca.io/add-lp/binance](https://alphecca.io/add-lp/binance)
 {% endhint %}
 
 ## How to Use Add Liquidity

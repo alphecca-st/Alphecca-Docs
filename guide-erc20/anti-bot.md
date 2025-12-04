@@ -21,7 +21,7 @@ layout:
 **Withdraw liquidity and remove your token’s LP.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/anti-bot/bsc](https://alphecca.io/bsc/remove-lp)
+#### [https://alphecca.io/anti-bot/binance](https://alphecca.io/anti-bot/binance)
 {% endhint %}
 
 ## How to Use Anti Bot Settings

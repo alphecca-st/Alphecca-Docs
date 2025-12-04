@@ -21,7 +21,7 @@ layout:
 **Withdraw liquidity and remove your token’s LP.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/tax/bsc/](https://alphecca.io/tax/bsc/)
+#### [https://alphecca.io/tax/binance](https://alphecca.io/tax/binance)
 {% endhint %}
 
 ## How to Use Tax Settings
