@@ -21,7 +21,7 @@ layout:
 **Withdraw liquidity and remove your token’s LP.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/remove-lp](https://alphecca.io/remove-lp)
+#### [https://alphecca.io/bsc/remove-lp](https://alphecca.io/remove-lp)
 {% endhint %}
 
 ## How to Use Remove Liquidity
@@ -67,14 +67,6 @@ Click the 'Remove Liquidity' button and approve the transaction in your wallet.
 #### What is the purpose of Remove Liquidity?
 
 Removing liquidity means withdrawing your share of tokens from the liquidity pool. When you redeem your LP tokens (V2) or close your position (V3), you receive back your contributed assets based on the current pool ratio.
-
-#### Will I get back the same amount I deposited?
-
-Not necessarily. The amount you receive depends on:
-
-* Current pool ratio (may have changed due to trades)
-* Impermanent loss (price divergence between paired tokens)
-* Accumulated trading fees (added to your share)
 
 #### Can I remove partial liquidity?
 
