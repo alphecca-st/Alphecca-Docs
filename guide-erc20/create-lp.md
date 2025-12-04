@@ -94,7 +94,12 @@ You can view the trading chart immediately on DEX Screener: `https://dexscreener
 
 #### What is the LP Token in my wallet?
 
-The LP (Liquidity Provider) Token represents your share of the liquidity pool. It proves your contribution and can be used to withdraw your liquidity or participate in staking/farming programs. The "Unknown Token" label may appear because your wallet doesn't recognize the metadata, but this is completely normal.
+The LP (Liquidity Provider) Token represents your share of the liquidity pool. It proves your contribution and can be used to withdraw your liquidity or participate in staking/farming programs.
+
+| Pool Type | LP Token Format                                    |
+| --------- | -------------------------------------------------- |
+| V2 Pool   | Standard ERC-20 token                              |
+| V3 Pool   | NFT (each position is unique based on price range) |
 
 #### Can I add more liquidity later?
 
