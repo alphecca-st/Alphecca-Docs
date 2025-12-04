@@ -45,9 +45,9 @@ This feature is only available for tokens created through Alphecca. Only the tok
 | Max Buy Amount  | Maximum tokens per buy transaction (0 = no limit)  |
 | Max Sell Amount | Maximum tokens per sell transaction (0 = no limit) |
 | Wallet Limit    | Maximum tokens a wallet can hold (0 = no limit)    |
-| Buy Cooldown    | Minimum time between buys (seconds)                |
-| Sell Cooldown   | Minimum time between sells (seconds)               |
-| Active Duration | How long this feature stays active (hours)         |
+| Buy Cooldown    | Minimum time between buys (minutes)                |
+| Sell Cooldown   | Minimum time between sells (minutes)               |
+| Active Duration | How long this feature stays active (days)          |
 
 {% hint style="info" %}
 Anti Whale protects your community by preventing large-scale market manipulation and maintaining price stability.
