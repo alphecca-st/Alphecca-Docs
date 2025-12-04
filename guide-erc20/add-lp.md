@@ -46,7 +46,7 @@ Select the token and quote token pair for the existing liquidity pool you want t
 Enter the amount of tokens to add. The required quote token amount will be automatically calculated based on current pool ratio.
 
 {% hint style="warning" %}
-Your wallet balance must be greater than the sum of tokens to add, service fees, and network gas fees.
+Your wallet balance must be greater than the sum of base tokens to add, service fees, and network gas fees.
 {% endhint %}
 
 ### Step 5: Add Liquidity
