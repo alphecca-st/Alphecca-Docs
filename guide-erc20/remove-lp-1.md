@@ -55,7 +55,7 @@ Anti Whale protects your community by preventing large-scale market manipulation
 
 ### Step 4: Save Settings
 
-Click the 'Update Anti Whale' button and approve the transaction in your wallet.
+Click the 'Set Anti-Whale' button and approve the transaction in your wallet.
 
 ***
 
