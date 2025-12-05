@@ -127,6 +127,12 @@ Alphecca creates standard ERC-20 tokens that are fully compatible with all decen
 
 No. After creating the token, you need to create a liquidity pool to enable trading. Please use Alphecca's Create Liquidity Pool page to set this up.
 
+#### What is Tax System?
+
+Tax Settings allows you to automatically collect fees whenever your token is traded or transferred on-chain. Collected fees are sent directly to your designated wallet.
+
+**Example:** If the transfer fee is set to 1% and User A sends 1,000 tokens to User B, 10 tokens (1%) are automatically collected to the fee receiver wallet.
+
 #### What are the benefits of Anti-Bot?
 
 Anti-Bot limits the number of transactions per wallet per block, effectively defending against sandwich attacks and preventing bots from exploiting your trades.
