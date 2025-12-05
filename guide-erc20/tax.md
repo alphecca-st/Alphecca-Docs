@@ -40,12 +40,12 @@ This feature is only available for tokens created through Alphecca. Only the tok
 
 ### Step 3: Configure Tax Rates
 
-| Field        | Description                                   |
-| ------------ | --------------------------------------------- |
-| Buy Tax      | Fee applied when buying (%)                   |
-| Sell Tax     | Fee applied when selling (%)                  |
-| Transfer Tax | Fee applied on wallet-to-wallet transfers (%) |
-| Tax Wallet   | Wallet address to receive collected fees      |
+| Field               | Description                                   |
+| ------------------- | --------------------------------------------- |
+| Buy Tax             | Fee applied when buying (%)                   |
+| Sell Tax            | Fee applied when selling (%)                  |
+| Transfer Tax        | Fee applied on wallet-to-wallet transfers (%) |
+| Fee Receiver Wallet | Wallet address to receive collected fees      |
 
 {% hint style="info" %}
 Maximum tax rate is 100%. Setting 0% disables that specific tax.
