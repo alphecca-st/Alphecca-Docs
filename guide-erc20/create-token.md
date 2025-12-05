@@ -66,10 +66,10 @@ Can be modified for free anytime via Tax Settings page.
 
 Prevent bot activities by limiting transaction frequency.
 
-| Field            | Description                                              |
-| ---------------- | -------------------------------------------------------- |
-| Max Tx Per Block | Maximum transactions per wallet per block (0 = no limit) |
-| Active Duration  | How long this feature stays active (hours)               |
+| Field            | Description                                                |
+| ---------------- | ---------------------------------------------------------- |
+| Max Tx Per Block | Maximum transactions per wallet per block (0 = no limit)   |
+| Active Duration  | How long this feature stays active (hours) (0 = permanent) |
 
 {% hint style="info" %}
 Can be modified for free anytime via Anti Bot Settings page.
@@ -79,14 +79,14 @@ Can be modified for free anytime via Anti Bot Settings page.
 
 Prevent large holders from manipulating the market.
 
-| Field             | Description                                        |
-| ----------------- | -------------------------------------------------- |
-| Max Buy Amount    | Maximum tokens per buy transaction (0 = no limit)  |
-| Max Sell Amount   | Maximum tokens per sell transaction (0 = no limit) |
-| Max Wallet Amount | Maximum tokens a wallet can hold (0 = no limit)    |
-| Buy Cooldown      | Minimum time between buys (minutes)                |
-| Sell Cooldown     | Minimum time between sells (minutes)               |
-| Active Duration   | How long this feature stays active (days)          |
+| Field             | Description                                                |
+| ----------------- | ---------------------------------------------------------- |
+| Max Buy Amount    | Maximum tokens per buy transaction (0 = no limit)          |
+| Max Sell Amount   | Maximum tokens per sell transaction (0 = no limit)         |
+| Max Wallet Amount | Maximum tokens a wallet can hold (0 = no limit)            |
+| Buy Cooldown      | Minimum time between buys (minutes)  (0 = no limit)        |
+| Sell Cooldown     | Minimum time between sells (minutes)  (0 = no limit)       |
+| Active Duration   | How long this feature stays active (days)  (0 = permanent) |
 
 {% hint style="info" %}
 Buy/Sell limits are based on liquidity pool transactions. You must create a liquidity pool through Alphecca's Create Liquidity Pool page for these limits to take effect.
