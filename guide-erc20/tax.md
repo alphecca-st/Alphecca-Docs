@@ -53,7 +53,7 @@ Maximum tax rate is 100%. Setting 0% disables that specific tax.
 
 ### Step 4: Save Settings
 
-Click the 'Update Tax' button and approve the transaction in your wallet.
+Click the 'Set Tax' button and approve the transaction in your wallet.
 
 ***
 

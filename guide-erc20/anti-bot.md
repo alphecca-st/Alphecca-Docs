@@ -51,7 +51,7 @@ Anti Bot limits transaction frequency per block, effectively defending against s
 
 ### Step 4: Save Settings
 
-Click the 'Update Anti Bot' button and approve the transaction in your wallet.
+Click the 'Set Anti-Bot' button and approve the transaction in your wallet.
 
 ***
 
