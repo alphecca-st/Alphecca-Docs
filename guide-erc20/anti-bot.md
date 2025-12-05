@@ -40,10 +40,10 @@ This feature is only available for tokens created through Alphecca. Only the tok
 
 ### Step 3: Configure Anti Bot Settings
 
-| Field            | Description                                              |
-| ---------------- | -------------------------------------------------------- |
-| Max Tx Per Block | Maximum transactions per wallet per block (0 = no limit) |
-| Active Duration  | How long this feature stays active (hours)               |
+| Field            | Description                                                |
+| ---------------- | ---------------------------------------------------------- |
+| Max Tx Per Block | Maximum transactions per wallet per block (0 = no limit)   |
+| Active Duration  | How long this feature stays active (hours) (0 = permanent) |
 
 {% hint style="info" %}
 Anti Bot limits transaction frequency per block, effectively defending against sandwich attacks and preventing bots from exploiting trades.
