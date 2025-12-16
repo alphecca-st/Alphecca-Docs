@@ -1,8 +1,26 @@
 # Table of contents
 
-## Alphecca Tool Guide (Solana) <a href="#guide-solana" id="guide-solana"></a>
+## Alphecca Tool Guide (ERC20) <a href="#guide-erc20" id="guide-erc20"></a>
 
 * [Create Token](README.md)
+* [Create Liquidity Pool](guide-erc20/create-lp.md)
+* [Multi Sender](guide-erc20/multi-sender.md)
+* [SWAP](guide-erc20/swap.md)
+* [Maker and Volume Bot](guide-erc20/market-maker.md)
+* [Add Liquidity](guide-erc20/add-lp.md)
+* [Burn LP Token](guide-erc20/burn-lp.md)
+* [Remove Liquidity Pool](guide-erc20/remove-lp.md)
+* [Tax Settings](guide-erc20/tax.md)
+* [Anti-Bot Settings](guide-erc20/anti-bot.md)
+* [Anti-Whale Settings](guide-erc20/remove-lp-1.md)
+* [Blacklist Management](guide-erc20/blacklist.md)
+* [Additional Token Minting](guide-erc20/mint-token.md)
+* [Pause Token](guide-erc20/pause.md)
+* [Revoke Ownership](guide-erc20/revoke-ownership.md)
+
+## Alphecca Tool Guide (Solana) <a href="#guide-solana" id="guide-solana"></a>
+
+* [Create Token](<README (1).md>)
 * [Pump.Fun Bundle Launch](guide-solana/pump-bundle-launch.md)
 * [Raydium.LaunchLab Bundle Launch](guide-solana/raydiumlaunchlab-bundle-launch.md)
 * [Let'sBonk Bundle Launch](guide-solana/bonk-bundle-launch.md)
@@ -33,21 +51,6 @@
 * [Mint Token](guide-solana/token-mint.md)
 * [Update Metadata](guide-solana/update-metadata.md)
 * [Revoke Authority](guide-solana/revoke-authority.md)
-
-## Alphecca Tool Guide (ERC20) <a href="#guide-erc20" id="guide-erc20"></a>
-
-* [Create Token](guide-erc20/create-token.md)
-* [Multi Sender](guide-erc20/multi-sender.md)
-* [SWAP](guide-erc20/swap.md)
-* [Maker and Volume Bot](guide-erc20/market-maker.md)
-* [Create Liquidity Pool](guide-erc20/create-lp.md)
-* [Add Liquidity Pool](guide-erc20/add-lp.md)
-* [Burn Liquidity Pool](guide-erc20/burn-lp.md)
-* [Remove Liquidity Pool](guide-erc20/remove-lp.md)
-* [Tax Settings](guide-erc20/tax.md)
-* [Anti-Bot Settings](guide-erc20/anti-bot.md)
-* [Anti-Whale Settings](guide-erc20/remove-lp-1.md)
-* [Revoke Ownership](guide-erc20/revoke-ownership.md)
 
 ## ALPHECCA INFO <a href="#info" id="info"></a>
 

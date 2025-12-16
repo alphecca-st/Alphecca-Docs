@@ -30,9 +30,9 @@ layout:
 
 Click the Connect Wallet button in the top-right corner to connect.
 
-### Step 2: Enter Token Address
+### Step 2: Select Token Address
 
-Enter the token mint address you want to send.
+Select the token you want to send. Choose native token or search for your token.
 
 ### Step 3: Select Sender Wallet
 
@@ -64,14 +64,55 @@ Alphecca does not store your private keys. They are used solely for local signin
 
 Click the 'Send Tokens' button and approve the transaction in your wallet.
 
+{% hint style="info" %}
+**Transaction Approvals Required:**
+
+* **Native Token (ETH, BNB, POL, etc.):** 1 transaction
+  * 1x Multi Send
+* **ERC-20 Token:** 2 transactions
+  * 1x Token Approve
+  * 1x Multi Send
+{% endhint %}
+
 ***
 
 ### Frequently Asked Questions
 
-#### Why use Multi Sender?
+#### What is Multi Sender?
 
-Multi Sender allows you to distribute tokens to hundreds of wallets in just a few clicks. Perfect for airdrops, community rewards, team token distribution, and marketing campaigns.
+Multi Sender allows you to send tokens to multiple wallets in a single transaction. It's useful for airdrops, team token distribution, and community reward payouts.
 
-#### What happens if a transaction fails?
+#### How many wallets can I send to at once?
 
-No costs (service fee or gas fees) will be charged for failed transactions.
+You can send to up to 500 wallets in a single transaction. If you need to send to more wallets, it will automatically be split into multiple transactions.
+
+#### What tokens can I send?
+
+You can send native tokens (ETH, BNB, AVAX, etc.) and all ERC-20 tokens.
+
+#### How do I enter the recipient address list?
+
+There are two methods:
+
+* **File Upload:** Upload a .csv, .txt, or .json file
+* **Manual Input:** Paste the address list directly into the input field
+
+#### What are the amount setting options?
+
+* **Manual Input:** Enter amount for each recipient individually
+* **Fixed Amount:** Apply the same amount to all recipients
+* **Random Amount:** Apply random amounts within a specified range
+
+#### Do I need to approve before sending ERC-20 tokens?
+
+Yes. To send ERC-20 tokens, you must first approve the Multi Sender contract to use your tokens. Transfer is possible after the approval transaction.
+
+#### How is the service fee calculated?
+
+The service fee is calculated based on the number of addresses you're sending to. The fee is paid in native tokens.
+
+#### What happens if the transaction fails?
+
+If the transaction fails, no service fee is charged.
+
+Need help? Contact support<br>

@@ -16,9 +16,9 @@ layout:
     visible: true
 ---
 
-# Add Liquidity Pool
+# Add Liquidity
 
-**Add liquidity to existing Raydium CPMM pools to receive LP tokens and earn trading fees.**
+Add liquidity to existing V2 or V3 pools on Monad. Earn trading fees proportional to your share.
 
 {% hint style="success" %}
 #### [https://alphecca.io/add-lp/binance](https://alphecca.io/add-lp/binance)

@@ -30,7 +30,7 @@ layout:
 
 Click the Connect Wallet button in the top-right corner to connect.
 
-### Step 2: Select LP Token
+### Step 2: Select LP Token / NFT Position
 
 Select the LP token you want to remove from the dropdown. Both V2 LP tokens and V3 NFT positions are displayed.
 
@@ -55,6 +55,21 @@ For V3 positions, toggle 'With Fees' to collect accumulated trading fees along w
 
 Click the 'Remove Liquidity' button and approve the transaction in your wallet.
 
+{% hint style="info" %}
+**Required Transaction Approvals:**
+
+* **V2 Pool:** 2 transactions
+  * 1x LP Token Approve
+  * 1x Remove Liquidity
+* **V3 Pool:** 2 transactions
+  * 1x NFT Position Approve
+  * 1x Remove Liquidity
+{% endhint %}
+
+{% hint style="info" %}
+The token approval (Approve) transaction is only required once per LP token/NFT position. After that, only 1 transaction is needed.
+{% endhint %}
+
 ### Step 6: Check Transaction Logs
 
 After transaction is confirmed, go to the 'Transaction Logs' tab to view your transaction hash. Click the explorer icon to verify directly on the block explorer.
@@ -71,11 +86,11 @@ Removing liquidity means withdrawing your share of tokens from the liquidity poo
 
 Yes. You can remove any percentage of your liquidity while keeping the rest in the pool.
 
-#### Do I receive wrapped or native tokens?
+#### Will I receive native tokens directly?
 
-No. If your pool contains wrapped native tokens (WETH, WBNB, WPOL, etc.), Alphecca automatically unwraps them. You will receive native tokens (ETH, BNB, POL) directly to your wallet.
+Yes. If your pool contains wrapped native tokens (WETH, WBNB, WPOL, etc.), Alphecca automatically unwraps them. You will receive native tokens (ETH, BNB, POL) directly to your wallet.
 
 #### What happens to my uncollected V3 fees if I remove 100% liquidity?
 
-If 'With Fees' toggle is ON, all accumulated trading fees are collected along with your liquidity. If OFF, fees remain in the position - but since liquidity is removed, you'll need to collect them separately before the position is burned.
+If '+ Fees' toggle is ON, all accumulated trading fees are collected along with your liquidity. If OFF, fees remain in the position - but since liquidity is removed, you'll need to collect them separately before the position is burned.
 

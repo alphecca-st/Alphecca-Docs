@@ -18,7 +18,7 @@ layout:
 
 # Revoke Ownership
 
-**Withdraw liquidity and remove your token’s LP.**
+Permanently revoke token ownership. This action proves your token's decentralization.
 
 {% hint style="success" %}
 #### [https://alphecca.io/revoke-ownership/binance](https://alphecca.io/revoke-ownership/binance)

@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: right-left
 layout:
   width: default

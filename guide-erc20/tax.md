@@ -18,7 +18,7 @@ layout:
 
 # Tax Settings
 
-**Withdraw liquidity and remove your token’s LP.**
+Automatically collect fees on buy, sell, and transfer. Taxes are sent to your designated wallet.
 
 {% hint style="success" %}
 #### [https://alphecca.io/tax/binance](https://alphecca.io/tax/binance)
@@ -35,25 +35,33 @@ Click the Connect Wallet button in the top-right corner to connect.
 Select the token contract address you want to configure tax settings for.
 
 {% hint style="warning" %}
-This feature is only available for tokens created through Alphecca. Only the token owner can modify settings.
+This feature is only available for tokens created through Alphecca. Only the token creator can modify settings.
 {% endhint %}
 
 ### Step 3: Configure Tax Rates
 
 | Field               | Description                                   |
 | ------------------- | --------------------------------------------- |
-| Buy Tax             | Fee applied when buying (%)                   |
-| Sell Tax            | Fee applied when selling (%)                  |
-| Transfer Tax        | Fee applied on wallet-to-wallet transfers (%) |
+| Buy Fee             | Fee applied when buying (%)                   |
+| Sell Fee            | Fee applied when selling (%)                  |
+| Transfer Fee        | Fee applied on wallet-to-wallet transfers (%) |
 | Fee Receiver Wallet | Wallet address to receive collected fees      |
 
 {% hint style="info" %}
-Maximum tax rate is 100%. Setting 0% disables that specific tax.
+Buy/Sell fees are based on liquidity pool transactions. When using Alphecca's Create Liquidity Pool page, the pool address is automatically registered to the token contract and Buy/Sell fees are applied.
+{% endhint %}
+
+{% hint style="warning" %}
+Most token swaps go through swap aggregators (wallet apps, 1inch, etc.), which results in 'Transfer + Buy/Sell fees' being applied. Please consider this when setting fee rates. To prevent double taxation, we recommend whitelisting swap aggregators or setting the transfer fee to 0.
 {% endhint %}
 
 ### Step 4: Save Settings
 
 Click the 'Set Tax' button and approve the transaction in your wallet.
+
+{% hint style="info" %}
+A one-time fee is charged only during initial setup. After that, all changes are completely free.
+{% endhint %}
 
 ***
 

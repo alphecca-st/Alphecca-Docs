@@ -18,7 +18,7 @@ layout:
 
 # Create Liquidity Pool
 
-**Set up a liquidity pool to make your token tradable.**
+Create a liquidity pool to make your token tradable.
 
 {% hint style="success" %}
 #### [https://alphecca.io/create-lp/binance](https://alphecca.io/create-lp/binance)
@@ -84,6 +84,10 @@ Click the 'Create LP' button and approve the transaction in your wallet.
   * 1x Create Liquidity Pool
 {% endhint %}
 
+{% hint style="info" %}
+The token approval (Approve) transaction is only required once per token. After that, only 1 transaction is needed.
+{% endhint %}
+
 ### Step 7: Check Transaction Logs
 
 After transaction is confirmed, go to the 'Transaction Logs' tab to view transaction hash. Click the explorer icon to verify directly on the block explorer.
@@ -102,20 +106,20 @@ Alphecca supports major DEXs on each chain including Uniswap, PancakeSwap, Aerod
 
 #### Which pool type should I choose?
 
-| Pool Type | Pros                              | Cons                       |
-| --------- | --------------------------------- | -------------------------- |
-| V2 Pool   | Simple, set-and-forget            | Lower capital efficiency   |
-| V3 Pool   | Higher fee earnings, less capital | Requires active management |
+| Pool Type | Description                                                                       |
+| --------- | --------------------------------------------------------------------------------- |
+| V2 Pool   | Liquidity distributed across entire price range. Fee rewards auto-compounded.     |
+| V3 Pool   | Liquidity concentrated in specific price range. Fee rewards withdrawable anytime. |
 
 #### How can I check the trading chart after creation?
 
-You can view the trading chart immediately on DEX Screener: `https://dexscreener.com/{chain}/{your_token_address}`
+You can view the trading chart on DEX Screener: https://dexscreener.com/{chain}/{your\_token\_address}
 
 #### What is the LP Token in my wallet?
 
-The LP (Liquidity Provider) Token represents your share of the liquidity pool. It proves your contribution and can be used to withdraw your liquidity or participate in staking/farming programs.
+LP (Liquidity Provider) Token represents your share of the liquidity pool. It can be used to withdraw your liquidity or participate in staking/farming programs.
 
-| Pool Type | LP Token Format                                    |
+| Pool Type | LP Token Type                                      |
 | --------- | -------------------------------------------------- |
 | V2 Pool   | Standard ERC-20 token                              |
 | V3 Pool   | NFT (each position is unique based on price range) |
@@ -123,3 +127,7 @@ The LP (Liquidity Provider) Token represents your share of the liquidity pool. I
 #### Can I add more liquidity later?
 
 Yes. You can add or remove liquidity anytime through the Manage Liquidity page.
+
+#### Can I create multiple liquidity pools with one token?
+
+Yes. You can create liquidity pools on multiple DEXs (Uniswap, SushiSwap, PancakeSwap, etc.) with a single token. Additionally, you can create separate pools with different pairs (ETH, USDT, USDC, etc.) on the same DEX.
