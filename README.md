@@ -76,7 +76,7 @@ Can be modified for free anytime via Tax Settings page.
 {% endhint %}
 
 {% hint style="warning" %}
-Most token swaps go through swap aggregators (wallet apps, 1inch, etc.), which results in 'Transfer + Buy/Sell fees' being applied. Please consider this when setting fee rates. To prevent double taxation, we recommend whitelisting swap aggregators or setting the transfer fee to 0.
+Most token swaps go through swap aggregators (wallet apps, 1inch, etc.), which results in 'Transfer + Buy/Sell fees' being applied. Please consider this when setting fee rates. To prevent double taxation, set the transfer fee to 0.
 {% endhint %}
 
 #### Anti Bot Settings
