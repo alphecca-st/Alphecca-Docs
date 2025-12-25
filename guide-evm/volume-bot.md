@@ -113,7 +113,7 @@ Alphecca charges fees based on the number of Makers, regardless of volume or tim
 
 #### **Can I track the bot's progress?**
 
-Yes, you can monitor the bot's progress in real-time through the Bot Logs tab. You can view each maker's buy and sell transactions, transaction hashes, and directly verify them on the blockchain explorer.
+Yes, you can monitor the bot's progress in real-time through the Transaction Logs tab. You can view each maker's buy and sell transactions, transaction hashes, and directly verify them on the blockchain explorer.
 
 #### **Does the bot continue running if I leave the page?**
 
