@@ -110,3 +110,11 @@ Regular trading occurs from a single wallet, but Volume Bot generates distribute
 Alphecca charges fees based on the number of Makers, regardless of volume or time. Service Fees are as follows:
 
 <table><thead><tr><th width="130">Chain</th><th>Fee (per 100 Makers)</th></tr></thead><tbody><tr><td>Ethereum</td><td>0.0025 ETH</td></tr><tr><td>BSC</td><td>0.015 BNB</td></tr><tr><td>Base</td><td>0.0025 ETH</td></tr><tr><td>Polygon</td><td>20 POL</td></tr><tr><td>Avalanche</td><td>0.7 AVAX</td></tr><tr><td>Monad</td><td>400 MON</td></tr><tr><td>Arbitrum</td><td>0.0025 ETH</td></tr><tr><td>Optimism</td><td>0.0025 ETH</td></tr></tbody></table>
+
+#### **Can I track the bot's progress?**
+
+Yes, you can monitor the bot's progress in real-time through the Bot Logs tab. You can view each maker's buy and sell transactions, transaction hashes, and directly verify them on the blockchain explorer.
+
+#### **Does the bot continue running if I leave the page?**
+
+Yes, the bot continues to operate even if you leave the page or close your browser. The bot runs on Alphecca's servers, not on your device. You can return at any time to check the progress in the Bot Logs tab.
