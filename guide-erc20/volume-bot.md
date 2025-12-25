@@ -44,7 +44,11 @@ Enter the number of maker wallets to execute trades during the bot cycle. More m
 
 ### Step 5: Set Amount
 
-<table><thead><tr><th width="117">Bot Type</th><th width="176">Field</th><th>Description</th></tr></thead><tbody><tr><td>Booster Bot</td><td>Volume to Generate</td><td>Total volume to generate. Enter an appropriate amount considering current liquidity and number of makers.</td></tr><tr><td>Bumper Bot</td><td>Liquidity to Add</td><td>Total liquidity to invest. Remaining tokens will be sent to your wallet as each maker completes.</td></tr></tbody></table>
+<table><thead><tr><th width="187">Field</th><th>Description</th></tr></thead><tbody><tr><td>Booster Bot<br>(Volume to Generate)</td><td>Total volume to generate. Enter an appropriate amount considering current liquidity and number of makers.</td></tr><tr><td>Bumper Bott<br>(Liquidity to Add)</td><td>Total liquidity to invest. Remaining tokens will be sent to your wallet as each maker completes.</td></tr></tbody></table>
+
+{% hint style="warning" %}
+Using few makers with large volume may cause the bot to stop due to external MEV bots. We recommend that (Volume to Generate / Number of Makers) does not exceed 3% of the current liquidity value. Note that this is a general guideline and not a guaranteed threshold.
+{% endhint %}
 
 ### Step 6: Select Bot Speed
 
@@ -72,13 +76,11 @@ Click the 'Start' button and approve the transaction in your wallet.
 {% hint style="info" %}
 **NOTE**
 
-Estimated time may vary depending on network conditions. Your wallet balance must be greater than the total amount plus gas fees.
+If your token meets the following conditions, maker wallets will be automatically whitelisted: token created on Alphecca + connected wallet is the token owner wallet + tax/antibot/antiwhale settings enabled + ownership retained.
 {% endhint %}
 
-{% hint style="info" %}
-**NOTE**
-
-If your token meets the following conditions, maker wallets will be automatically whitelisted: token created on Alphecca + connected wallet is the token owner wallet + tax/antibot/antiwhale settings enabled + ownership retained.
+{% hint style="warning" %}
+Alphecca is not responsible for any losses, legal issues, or consequences arising from the use of this bot. Users are responsible for complying with the laws and regulations of their respective jurisdictions.
 {% endhint %}
 
 ***
