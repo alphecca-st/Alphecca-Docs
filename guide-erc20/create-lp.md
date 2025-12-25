@@ -131,3 +131,8 @@ Yes. You can add or remove liquidity anytime through the Manage Liquidity page.
 #### Can I create multiple liquidity pools with one token?
 
 Yes. You can create liquidity pools on multiple DEXs (Uniswap, SushiSwap, PancakeSwap, etc.) with a single token. Additionally, you can create separate pools with different pairs (ETH, USDT, USDC, etc.) on the same DEX.
+
+#### Which DEX exchanges are supported?
+
+<table><thead><tr><th width="130">Chain</th><th>Supported DEX</th></tr></thead><tbody><tr><td>Ethereum</td><td>UniSwap V2, UniSwap V3, <br>PancakeSwap V2, PancakeSwap V3,<br>SushiSwap V2</td></tr><tr><td>BSC</td><td>UniSwap V2, UniSwap V3,<br>PancakeSwap V2, PancakeSwap V3,<br>SquadSwap V2, SquadSwap V3,</td></tr><tr><td>Base</td><td>UniSwap V2, UniSwap V3,<br>PancakeSwap V2, PancakeSwap V3,<br>Aerodrome,<br>QuickSwap V2</td></tr><tr><td>Polygon</td><td>UniSwap V2, UniSwap V3,<br>QuickSwap V2,<br>SushiSwap V2</td></tr><tr><td>Avalanche</td><td>UniSwap V2, UniSwap V3,<br>SushiSwap V2</td></tr><tr><td>Monad</td><td>UniSwap V2, UniSwap V3, <br>PancakeSwap V2, PancakeSwap V3,</td></tr><tr><td>Arbitrum</td><td>UniSwap V2, UniSwap V3, <br>PancakeSwap V2, PancakeSwap V3,<br>SushiSwap V2</td></tr><tr><td>Optimism</td><td>UniSwap V2, UniSwap V3,</td></tr></tbody></table>
+

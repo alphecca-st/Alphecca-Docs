@@ -21,7 +21,7 @@ layout:
 **Automatically create token activity and maker addresses with optimized gas usage.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/market-maker](https://alphecca.io/market-maker)
+#### [https://alphecca.io/binance/volume-bot](https://alphecca.io/binance/volume-bot)
 {% endhint %}
 
 ## How to Use Volume Bot
@@ -75,31 +75,34 @@ Click the 'Start' button and approve the transaction in your wallet.
 Estimated time may vary depending on network conditions. Your wallet balance must be greater than the total amount plus gas fees.
 {% endhint %}
 
-## How Does the Bot Work?
-
-Alphecca automatically calculates the token’s swap fee rate and determines the optimized cost needed for the requested bot cycle. It then calculates the swap fees, network gas fees, and the SOL required to generate volume, and **collects payment from the user directly through the wallet app.**
-
-* **Total Swap Fees**:\
-  &#x20;`(Volume to Generate) × (Swap Fees Rate)` \
-  \- Typical swap fees are 0.25% for Raydium and 1% for Pump.fun.
-* **Total Network Gas Fees:**\
-  &#x20;`(Maker to Generate) × (0.000005 SOL + Priority Fees) × 4` \
-  \- A small amount of additional fees may apply for transfer transactions and some failed transactions.
-
-Afterwards, the server automatically executes buy, sell, and close operations for each maker. Once the entire bot cycle finishes, the SOL used for volume generation is returned to the paying wallet, and the bot cycle ends.
-
 {% hint style="info" %}
 **NOTE**
 
-\- For Bump bots, the tokens swapped with SOL are sent to the paying wallet for each maker to support price movement.
+If your token meets the following conditions, maker wallets will be automatically whitelisted: token created on Alphecca + connected wallet is the token owner wallet + tax/antibot/antiwhale settings enabled + ownership retained.
 {% endhint %}
 
-## Can I Use the Bot with Zero Priority Fee?
+***
 
-Yes — Alphecca is optimized to run bots reliably even with a zero priority fee. However, during periods of high congestion on the Solana network, transaction delays may occur, ranging from a few minutes to over an hour.
+### Frequently Asked Questions
 
-While such delays are not common, if you prefer smooth and uninterrupted bot operation, we recommend setting a priority fee of at least **0.00001 SOL**.
+#### What is a Volume Bot?
 
-## Recommendation
+A Volume Bot is a tool that increases your token's trading volume and maker count, making it appear actively traded. Key metrics for trending rankings on DEXTools, DEXScreener, and other platforms are trading volume and maker count. By utilizing a Volume Bot, you can effectively boost these metrics and enhance your token's visibility.
 
-This bot is designed for cost-efficient operations. For maximum impact, use it together with other features. For example, running the bot alongside **Multi Swap Page** or the **Market Making Page** can create a more organic and **natural-looking chart**.
+#### How does the bot work?
+
+Alphecca automatically calculates your token's swap fee rate and determines the optimized cost required for the requested bot cycle. It then calculates swap fees, network gas fees, and the cost needed to generate trading volume, and receives payment through your wallet app. After the bot cycle completes, the remaining amount (excluding service fees) is automatically refunded to the wallet that made the request.
+
+#### What's the difference between Volume Bot and regular trading?
+
+Regular trading occurs from a single wallet, but Volume Bot generates distributed trades through multiple maker wallets. This creates more natural trading patterns and makes it appear as if trades are occurring from various wallet addresses.
+
+#### Which DEX exchanges are supported?
+
+<table><thead><tr><th width="130">Chain</th><th>Supported DEX</th></tr></thead><tbody><tr><td>Ethereum</td><td>UniSwap V2, UniSwap V3, <br>PancakeSwap V2, PancakeSwap V3,<br>SushiSwap V2</td></tr><tr><td>BSC</td><td>UniSwap V2, UniSwap V3,<br>PancakeSwap V2, PancakeSwap V3,<br>SquadSwap V2, SquadSwap V3,</td></tr><tr><td>Base</td><td>UniSwap V2, UniSwap V3,<br>PancakeSwap V2, PancakeSwap V3,<br>Aerodrome,<br>QuickSwap V2</td></tr><tr><td>Polygon</td><td>UniSwap V2, UniSwap V3,<br>QuickSwap V2,<br>SushiSwap V2</td></tr><tr><td>Avalanche</td><td>UniSwap V2, UniSwap V3,<br>SushiSwap V2</td></tr><tr><td>Monad</td><td>UniSwap V2, UniSwap V3, <br>PancakeSwap V2, PancakeSwap V3,</td></tr><tr><td>Arbitrum</td><td>UniSwap V2, UniSwap V3, <br>PancakeSwap V2, PancakeSwap V3,<br>SushiSwap V2</td></tr><tr><td>Optimism</td><td>UniSwap V2, UniSwap V3,</td></tr></tbody></table>
+
+#### How much does the Volume Bot cost?
+
+Alphecca charges fees based on the number of Makers, regardless of volume or time. Service Fees are as follows:
+
+<table><thead><tr><th width="130">Chain</th><th>Fee (per 100 Makers)</th></tr></thead><tbody><tr><td>Ethereum</td><td>0.0025 ETH</td></tr><tr><td>BSC</td><td>0.015 BNB</td></tr><tr><td>Base</td><td>0.0025 ETH</td></tr><tr><td>Polygon</td><td>20 POL</td></tr><tr><td>Avalanche</td><td>0.7 AVAX</td></tr><tr><td>Monad</td><td>400 MON</td></tr><tr><td>Arbitrum</td><td>0.0025 ETH</td></tr><tr><td>Optimism</td><td>0.0025 ETH</td></tr></tbody></table>

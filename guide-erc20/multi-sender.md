@@ -113,6 +113,4 @@ The service fee is calculated based on the number of addresses you're sending to
 
 #### What happens if the transaction fails?
 
-If the transaction fails, no service fee is charged.
-
-Need help? Contact support<br>
+If the transaction fails, no service fee is charged.<br>
