@@ -117,4 +117,4 @@ Yes, you can monitor the bot's progress in real-time through the Transaction Log
 
 #### **Does the bot continue running if I leave the page?**
 
-Yes, the bot continues to operate even if you leave the page or close your browser. The bot runs on Alphecca's servers, not on your device. You can return at any time to check the progress in the Bot Logs tab.
+Yes, the bot continues to operate even if you leave the page or close your browser.
