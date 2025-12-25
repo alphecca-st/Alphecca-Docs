@@ -95,7 +95,7 @@ A Volume Bot is a tool that increases your token's trading volume and maker coun
 
 #### How does the bot work?
 
-Alphecca automatically calculates your token's swap fee rate and determines the optimized cost required for the requested bot cycle. It then calculates swap fees, network gas fees, and the cost needed to generate trading volume, and receives payment through your wallet app. After the bot cycle completes, the remaining amount (excluding service fees) is automatically refunded to the wallet that made the request.
+Alphecca automatically calculates your token's swap fee rate and determines the optimized cost required for the requested bot cycle. It then calculates the swap fees paid to the DEX, gas fees paid to the blockchain network, and the cost needed to generate trading volume. Payment is received through your wallet app. After the bot cycle completes, the remaining amount (excluding service fees) is automatically refunded to the wallet that made the request.
 
 #### What's the difference between Volume Bot and regular trading?
 
