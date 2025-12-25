@@ -48,6 +48,8 @@ Enter the number of maker wallets to execute trades during the bot cycle. More m
 
 {% hint style="warning" %}
 Using few makers with large volume may cause the bot to stop due to external MEV bots. We recommend that (Volume to Generate / Number of Makers) does not exceed 3% of the current liquidity value. Note that this is a general guideline and not a guaranteed threshold.
+
+When generating large volume, we recommend using more makers.
 {% endhint %}
 
 ### Step 6: Select Bot Speed
