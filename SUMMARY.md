@@ -1,22 +1,22 @@
 # Table of contents
 
-## Alphecca Tool Guide (ERC20) <a href="#guide-erc20" id="guide-erc20"></a>
+## Alphecca Tool Guide (EVM) <a href="#guide-evm" id="guide-evm"></a>
 
 * [Create Token](README.md)
-* [Create Liquidity Pool](guide-erc20/create-lp.md)
-* [Multi Sender](guide-erc20/multi-sender.md)
-* [SWAP](guide-erc20/swap.md)
-* [Volume Bot](guide-erc20/volume-bot.md)
-* [Add Liquidity](guide-erc20/add-lp.md)
-* [Burn LP Token](guide-erc20/burn-lp.md)
-* [Remove Liquidity Pool](guide-erc20/remove-lp.md)
-* [Tax Settings](guide-erc20/tax.md)
-* [Anti-Bot Settings](guide-erc20/anti-bot.md)
-* [Anti-Whale Settings](guide-erc20/remove-lp-1.md)
-* [Blacklist Management](guide-erc20/blacklist.md)
-* [Additional Token Minting](guide-erc20/mint-token.md)
-* [Pause Token](guide-erc20/pause.md)
-* [Revoke Ownership](guide-erc20/revoke-ownership.md)
+* [Create Liquidity Pool](guide-evm/create-lp.md)
+* [Multi Sender](guide-evm/multi-sender.md)
+* [SWAP](guide-evm/swap.md)
+* [Volume Bot](guide-evm/volume-bot.md)
+* [Add Liquidity](guide-evm/add-lp.md)
+* [Burn LP Token](guide-evm/burn-lp.md)
+* [Remove Liquidity Pool](guide-evm/remove-lp.md)
+* [Tax Settings](guide-evm/tax.md)
+* [Anti-Bot Settings](guide-evm/anti-bot.md)
+* [Anti-Whale Settings](guide-evm/anti-whale.md)
+* [Blacklist Management](guide-evm/blacklist.md)
+* [Additional Token Minting](guide-evm/mint-token.md)
+* [Pause Token](guide-evm/pause.md)
+* [Revoke Ownership](guide-evm/revoke-ownership.md)
 
 ## Alphecca Tool Guide (Solana) <a href="#guide-solana" id="guide-solana"></a>
 

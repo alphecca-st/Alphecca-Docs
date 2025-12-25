@@ -36,7 +36,7 @@ Click the Connect Wallet button in the top-right corner to connect.
 
 ### Step 3: Enter Token Address
 
-Enter the token contract address you want to generate volume for.
+Enter the token contract address you want to generate volume for. Available pools will be displayed on the right side. Select the pool you want to operate on.
 
 ### Step 4: Set Makers
 
