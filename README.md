@@ -72,11 +72,19 @@ Buy/Sell fees are based on liquidity pool transactions. When using Alphecca's Cr
 {% endhint %}
 
 {% hint style="info" %}
+The creator wallet is automatically whitelisted.
+{% endhint %}
+
+{% hint style="info" %}
 Can be modified for free anytime via Tax Settings page.
 {% endhint %}
 
 {% hint style="warning" %}
 Most token swaps go through swap aggregators (wallet apps, 1inch, etc.), which results in 'Transfer + Buy/Sell fees' being applied. Please consider this when setting fee rates. To prevent double taxation, set the transfer fee to 0.
+{% endhint %}
+
+{% hint style="warning" %}
+When creating a token with tax settings in a V3 pool, wallets not on the whitelist can only buy and cannot sell. This is because all DEX exchanges do not officially support taxable tokens. Please keep this in mind when creating a V3 pool.
 {% endhint %}
 
 #### Anti Bot Settings
