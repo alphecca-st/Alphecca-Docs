@@ -1,22 +1,8 @@
 ---
 icon: shield-check
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
-# Anti-MEV Volume Bot
+# Anti-MEV Bot
 
 **Boost trading volume rapidly and securely to increase visibility, avoid sandwich attacks, and drive traction.**
 

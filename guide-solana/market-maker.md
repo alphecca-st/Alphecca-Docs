@@ -1,22 +1,8 @@
 ---
 icon: robot
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
-# Maker and Volume Bot
+# Volume Bot
 
 **Automatically create token activity and maker addresses with optimized gas usage.**
 

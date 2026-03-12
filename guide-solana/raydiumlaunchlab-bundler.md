@@ -1,28 +1,14 @@
 ---
 icon: coin-front
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
-# Raydium.LaunchLab Bundle Launch
+# Raydium.LaunchLab Bundler
 
 **Complete launch Token and simultaneous buy orders in the same block using Jito bundle technology.**\
 **Maximize profits by sniping tokens at the lowest prices with multiple wallets.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/raydiumlaunchlab-bundle-launch](https://alphecca.io/raydiumlaunchlab-bundle-launch)
+#### Link : [Raydium Launchlab Bundler](https://alphecca.io/en/raydiumlaunchlab-bundle-launch)
 {% endhint %}
 
 ## How to Use Raydium.LaunchLab Bundle Launch?&#x20;

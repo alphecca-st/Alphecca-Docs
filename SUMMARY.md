@@ -1,8 +1,10 @@
 # Table of contents
 
+* [About Alphecca Tools](README.md)
+
 ## Alphecca Tool Guide (EVM) <a href="#guide-evm" id="guide-evm"></a>
 
-* [Create Token](README.md)
+* [Create Token](<README (1).md>)
 * [Create Liquidity Pool](guide-evm/create-lp.md)
 * [Multi Sender](guide-evm/multi-sender.md)
 * [SWAP](guide-evm/swap.md)
@@ -20,10 +22,10 @@
 
 ## Alphecca Tool Guide (Solana) <a href="#guide-solana" id="guide-solana"></a>
 
-* [Create Token](<README (1).md>)
-* [Pump.Fun Bundle Launch](guide-solana/pump-bundle-launch.md)
-* [Raydium.LaunchLab Bundle Launch](guide-solana/raydiumlaunchlab-bundle-launch.md)
-* [Let'sBonk Bundle Launch](guide-solana/bonk-bundle-launch.md)
+* [Solana Token Creator](guide-solana/solana-token-creator.md)
+* [Pump.Fun Bundler](guide-solana/pump-fun-bundler.md)
+* [Raydium.LaunchLab Bundler](guide-solana/raydiumlaunchlab-bundler.md)
+* [Let'sBonk Bundle Launch](guide-solana/bonk-bundler.md)
 * [Multi Sender](guide-solana/multi-sender.md)
 * [Batch Collection](guide-solana/air-drop.md)
 * [Reclaim ATA](guide-solana/recover-rent.md)

@@ -1,28 +1,14 @@
 ---
 icon: coin-front
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
-# Pump.Fun Bundle Launch
+# Pump.Fun Bundler
 
 **Complete launch Token and simultaneous buy orders in the same block using Jito bundle technology.**\
 **Maximize profits by sniping tokens at the lowest prices with multiple wallets.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/pump-bundle-launch](https://alphecca.io/pump-bundle-launch)
+#### Link : [Pump.Fun Bundler](https://alphecca.io/en/pump-bundle-launch)
 {% endhint %}
 
 ## How to Use Pump.Fun Bundle Launch

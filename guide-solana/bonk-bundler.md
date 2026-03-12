@@ -1,19 +1,5 @@
 ---
 icon: coin-front
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Let'sBonk Bundle Launch
@@ -22,7 +8,7 @@ layout:
 **Maximize profits by sniping tokens at the lowest prices with multiple wallets.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/bonk-bundle-launch](https://alphecca.io/bonk-bundle-launch)
+#### Link : [Let's Bonk Bundler](https://alphecca.io/en/bonk-bundle-launch)
 {% endhint %}
 
 ## How to Use Raydium.LaunchLab Bundle Launch?&#x20;

@@ -1,19 +1,5 @@
 ---
 icon: paper-plane-top
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Multi Sender
@@ -21,7 +7,7 @@ layout:
 **Distribute your tokens to multiple addresses quickly and easily.**
 
 {% hint style="success" %}
-#### [https://alphecca.io/multi-sender](https://alphecca.io/multi-sender)
+#### Link : [Solana Multisender](https://alphecca.io/en/multi-sender)
 {% endhint %}
 
 ## How to Use Multi Sender
