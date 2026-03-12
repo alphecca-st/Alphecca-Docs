@@ -2,12 +2,12 @@
 icon: rocket-launch
 ---
 
-# Bundle Buy
+# Solana Bundle Buy
 
-**Buy tokens using multiple wallets in a single block to push price momentum and maximize gains.**
+This guide walks you through bundle buying tokens on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/bundle-buy](https://alphecca.io/bundle-buy)
+#### Link : [Solana Bundle Buy](https://alphecca.io/en/bundle-buy)
 {% endhint %}
 
 ## How to Use Bundle Buy?&#x20;

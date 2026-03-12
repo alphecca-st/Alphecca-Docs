@@ -2,12 +2,12 @@
 icon: merge
 ---
 
-# Batch Collection
+# Solana Multicollector
 
-**Easily collect tokens from multiple wallets and send them to your main wallet with a single click.**
+This guide walks you through collecting tokens from multiple wallets on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/multi-collector](https://alphecca.io/multi-collector)
+#### Link : [Solana Multicollector](https://alphecca.io/en/multi-collector)
 {% endhint %}
 
 ## How to Use Batch Collection?&#x20;

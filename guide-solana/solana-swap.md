@@ -2,12 +2,12 @@
 icon: right-left
 ---
 
-# SWAP
+# Solana Swap
 
-Swap SPL tokens quickly, cheaply, and easily.
+This guide walks you through swapping tokens on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/swap](https://alphecca.io/swap)
+#### Link : [Solana Swap](https://alphecca.io/en/swap)
 {% endhint %}
 
 ## How to Use SWAP?&#x20;

@@ -2,12 +2,12 @@
 icon: right-left
 ---
 
-# Multi Swap
+# Solana Multi Swap
 
-Swap SPL tokens quickly, cheaply, and easily.
+This guide walks you through swapping tokens across multiple wallets on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/multi-swap](https://alphecca.io/multi-swap)
+#### Link : [Solana Multi Swap](https://alphecca.io/en/multi-swap)
 {% endhint %}
 
 ## How to Use Multi Swap?&#x20;

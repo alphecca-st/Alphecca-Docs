@@ -4,8 +4,7 @@ icon: coin-front
 
 # Pump.Fun Bundler
 
-**Complete launch Token and simultaneous buy orders in the same block using Jito bundle technology.**\
-**Maximize profits by sniping tokens at the lowest prices with multiple wallets.**
+This guide walks you through bundle launching a token on Pump.Fun with Alphecca Tools.
 
 {% hint style="success" %}
 #### Link : [Pump.Fun Bundler](https://alphecca.io/en/pump-bundle-launch)

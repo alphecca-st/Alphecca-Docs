@@ -13,7 +13,7 @@ Alphecca is an all-in-one Web3 token tool platform supporting Solana and EVM cha
 **Solana**
 
 * Token Creation (SPL Token)
-* Bundle Launch (Pump.Fun, Raydium Launch Lab, Let's Bonk)
+* Bundler (Pump.Fun, Raydium Launch Lab, Let's Bonk)
 * Liquidity Pool Create / Add / Remove / Burn
 * Volume Bot / Market Making
 * Multi Sender / Multi Collector

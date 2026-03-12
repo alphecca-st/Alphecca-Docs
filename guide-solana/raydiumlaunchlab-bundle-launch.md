@@ -4,8 +4,7 @@ icon: coin-front
 
 # Raydium.LaunchLab Bundler
 
-**Complete launch Token and simultaneous buy orders in the same block using Jito bundle technology.**\
-**Maximize profits by sniping tokens at the lowest prices with multiple wallets.**
+This guide walks you through launching a token on Raydium Launch Lab with Alphecca Tools.
 
 {% hint style="success" %}
 #### Link : [Raydium Launchlab Bundler](https://alphecca.io/en/raydiumlaunchlab-bundle-launch)

@@ -2,9 +2,9 @@
 icon: paper-plane-top
 ---
 
-# Multi Sender
+# Solana Multisender
 
-**Distribute your tokens to multiple addresses quickly and easily.**
+This guide walks you through sending tokens to multiple wallets on Solana with Alphecca Tools.
 
 {% hint style="success" %}
 #### Link : [Solana Multisender](https://alphecca.io/en/multi-sender)
