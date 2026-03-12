@@ -2,12 +2,21 @@
 icon: hexagon-xmark
 ---
 
-# Revoke Ownership
+# Revoke Ownership (EVM)
 
-Permanently revoke token ownership. This action proves your token's decentralization.
+This guide walks you through revoking contract ownership on EVM chains with Alphecca Tools.
 
-{% hint style="success" %}
-#### [https://alphecca.io/revoke-ownership/binance](https://alphecca.io/revoke-ownership/binance)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Revoke Ownership on Ethereum](https://alphecca.io/en/revoke-ownership/ethereum)
+* Link : [Revoke Ownership on Binance Smart Chain](https://alphecca.io/en/revoke-ownership/binance)
+* Link : [Revoke Ownership on Base](https://alphecca.io/en/revoke-ownership/base)
+* Link : [Revoke Ownership on Polygon](https://alphecca.io/en/revoke-ownership/polygon)
+* Link : [Revoke Ownership on Avalanche](https://alphecca.io/en/revoke-ownership/avalanche)
+* Link : [Revoke Ownership on Monad](https://alphecca.io/en/revoke-ownership/monad)
+* Link : [Revoke Ownership on Arbitrum](https://alphecca.io/en/revoke-ownership/arbitrum)
+* Link : [Revoke Ownership on Optimism](https://alphecca.io/en/revoke-ownership/optimism)
 {% endhint %}
 
 ## How to Use Revoke Ownership

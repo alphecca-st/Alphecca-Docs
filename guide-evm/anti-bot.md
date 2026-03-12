@@ -2,12 +2,21 @@
 icon: shield-dog
 ---
 
-# Anti-Bot Settings
+# Anti-Bot Settings (EVM)
 
-Limit transactions per block to defend against sniping bots and sandwich attacks.
+This guide walks you through setting up anti-bot protection on your EVM token with Alphecca Tools.
 
-{% hint style="success" %}
-#### [https://alphecca.io/anti-bot/binance](https://alphecca.io/anti-bot/binance)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Ethereum Anti-Bot Settings](https://alphecca.io/en/anti-bot/ethereum)
+* Link : [Binance Smart Chain Anti-Bot Settings](https://alphecca.io/en/anti-bot/binance)
+* Link : [Base Anti-Bot Settings](https://alphecca.io/en/anti-bot/base)
+* Link : [Polygon Anti-Bot Settings](https://alphecca.io/en/anti-bot/polygon)
+* Link : [Avalanche Anti-Bot Settings](https://alphecca.io/en/anti-bot/avalanche)
+* Link : [Monad Anti-Bot Settings](https://alphecca.io/en/anti-bot/monad)
+* Link : [Arbitrum Anti-Bot Settings](https://alphecca.io/en/anti-bot/arbitrum)
+* Link : [Optimism Anti-Bot Settings](https://alphecca.io/en/anti-bot/optimism)
 {% endhint %}
 
 ## How to Use Anti Bot Settings

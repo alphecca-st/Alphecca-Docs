@@ -6,8 +6,10 @@ icon: file-pen
 
 This guide walks you through updating SPL token metadata on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Update SPL Token Metadata](https://alphecca.io/en/update-metadata)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Update SPL Token Metadata](https://alphecca.io/en/update-metadata)
 {% endhint %}
 
 ## How to Use Update Metadata?&#x20;

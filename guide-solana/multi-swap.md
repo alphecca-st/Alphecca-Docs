@@ -6,8 +6,10 @@ icon: right-left
 
 This guide walks you through swapping tokens across multiple wallets on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Solana Multi Swap](https://alphecca.io/en/multi-swap)
+{% hint style="info" %}
+#### Tool PAge
+
+* Link : [Solana Multi Swap](https://alphecca.io/en/multi-swap)
 {% endhint %}
 
 ## How to Use Multi Swap?&#x20;

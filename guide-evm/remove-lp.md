@@ -2,12 +2,21 @@
 icon: trash-can-xmark
 ---
 
-# Remove Liquidity Pool
+# Remove Liquidity Pool  (EVM)
 
-**Withdraw liquidity and remove your token’s LP.**
+This guide walks you through removing liquidity from a pool on EVM chains with Alphecca Tools.
 
-{% hint style="success" %}
-#### [https://alphecca.io/remove-lp/binance](https://alphecca.io/remove-lp/binance)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Remove Liquidity Pool on Ethereum](https://alphecca.io/en/remove-lp/ethereum)
+* Link : [Remove Liquidity Pool on Binance Smart Chain](https://alphecca.io/en/remove-lp/binance)
+* Link : [Remove Liquidity Pool on Base](https://alphecca.io/en/remove-lp/base)
+* Link : [Remove Liquidity Pool on Polygon](https://alphecca.io/en/remove-lp/polygon)
+* Link : [Remove Liquidity Pool on Avalanche](https://alphecca.io/en/remove-lp/avalanche)
+* Link : [Remove Liquidity Pool on Monad](https://alphecca.io/en/remove-lp/monad)
+* Link : [Remove Liquidity Pool on Arbitrum](https://alphecca.io/en/remove-lp/arbitrum)
+* Link : [Remove Liquidity Pool on Optimism](https://alphecca.io/en/remove-lp/optimism)
 {% endhint %}
 
 ## How to Use Remove Liquidity

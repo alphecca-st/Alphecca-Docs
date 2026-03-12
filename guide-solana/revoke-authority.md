@@ -6,8 +6,10 @@ icon: lock
 
 This guide walks you through revoking token authority on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Revoke Solana Authorities](https://alphecca.io/en/revoke-authority)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Revoke Solana Authorities](https://alphecca.io/en/revoke-authority)
 {% endhint %}
 
 ## How to Use Revoke Authority?&#x20;

@@ -6,8 +6,10 @@ icon: right-left
 
 This guide walks you through swapping tokens on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Solana Swap](https://alphecca.io/en/swap)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Solana Swap](https://alphecca.io/en/swap)
 {% endhint %}
 
 ## How to Use SWAP?&#x20;

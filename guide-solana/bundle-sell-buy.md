@@ -6,8 +6,10 @@ icon: shuffle
 
 This guide walks you through bundle selling and buying tokens simultaneously on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Solana Sell and Bundle Buy](https://alphecca.io/en/bundle-sell-buy)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Solana Sell and Bundle Buy](https://alphecca.io/en/bundle-sell-buy)
 {% endhint %}
 
 ## How to Use **Sell and Bundle Buy**?&#x20;

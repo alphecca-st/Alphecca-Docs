@@ -6,8 +6,10 @@ icon: robot
 
 This guide walks you through generating volume for your token on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Solana Volume Bot](https://alphecca.io/en/market-maker)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Solana Volume Bot](https://alphecca.io/en/market-maker)
 {% endhint %}
 
 ## How to Use Maker and Volume Bot?&#x20;

@@ -6,8 +6,10 @@ icon: coins
 
 This guide walks you through minting additional tokens on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Mint Solana Tokens](https://alphecca.io/en/token-mint)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Mint Solana Tokens](https://alphecca.io/en/token-mint)
 {% endhint %}
 
 ## How to Use Mint Token?&#x20;

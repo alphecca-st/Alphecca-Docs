@@ -2,12 +2,21 @@
 icon: circle-pause
 ---
 
-# Pause Token
+# Pause Token (EVM)
 
-Pause all token activities including buying, selling, and transfers.
+This guide walks you through pausing token operations on EVM chains with Alphecca Tools.
 
-{% hint style="success" %}
-#### [https://alphecca.io/pause/binance](https://alphecca.io/pause/binance)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Pause Token on Ethereum](https://alphecca.io/en/pause/ethereum)
+* Link : [Pause Token on Binance Smart Chain](https://alphecca.io/en/pause/binance)
+* Link : [Pause Token on Base](https://alphecca.io/en/pause/base)
+* Link : [Pause Token on Polygon](https://alphecca.io/en/pause/polygon)
+* Link : [Pause Token on Avalanche](https://alphecca.io/en/pause/avalanche)
+* Link : [Pause Token on Monad](https://alphecca.io/en/pause/monad)
+* Link : [Pause Token on Arbitrum](https://alphecca.io/en/pause/arbitrum)
+* Link : [Pause Token on Optimism](https://alphecca.io/en/pause/optimism)
 {% endhint %}
 
 ## How to Pause Token

@@ -6,8 +6,10 @@ icon: coin-front
 
 This guide walks you through bundle launching a token on Pump.Fun with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Pump.Fun Bundler](https://alphecca.io/en/pump-bundle-launch)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Pump.Fun Bundler](https://alphecca.io/en/pump-bundle-launch)
 {% endhint %}
 
 ## How to Use Pump.Fun Bundle Launch

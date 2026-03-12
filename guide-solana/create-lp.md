@@ -6,8 +6,10 @@ icon: chart-simple
 
 This guide walks you through creating a liquidity pool on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Create Liquidity Pool on Solana](https://alphecca.io/en/create-lp)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Create Liquidity Pool on Solana](https://alphecca.io/en/create-lp)
 {% endhint %}
 
 ## How to Use Create Liquidity Pool?&#x20;

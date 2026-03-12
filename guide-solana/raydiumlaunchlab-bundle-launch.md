@@ -6,8 +6,10 @@ icon: coin-front
 
 This guide walks you through launching a token on Raydium Launch Lab with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Raydium Launchlab Bundler](https://alphecca.io/en/raydiumlaunchlab-bundle-launch)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Raydium Launchlab Bundler](https://alphecca.io/en/raydiumlaunchlab-bundle-launch)
 {% endhint %}
 
 ## How to Use Raydium.LaunchLab Bundle Launch?&#x20;

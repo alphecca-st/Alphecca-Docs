@@ -6,8 +6,10 @@ icon: coin-front
 
 This guide walks you through creating a Solana token on Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Solana Token Creator](https://alphecca.io/en/create-token)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Solana Token Creator](https://alphecca.io/en/create-token)
 {% endhint %}
 
 ## How to Create a Token

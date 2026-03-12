@@ -2,12 +2,21 @@
 icon: shield-virus
 ---
 
-# Anti-Whale Settings
+# Anti-Whale Settings (EVM)
 
-Limit max buy, sell, and holdings to prevent price manipulation from large trades.
+This guide walks you through setting up anti-whale limits on your EVM token with Alphecca Tools.
 
-{% hint style="success" %}
-#### [https://alphecca.io/anti-whale/binance](https://alphecca.io/anti-whale/binance)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Ethereum Anti-Whale Settings](https://alphecca.io/en/anti-whale/ethereum)
+* Link : [Binance Smart Chain Anti-Whale Settings](https://alphecca.io/en/anti-whale/binance)
+* Link : [Base Anti-Whale Settings](https://alphecca.io/en/anti-whale/base)
+* Link : [Polygon Anti-Whale Settings](https://alphecca.io/en/anti-whale/polygon)
+* Link : [Avalanche Anti-Whale Settings](https://alphecca.io/en/anti-whale/avalanche)
+* Link : [Monad Anti-Whale Settings](https://alphecca.io/en/anti-whale/monad)
+* Link : [Arbitrum Anti-Whale Settings](https://alphecca.io/en/anti-whale/arbitrum)
+* Link : [Optimism Anti-Whale Settings](https://alphecca.io/en/anti-whale/optimism)
 {% endhint %}
 
 ## How to Use Anti Whale Settings

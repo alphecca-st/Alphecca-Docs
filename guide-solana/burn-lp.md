@@ -6,8 +6,10 @@ icon: fire
 
 This guide walks you through burning LP tokens on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Burn LP Tokens on Solana](https://alphecca.io/en/burn-lp)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Burn LP Tokens on Solana](https://alphecca.io/en/burn-lp)
 {% endhint %}
 
 ## How to Use Burn Liquidity Pool?&#x20;

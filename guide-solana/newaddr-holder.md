@@ -6,8 +6,10 @@ icon: users-between-lines
 
 This guide walks you through buying tokens from new wallets to increase holder count on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Solana New Address Holder Bot](https://alphecca.io/en/newaddr-holder)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Solana New Address Holder Bot](https://alphecca.io/en/newaddr-holder)
 {% endhint %}
 
 ## How to Use **New Address Buy (↑Holders)**?&#x20;

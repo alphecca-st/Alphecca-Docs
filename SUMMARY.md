@@ -8,7 +8,7 @@
 
 * [Token Creator Guide (EVM)](guide-evm/create-token.md)
 * [Create Liquidity Pool (EVM)](guide-evm/create-lp.md)
-* [Token Multisender (EVM)](guide-evm/multi-sender.md)
+* [Multisender (EVM)](guide-evm/multi-sender.md)
 * [SWAP](guide-evm/swap.md)
 * [Volume Bot (EVM)](guide-evm/volume-bot.md)
 * [Add Liquidity (EVM)](guide-evm/add-lp.md)

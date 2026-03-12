@@ -2,12 +2,21 @@
 icon: fire
 ---
 
-# Burn LP Token
+# Burn LP Token (EVM)
 
-**Burn LP tokens to lock liquidity and build market trust.**
+This guide walks you through burning LP tokens on EVM chains with Alphecca Tools.
 
-{% hint style="success" %}
-#### [https://alphecca.io/burn-lp](https://alphecca.io/burn-lp)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Burn LP Token on Ethereum](https://alphecca.io/en/burn-lp/ethereum)
+* Link : [Burn LP Token on Binance Smart Chain](https://alphecca.io/en/burn-lp/binance)
+* Link : [Burn LP Token on Base](https://alphecca.io/en/burn-lp/base)
+* Link : [Burn LP Token on Polygon](https://alphecca.io/en/burn-lp/polygon)
+* Link : [Burn LP Token on Avalanche](https://alphecca.io/en/burn-lp/avalanche)
+* Link : [Burn LP Token on Monad](https://alphecca.io/en/burn-lp/monad)
+* Link : [Burn LP Token on Arbitrum](https://alphecca.io/en/burn-lp/arbitrum)
+* Link : [Burn LP Token on Optimism](https://alphecca.io/en/burn-lp/optimism)
 {% endhint %}
 
 ## How to Burn LP Token

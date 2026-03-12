@@ -2,12 +2,21 @@
 icon: sack-dollar
 ---
 
-# Tax Settings
+# Tax Settings (EVM)
 
-Automatically collect fees on buy, sell, and transfer. Taxes are sent to your designated wallet.
+This guide walks you through configuring buy and sell tax on your EVM token with Alphecca Tools.
 
-{% hint style="success" %}
-#### [https://alphecca.io/tax/binance](https://alphecca.io/tax/binance)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Ethereum Token Tax Settings](https://alphecca.io/en/tax/ethereum)
+* Link : [Binance Smart Chain Token Tax Settings](https://alphecca.io/en/tax/binance)
+* Link : [Base Token Tax Settings](https://alphecca.io/en/tax/base)
+* Link : [Polygon Token Tax Settings](https://alphecca.io/en/tax/polygon)
+* Link : [Avalanche Token Tax Settings](https://alphecca.io/en/tax/avalanche)
+* Link : [Monad Token Tax Settings](https://alphecca.io/en/tax/monad)
+* Link : [Arbitrum Token Tax Settings](https://alphecca.io/en/tax/arbitrum)
+* Link : [Optimism Token Tax Settings](https://alphecca.io/en/tax/optimism)
 {% endhint %}
 
 ## How to Use Tax Settings

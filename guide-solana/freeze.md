@@ -6,8 +6,10 @@ icon: octagon-xmark
 
 This guide walks you through freezing a token account on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Freeze Solana Accounts](https://alphecca.io/en/freeze)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Freeze Solana Accounts](https://alphecca.io/en/freeze)
 {% endhint %}
 
 ## How to Use Freeze Accounts?&#x20;

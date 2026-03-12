@@ -6,8 +6,10 @@ icon: chart-line-up-down
 
 This guide walks you through market making for your token on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Solana Market Making Bot](https://alphecca.io/en/market-making)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Solana Market Making Bot](https://alphecca.io/en/market-making)
 {% endhint %}
 
 ## How to Use Maker Making?&#x20;

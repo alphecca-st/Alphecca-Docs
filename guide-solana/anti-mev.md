@@ -6,8 +6,10 @@ icon: shield-check
 
 This guide walks you through running an Anti-MEV volume bot on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Solana Anti-MEV Bot](https://alphecca.io/en/anti-mev)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Solana Anti-MEV Bot](https://alphecca.io/en/anti-mev)
 {% endhint %}
 
 ## How to Use Anti-MEV Volume Bot?&#x20;

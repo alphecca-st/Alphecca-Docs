@@ -2,15 +2,26 @@
 icon: coin-front
 ---
 
-# Create Token
+# Token Creator Guide (EVM)
 
-Launch your own ERC-20(or BEP-20) token instantly — no coding required.
+This guide walks you through creating an ERC-20(BEP-20) token on EVM chains with Alphecca Tools.
 
-{% hint style="success" %}
-#### [https://alphecca.io/token-creator/binance](https://alphecca.io/token-creator/binance)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Ethereum Token Creator](https://alphecca.io/en/token-creator/ethereum)
+* Link : [Binance Smart Chain Token Creator](https://alphecca.io/en/token-creator/binance)
+* Link : [Base Token Creator](https://alphecca.io/en/token-creator/base)
+* Link : [Polygon Token Creator](https://alphecca.io/en/token-creator/polygon)
+* Link : [Avalanche Token Creator](https://alphecca.io/en/token-creator/avalanche)
+* Link : [Monad Token Creator](https://alphecca.io/en/token-creator/monad)
+* Link : [Arbitrum Token Creator](https://alphecca.io/en/token-creator/arbitrum)
+* Link : [Optimism Token Creator](https://alphecca.io/en/token-creator/optimism)
 {% endhint %}
 
-## How to Create a Token
+
+
+## How to Create a Token on EVM chain?
 
 ### Step 1: Connect Wallet
 

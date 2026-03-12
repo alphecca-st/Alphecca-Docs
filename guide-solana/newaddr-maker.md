@@ -6,8 +6,10 @@ icon: users-line
 
 This guide walks you through buying tokens from new wallets to increase maker count on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Solana New Address Maker Bot](https://alphecca.io/en/newaddr-maker)
+{% hint style="info" %}
+#### Tool Paage
+
+* Link : [Solana New Address Maker Bot](https://alphecca.io/en/newaddr-maker)
 {% endhint %}
 
 ## How to Use **New Address Buy (↑Makers)**?&#x20;

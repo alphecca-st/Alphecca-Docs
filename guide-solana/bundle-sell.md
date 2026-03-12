@@ -6,8 +6,10 @@ icon: rocket-launch
 
 This guide walks you through bundle selling tokens on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Solana Bundle Sell](https://alphecca.io/en/bundle-sell)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Solana Bundle Sell](https://alphecca.io/en/bundle-sell)
 {% endhint %}
 
 ## How to Use Bundle Sell?&#x20;

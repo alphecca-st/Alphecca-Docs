@@ -6,8 +6,10 @@ icon: circle-plus
 
 This guide walks you through adding liquidity to a pool on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Add Liquidity on Solana](https://alphecca.io/en/add-lp)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Add Liquidity on Solana](https://alphecca.io/en/add-lp)
 {% endhint %}
 
 ## How to Use Add Liquidity Pool?&#x20;

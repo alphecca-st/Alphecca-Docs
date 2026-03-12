@@ -6,8 +6,10 @@ icon: rocket-launch
 
 This guide walks you through bundle buying tokens on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Solana Bundle Buy](https://alphecca.io/en/bundle-buy)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Solana Bundle Buy](https://alphecca.io/en/bundle-buy)
 {% endhint %}
 
 ## How to Use Bundle Buy?&#x20;

@@ -6,8 +6,10 @@ icon: octagon-xmark
 
 This guide walks you through unfreezing a token account on Solana with Alphecca Tools.
 
-{% hint style="success" %}
-#### Link : [Unfreeze Solana Accounts](https://alphecca.io/unfreeze)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Unfreeze Solana Accounts](https://alphecca.io/unfreeze)
 {% endhint %}
 
 ## How to Use Unfreeze Token Accounts?&#x20;

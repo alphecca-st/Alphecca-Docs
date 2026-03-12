@@ -6,8 +6,10 @@ icon: wallet
 
 This guide walks you through generating multiple Solana wallets in batch with Alphecca Tools.:
 
-{% hint style="success" %}
-#### Link : [Solana Batch Wallet Generator](https://alphecca.io/en/batch-wallet-generation)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Solana Batch Wallet Generator](https://alphecca.io/en/batch-wallet-generation)
 {% endhint %}
 
 ## How to Use **Batch Wallet Generation**?&#x20;

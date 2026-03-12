@@ -2,21 +2,30 @@
 icon: coins
 ---
 
-# Additional Token Minting
+# Mint Token (EVM)
 
-Increase your token supply with additional minting.
+This guide walks you through minting additional tokens on EVM chains with Alphecca Tools.
 
-{% hint style="success" %}
-#### [https://alphecca.io/mint-token/binance](https://alphecca.io/mint-token/binance)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Mint Token on Ethereum](https://alphecca.io/en/mint-token/ethereum)
+* Link : [Mint Token on Binance Smart Chain](https://alphecca.io/en/mint-token/binance)
+* Link : [Mint Token on Base](https://alphecca.io/en/mint-token/base)
+* Link : [Mint Token on Polygon](https://alphecca.io/en/mint-token/polygon)
+* Link : [Mint Token on Avalanche](https://alphecca.io/en/mint-token/avalanche)
+* Link : [Mint Token on Monad](https://alphecca.io/en/mint-token/monad)
+* Link : [Mint Token on Arbitrum](https://alphecca.io/en/mint-token/arbitrum)
+* Link : [Mint Token on Optimism](https://alphecca.io/en/mint-token/optimism)
 {% endhint %}
 
-## How to Mint Additional Tokens
+### How to Mint Additional Tokens
 
-### Step 1: Connect Wallet
+#### Step 1: Connect Wallet
 
 Click the Connect Wallet button in the top-right corner to connect.
 
-### Step 2: Select Token Address
+#### Step 2: Select Token Address
 
 Select the token you want to mint from the dropdown. Only Alphecca-created tokens with minting enabled will be displayed.
 
@@ -24,15 +33,15 @@ Select the token you want to mint from the dropdown. Only Alphecca-created token
 You must be the token owner to mint additional tokens. If ownership has been renounced or minting is not enabled, you cannot mint.
 {% endhint %}
 
-### Step 3: Check Current Supply
+#### Step 3: Check Current Supply
 
 The current total supply is displayed, reflecting all previous mints and burns.
 
-### Step 4: Enter Mint Details
+#### Step 4: Enter Mint Details
 
 <table><thead><tr><th width="250">Field</th><th>Description</th></tr></thead><tbody><tr><td>Mint Amount</td><td>Number of tokens to mint. No maximum limit.</td></tr><tr><td>Recipient Wallet</td><td>Address to receive the minted tokens. Use 'Current Wallet' button to autofill your address.</td></tr></tbody></table>
 
-### Step 5: Mint Tokens
+#### Step 5: Mint Tokens
 
 Click the 'Mint Tokens' button and approve the transaction in your wallet.
 

@@ -2,12 +2,21 @@
 icon: ban
 ---
 
-# Blacklist Management
+# Blacklist Management (EVM)
 
-Block all token activities by adding malicious wallets to the blacklist.
+This guide walks you through managing blacklisted addresses on your EVM token with Alphecca Tools.
 
-{% hint style="success" %}
-#### [https://alphecca.io/blacklist/binance](https://alphecca.io/blacklist/binance)
+{% hint style="info" %}
+#### Tool Page
+
+* Link : [Ethereum Token Blacklist](https://alphecca.io/en/blacklist/ethereum)
+* Link : [Binance Smart Chain Token Blacklist](https://alphecca.io/en/blacklist/binance)
+* Link : [Base Token Blacklist](https://alphecca.io/en/blacklist/base)
+* Link : [Polygon Token Blacklist](https://alphecca.io/en/blacklist/polygon)
+* Link : [Avalanche Token Blacklist](https://alphecca.io/en/blacklist/avalanche)
+* Link : [Monad Token Blacklist](https://alphecca.io/en/blacklist/monad)
+* Link : [Arbitrum Token Blacklist](https://alphecca.io/en/blacklist/arbitrum)
+* Link : [Optimism Token Blacklis](https://alphecca.io/en/blacklist/optimism)
 {% endhint %}
 
 ## How to Manage Blacklist
