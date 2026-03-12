@@ -3,24 +3,25 @@
 ## ALPHECCA INFO <a href="#info" id="info"></a>
 
 * [About Alphecca Tools](README.md)
+* [Contact Us](info/contact-us.md)
 
 ## Alphecca Tool Guide (EVM) <a href="#guide-evm" id="guide-evm"></a>
 
-* [Token Creator Guide (EVM)](guide-evm/create-token.md)
-* [Create Liquidity Pool (EVM)](guide-evm/create-lp.md)
-* [Multisender (EVM)](guide-evm/multi-sender.md)
+* [EVM Token Creator](guide-evm/create-token.md)
+* [Create Liquidity Pool on EVM chains](guide-evm/create-lp.md)
+* [EVM chains Multisender](guide-evm/multi-sender.md)
 * [SWAP](guide-evm/swap.md)
-* [Volume Bot (EVM)](guide-evm/volume-bot.md)
-* [Add Liquidity (EVM)](guide-evm/add-lp.md)
-* [Burn LP Token (EVM)](guide-evm/burn-lp.md)
-* [Remove Liquidity Pool  (EVM)](guide-evm/remove-lp.md)
-* [Tax Settings (EVM)](guide-evm/tax.md)
-* [Anti-Bot Settings (EVM)](guide-evm/anti-bot.md)
-* [Anti-Whale Settings (EVM)](guide-evm/anti-whale.md)
-* [Blacklist Management (EVM)](guide-evm/blacklist.md)
-* [Mint Token (EVM)](guide-evm/mint-token.md)
-* [Pause Token (EVM)](guide-evm/pause.md)
-* [Revoke Ownership (EVM)](guide-evm/revoke-ownership.md)
+* [EVM Chains Volume Bot](guide-evm/volume-bot.md)
+* [Add Liquidity on EVM chains](guide-evm/add-lp.md)
+* [Burn LP Token on EVM chains](guide-evm/burn-lp.md)
+* [Remove Liquidity Pool on EVM chains](guide-evm/remove-lp.md)
+* [Tax Settings on EVM chains](guide-evm/tax.md)
+* [Anti-Bot Settings on EVM chains](guide-evm/anti-bot.md)
+* [Anti-Whale Settings on EVM chains](guide-evm/anti-whale.md)
+* [Blacklist Management on EVM chains](guide-evm/blacklist.md)
+* [Mint Token on EVM chains](guide-evm/mint-token.md)
+* [Pause Token on EVM chains](guide-evm/pause.md)
+* [Revoke Ownership on EVM chains](guide-evm/revoke-ownership.md)
 
 ## Alphecca Tool Guide (Solana) <a href="#guide-solana" id="guide-solana"></a>
 
