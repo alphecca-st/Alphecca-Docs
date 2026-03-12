@@ -51,28 +51,28 @@ Blacklisted wallets are blocked from all token activities including buying, sell
 
 ***
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### What is blacklist?
+### What is blacklist?
 
 Blacklist is a feature that blocks token activities for specific wallet addresses. Wallets on the blacklist cannot buy, sell, or transfer the token.
 
-#### Who can manage the blacklist?
+### Who can manage the blacklist?
 
 Only the token owner can manage it. The blacklist feature must also be enabled when the token was created. Tokens with renounced ownership or disabled blacklist cannot be managed.
 
-#### When should I use the blacklist?
+### When should I use the blacklist?
 
 Use it to block malicious wallets, prevent hacking damage, or isolate scam addresses. For example, you can block wallets when detecting bot attacks, abnormal trading patterns, or stolen fund movement attempts.
 
-#### Can I add or remove multiple addresses at once?
+### Can I add or remove multiple addresses at once?
 
 Yes. Specify addresses to add and remove, then click the 'Apply' button to process them simultaneously in one transaction.
 
-#### Can I trade immediately after being removed from the blacklist?
+### Can I trade immediately after being removed from the blacklist?
 
 Yes. Once removed from the blacklist, the wallet can immediately perform all token activities.
 
-#### Is there a fee for blacklist registration?
+### Is there a fee for blacklist registration?
 
 Free. You only pay for gas fees.

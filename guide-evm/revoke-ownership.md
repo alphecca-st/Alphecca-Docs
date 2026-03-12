@@ -47,17 +47,17 @@ Click the 'Revoke Ownership' button and approve the transaction in your wallet.
 
 ***
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### Why revoke ownership?
+### Why revoke ownership?
 
 Revoking ownership signals to your community that the token is fully decentralized and cannot be manipulated by the creator. This builds trust and confidence among holders.
 
-#### Can I recover ownership after revoking?
+### Can I recover ownership after revoking?
 
 No. Revoking  ownership is permanent and irreversible. The token will have no owner forever.
 
-#### What functions become unavailable after revoking?
+### What functions become unavailable after revoking?
 
 | Function     | Status After Renounce |
 | ------------ | --------------------- |
@@ -68,6 +68,6 @@ No. Revoking  ownership is permanent and irreversible. The token will have no ow
 | Mint         | Disabled forever      |
 | Pause        | Disabled forever      |
 
-#### Should I configure all settings before revoking?
+### Should I configure all settings before revoking?
 
 Yes. Make sure all Tax, Anti Bot, and Anti Whale settings are finalized before revoking. You will not be able to change them afterward.

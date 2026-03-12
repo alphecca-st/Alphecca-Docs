@@ -14,8 +14,8 @@ This guide walks you through launching a token on Let's Bonk with Alphecca Tools
 
 ## How to Use Raydium.LaunchLab Bundle Launch?&#x20;
 
-1. Click the **Connect Wallet** button in the top-right corner to connect.
-2.  Enter the required fields:
+* Click the **Connect Wallet** button in the top-right corner to connect.
+*   Enter the required fields:
 
     <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -23,15 +23,15 @@ This guide walks you through launching a token on Let's Bonk with Alphecca Tools
     * **Name:** The full name of the token.
     * **Symbol:** The token’s abbreviation.
     * **Description:** A description of the token.
-3. (Optional) Enter the **Social Links**:\
-   \- Telegram, Website, Twitter
-4. (Optional) Import **private keys** of other wallets for **bundle purchasing**.
-   * You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.
-   * Or simply paste a list of private keys directly into the input field.
-   * Enter the **purchase amount** for each wallet. (Purchase amount cannot exceed SOL balance - 0.005 SOL.)
-   * Select or Enter the **Jito Tip**\
-     \- Jito Tip must be **at least 0.000001 SOL**
-5. Click the **Launch Coin Button** and approve the transaction in your wallet app.
+* (Optional) Enter the **Social Links**:\
+  \- Telegram, Website, Twitter
+* (Optional) Import **private keys** of other wallets for **bundle purchasing**.
+  * You can upload a `.csv`, `.txt`, or `.json` file with a single column of private keys.
+  * Or simply paste a list of private keys directly into the input field.
+  * Enter the **purchase amount** for each wallet. (Purchase amount cannot exceed SOL balance - 0.005 SOL.)
+  * Select or Enter the **Jito Tip**\
+    \- Jito Tip must be **at least 0.000001 SOL**
+* Click the **Launch Coin Button** and approve the transaction in your wallet app.
 
 {% hint style="info" %}
 **NOTE**

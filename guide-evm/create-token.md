@@ -164,31 +164,31 @@ Closing the modal during verification may cause verification to fail. If this ha
 
 After transaction is confirmed, go to the 'Transaction Logs' tab to view your token contract address and transaction hash. Click the explorer icon to verify directly on the block explorer.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### What kind of token does Alphecca create?
+### What kind of token does Alphecca create?
 
 Alphecca creates standard ERC-20 tokens that are fully compatible with all decentralized exchanges (DEXs), wallets, and DeFi protocols. Your token can be traded on Uniswap, PancakeSwap, SushiSwap, and any other ERC-20 compatible platform.
 
-#### Can I trade the token immediately after creation?
+### Can I trade the token immediately after creation?
 
 No. After creating the token, you need to create a liquidity pool to enable trading. Please use Alphecca's Create Liquidity Pool page to set this up.
 
-#### What is Custom Metadata?
+### What is Custom Metadata?
 
 Standard ERC-20 tokens do not embed metadata such as images, descriptions, or social links in the contract. Alphecca permanently records this metadata as comments in the contract source code. Anyone can verify your token's official information through the verified source code on block explorers.
 
-#### What is Tax Settings?
+### What is Tax Settings?
 
 Tax Settings allows you to automatically collect fees whenever your token is traded or transferred on-chain. Collected fees are sent directly to your designated wallet.
 
 **Example:** If the transfer fee is set to 1% and User A sends 1,000 tokens to User B, 10 tokens (1%) are automatically collected to the fee receiver wallet.
 
-#### What are the benefits of Anti-Bot?
+### What are the benefits of Anti-Bot?
 
 Anti-Bot limits the number of transactions per wallet per block, effectively defending against sandwich attacks and preventing bots from exploiting your trades.
 
-#### What are the benefits of Anti-Whale?
+### What are the benefits of Anti-Whale?
 
 Anti-Whale protects your community by preventing large-scale market manipulation:
 
@@ -198,14 +198,14 @@ Anti-Whale protects your community by preventing large-scale market manipulation
 
 These restrictions help maintain price stability and create a fair trading environment for all holders.
 
-#### Can I modify Tax / Anti-Bot / Anti-Whale settings after creation?
+### Can I modify Tax / Anti-Bot / Anti-Whale settings after creation?
 
 Yes. A one-time fee is charged only during initial setup. After that, all changes are completely free through their respective settings pages.
 
-#### How is contract verification handled?
+### How is contract verification handled?
 
 All tokens created on Alphecca are automatically verified on block explorers.
 
-#### I can't see my created token in my wallet app.
+### I can't see my created token in my wallet app.
 
 ERC-20 tokens are not automatically detected by wallet apps. You need to manually import the token by entering the token contract address through the 'Import Token' feature in your wallet. Alternatively, you can view all tokens held by your wallet by entering your wallet address on the chain's block explorer.

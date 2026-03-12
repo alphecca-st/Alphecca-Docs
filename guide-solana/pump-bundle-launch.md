@@ -63,13 +63,13 @@ Click the 'Launch Coin' button and approve the transaction in your wallet.
 
 ***
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### What is Bundle Launch?
+### What is Bundle Launch?
 
 Bundle Launch uses Jito bundle technology to execute the first purchase simultaneously with token creation. This atomic transaction ensures no other sniper bots can intervene, securing the lowest possible entry price.
 
-#### Why distribute purchases across multiple wallets?
+### Why distribute purchases across multiple wallets?
 
 | Benefit             | Description                                                             |
 | ------------------- | ----------------------------------------------------------------------- |
@@ -77,7 +77,7 @@ Bundle Launch uses Jito bundle technology to execute the first purchase simultan
 | Market Perception   | Increased initial volume and holder count attracts genuine investors    |
 | Risk Management     | Different exit strategies per wallet, optimal gas efficiency            |
 
-#### What happens if the transaction fails?
+### What happens if the transaction fails?
 
 No costs (service fee or gas fees) will be charged for failed transactions.
 

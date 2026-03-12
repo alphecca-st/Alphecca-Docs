@@ -55,20 +55,20 @@ A one-time fee is charged only during initial setup. After that, all changes are
 
 ***
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### How much does it cost to change Anti-Bot settings?
+### How much does it cost to change Anti-Bot settings?
 
 A one-time fee is charged only during initial setup. After that, all changes are completely free.
 
-#### Can I disable Anti-Bot after enabling it?
+### Can I disable Anti-Bot after enabling it?
 
 Yes. Set Max Tx Per Block to 0 to remove transaction limits.
 
-#### When do Anti-Bot settings take effect?
+### When do Anti-Bot settings take effect?
 
 Settings take effect immediately after the transaction is confirmed.
 
-#### What happens when Active Duration expires?
+### What happens when Active Duration expires?
 
 Anti-Bot restrictions are automatically lifted. You can set a new duration anytime to reactivate.

@@ -64,26 +64,26 @@ A one-time fee is charged only during initial setup. After that, all changes are
 
 ***
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### What is Tax Settings?
+### What is Tax Settings?
 
 Tax Settings allows you to automatically collect fees whenever your token is traded or transferred on-chain. Collected fees are sent directly to your designated wallet.
 
 **Example:** If the transfer fee is set to 1% and User A sends 1,000 tokens to User B, 10 tokens (1%) are automatically collected to the fee receiver wallet.
 
-#### How much does it cost to change tax settings?
+### How much does it cost to change tax settings?
 
 A one-time fee is charged only during initial setup. After that, all changes are completely free.
 
-#### Can I disable tax after enabling it?
+### Can I disable tax after enabling it?
 
 Yes. Set all tax rates to 0% to effectively disable taxation. The feature remains enabled but no fees will be collected.
 
-#### When do tax settings take effect?
+### When do tax settings take effect?
 
 Tax settings take effect immediately after the transaction is confirmed. All subsequent trades will apply the new rates.
 
-#### Why isn't my Buy/Sell Tax working?
+### Why isn't my Buy/Sell Tax working?
 
 Buy/Sell Tax only applies to trades through liquidity pools. Make sure you have created a liquidity pool through Alphecca's Create Liquidity Pool page for the tax to take effect.

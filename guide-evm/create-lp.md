@@ -89,28 +89,28 @@ After transaction is confirmed, go to the 'Transaction Logs' tab to view transac
 
 ***
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### Why create a liquidity pool?
+### Why create a liquidity pool?
 
 A liquidity pool enables trading for your token. Without it, holders cannot buy or sell on decentralized exchanges. Creating a pool instantly lists your token and opens it to the entire DeFi ecosystem.
 
-#### Which DEXs are supported?
+### Which DEXs are supported?
 
 Alphecca supports major DEXs on each chain including Uniswap, PancakeSwap, Aerodrome, and more. Both V2 and V3 pools are available.
 
-#### Which pool type should I choose?
+### Which pool type should I choose?
 
 | Pool Type | Description                                                                       |
 | --------- | --------------------------------------------------------------------------------- |
 | V2 Pool   | Liquidity distributed across entire price range. Fee rewards auto-compounded.     |
 | V3 Pool   | Liquidity concentrated in specific price range. Fee rewards withdrawable anytime. |
 
-#### How can I check the trading chart after creation?
+### How can I check the trading chart after creation?
 
 You can view the trading chart on DEX Screener: https://dexscreener.com/{chain}/{your\_token\_address}
 
-#### What is the LP Token in my wallet?
+### What is the LP Token in my wallet?
 
 LP (Liquidity Provider) Token represents your share of the liquidity pool. It can be used to withdraw your liquidity or participate in staking/farming programs.
 
@@ -119,15 +119,15 @@ LP (Liquidity Provider) Token represents your share of the liquidity pool. It ca
 | V2 Pool   | Standard ERC-20 token                              |
 | V3 Pool   | NFT (each position is unique based on price range) |
 
-#### Can I add more liquidity later?
+### Can I add more liquidity later?
 
 Yes. You can add or remove liquidity anytime through the Manage Liquidity page.
 
-#### Can I create multiple liquidity pools with one token?
+### Can I create multiple liquidity pools with one token?
 
 Yes. You can create liquidity pools on multiple DEXs (Uniswap, SushiSwap, PancakeSwap, etc.) with a single token. Additionally, you can create separate pools with different pairs (ETH, USDT, USDC, etc.) on the same DEX.
 
-#### Which DEX exchanges are supported?
+### Which DEX exchanges are supported?
 
 <table><thead><tr><th width="130">Chain</th><th>Supported DEX</th></tr></thead><tbody><tr><td>Ethereum</td><td>UniSwap V2, UniSwap V3, <br>PancakeSwap V2, PancakeSwap V3,<br>SushiSwap V2</td></tr><tr><td>BSC</td><td>UniSwap V2, UniSwap V3,<br>PancakeSwap V2, PancakeSwap V3,<br>SquadSwap V2, SquadSwap V3,</td></tr><tr><td>Base</td><td>UniSwap V2, UniSwap V3,<br>PancakeSwap V2, PancakeSwap V3,<br>Aerodrome,<br>QuickSwap V2</td></tr><tr><td>Polygon</td><td>UniSwap V2, UniSwap V3,<br>QuickSwap V2,<br>SushiSwap V2</td></tr><tr><td>Avalanche</td><td>UniSwap V2, UniSwap V3,<br>SushiSwap V2</td></tr><tr><td>Monad</td><td>UniSwap V2, UniSwap V3, <br>PancakeSwap V2, PancakeSwap V3,</td></tr><tr><td>Arbitrum</td><td>UniSwap V2, UniSwap V3, <br>PancakeSwap V2, PancakeSwap V3,<br>SushiSwap V2</td></tr><tr><td>Optimism</td><td>UniSwap V2, UniSwap V3,</td></tr></tbody></table>
 

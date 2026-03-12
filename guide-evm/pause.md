@@ -47,28 +47,28 @@ When paused, all token activities including buying, selling, and transfers are b
 
 ***
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### What is token pause?
+### What is token pause?
 
 Token pause is a feature that temporarily halts all transfer activities of a token. When paused, all token movements including buying, selling, and wallet-to-wallet transfers are blocked.
 
-#### Who can pause a token?
+### Who can pause a token?
 
 Only the token owner can pause. The pausable feature must also be enabled when the token was created. Tokens with renounced ownership or disabled pause cannot be paused.
 
-#### What happens when paused?
+### What happens when paused?
 
 All token transfers are blocked. Buying/selling on DEX is disabled, wallet-to-wallet transfers are disabled, and LP add/remove is disabled.
 
-#### When should I use pause?
+### When should I use pause?
 
 Use it for emergencies or security issues. For example, when suspecting a hack, discovering contract vulnerabilities, or detecting abnormal large-scale selling, you can temporarily halt trading to minimize damage.
 
-#### Can I unpause?
+### Can I unpause?
 
 Yes. The token owner can unpause at any time. Once unpaused, all token activities resume normally.
 
-#### How much does it cost?
+### How much does it cost?
 
 Free. You only pay for gas fees.

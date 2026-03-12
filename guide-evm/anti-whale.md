@@ -59,24 +59,24 @@ A one-time fee is charged only during initial setup. After that, all changes are
 
 ***
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### How much does it cost to change Anti-Whale settings?
+### How much does it cost to change Anti-Whale settings?
 
 A one-time fee is charged only during initial setup. After that, all changes are completely free.
 
-#### Can I disable Anti-Whale after enabling it?
+### Can I disable Anti-Whale after enabling it?
 
 Yes. Set all limits to 0 to remove restrictions.
 
-#### When do Anti-Whale settings take effect?
+### When do Anti-Whale settings take effect?
 
 Settings take effect immediately after the transaction is confirmed.
 
-#### What happens when Active Duration expires?
+### What happens when Active Duration expires?
 
 Anti-Whale restrictions are automatically lifted. You can set a new duration anytime to reactivate.
 
-#### Why aren't Buy/Sell limits working?
+### Why aren't Buy/Sell limits working?
 
 Buy/Sell limits only apply to trades through liquidity pools. Make sure you have created a liquidity pool through Alphecca's Create Liquidity Pool page for the limits to take effect.

@@ -71,21 +71,21 @@ After transaction is confirmed, go to the 'Transaction Logs' tab to view your tr
 
 ***
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### What is the purpose of Remove Liquidity?
+### What is the purpose of Remove Liquidity?
 
 Removing liquidity means withdrawing your share of tokens from the liquidity pool. When you redeem your LP tokens (V2) or close your position (V3), you receive back your contributed assets based on the current pool ratio.
 
-#### Can I remove partial liquidity?
+### Can I remove partial liquidity?
 
 Yes. You can remove any percentage of your liquidity while keeping the rest in the pool.
 
-#### Will I receive native tokens directly?
+### Will I receive native tokens directly?
 
 Yes. If your pool contains wrapped native tokens (WETH, WBNB, WPOL, etc.), Alphecca automatically unwraps them. You will receive native tokens (ETH, BNB, POL) directly to your wallet.
 
-#### What happens to my uncollected V3 fees if I remove 100% liquidity?
+### What happens to my uncollected V3 fees if I remove 100% liquidity?
 
 If '+ Fees' toggle is ON, all accumulated trading fees are collected along with your liquidity. If OFF, fees remain in the position - but since liquidity is removed, you'll need to collect them separately before the position is burned.
 

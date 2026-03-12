@@ -54,13 +54,13 @@ Click the 'Send Tokens' button and approve the transaction in your wallet.
 
 ***
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### Why use Multi Sender?
+### Why use Multi Sender?
 
 Multi Sender allows you to distribute tokens to hundreds of wallets in just a few clicks. Perfect for airdrops, community rewards, team token distribution, and marketing campaigns.
 
-#### How much does Multi Sender cost?
+### How much does Multi Sender cost?
 
 | Transfer Type      | Max Addresses per Batch |
 | ------------------ | ----------------------- |
@@ -74,6 +74,6 @@ Cost per batch: `Network Gas Fee + Service Fee`
 * Sending SOL to 100 wallets → 6 batches → `6 × (Gas + Service Fee)`
 * Sending SPL Token to 100 wallets → 13 batches → `13 × (Gas + Service Fee)`
 
-#### What happens if a transaction fails?
+### What happens if a transaction fails?
 
 No costs (service fee or gas fees) will be charged for failed transactions.

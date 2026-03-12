@@ -60,12 +60,12 @@ Click the 'Create Token' button and approve the transaction in your wallet.
 
 ***
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### How much does it cost to create a token?
+### How much does it cost to create a token?
 
 In addition to the service fee, approximately 0.019 SOL in extra costs will be incurred. These cover token ATA creation fees, minting fees, metadata fees, and other related expenses.
 
-#### Can I trade the token immediately after creation?
+### Can I trade the token immediately after creation?
 
 No. After creating the token, you need to create a liquidity pool to enable trading. Please use Alphecca's Create Liquidity Pool page to set this up.

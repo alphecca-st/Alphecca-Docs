@@ -82,34 +82,34 @@ Alphecca is not responsible for any losses, legal issues, or consequences arisin
 
 ***
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### What is a Volume Bot?
+### What is a Volume Bot?
 
 A Volume Bot is a tool that increases your token's trading volume and maker count, making it appear actively traded. Key metrics for trending rankings on DEXTools, DEXScreener, and other platforms are trading volume and maker count. By utilizing a Volume Bot, you can effectively boost these metrics and enhance your token's visibility.
 
-#### How does the bot work?
+### How does the bot work?
 
 Alphecca automatically calculates your token's swap fee rate and determines the optimized cost required for the requested bot cycle. It then calculates the swap fees paid to the DEX, gas fees paid to the blockchain network, and the cost needed to generate trading volume. Payment is received through your wallet app. After the bot cycle completes, the remaining amount (excluding service fees) is automatically refunded to the wallet that made the request.
 
-#### What's the difference between Volume Bot and regular trading?
+### What's the difference between Volume Bot and regular trading?
 
 Regular trading occurs from a single wallet, but Volume Bot generates distributed trades through multiple maker wallets. This creates more natural trading patterns and makes it appear as if trades are occurring from various wallet addresses.
 
-#### Which DEX exchanges are supported?
+### Which DEX exchanges are supported?
 
 <table><thead><tr><th width="130">Chain</th><th>Supported DEX</th></tr></thead><tbody><tr><td>Ethereum</td><td>UniSwap V2, UniSwap V3, <br>PancakeSwap V2, PancakeSwap V3,<br>SushiSwap V2</td></tr><tr><td>BSC</td><td>Four.Meme<br>UniSwap V2, UniSwap V3,<br>PancakeSwap V2, PancakeSwap V3,<br>SquadSwap V2, SquadSwap V3,</td></tr><tr><td>Base</td><td>UniSwap V2, UniSwap V3,<br>PancakeSwap V2, PancakeSwap V3,<br>Aerodrome,<br>QuickSwap V2</td></tr><tr><td>Polygon</td><td>UniSwap V2, UniSwap V3,<br>QuickSwap V2,<br>SushiSwap V2</td></tr><tr><td>Avalanche</td><td>UniSwap V2, UniSwap V3,<br>SushiSwap V2</td></tr><tr><td>Monad</td><td>UniSwap V2, UniSwap V3, <br>PancakeSwap V2, PancakeSwap V3,</td></tr><tr><td>Arbitrum</td><td>UniSwap V2, UniSwap V3, <br>PancakeSwap V2, PancakeSwap V3,<br>SushiSwap V2</td></tr><tr><td>Optimism</td><td>UniSwap V2, UniSwap V3,</td></tr></tbody></table>
 
-#### How much does the Volume Bot cost?
+### How much does the Volume Bot cost?
 
 Alphecca charges fees based on the number of Makers, regardless of volume or time. Service Fees are as follows:
 
 <table><thead><tr><th width="130">Chain</th><th>Fee (per 100 Makers)</th></tr></thead><tbody><tr><td>Ethereum</td><td>0.0025 ETH</td></tr><tr><td>BSC</td><td>0.015 BNB</td></tr><tr><td>Base</td><td>0.0025 ETH</td></tr><tr><td>Polygon</td><td>20 POL</td></tr><tr><td>Avalanche</td><td>0.7 AVAX</td></tr><tr><td>Monad</td><td>400 MON</td></tr><tr><td>Arbitrum</td><td>0.0025 ETH</td></tr><tr><td>Optimism</td><td>0.0025 ETH</td></tr></tbody></table>
 
-#### **Can I track the bot's progress?**
+### **Can I track the bot's progress?**
 
 Yes, you can monitor the bot's progress in real-time through the Transaction Logs tab. You can view each maker's buy and sell transactions, transaction hashes, and directly verify them on the blockchain explorer.
 
-#### **Does the bot continue running if I leave the page?**
+### **Does the bot continue running if I leave the page?**
 
 Yes, the bot continues to operate even if you leave the page or close your browser.
