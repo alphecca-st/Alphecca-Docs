@@ -2,12 +2,12 @@
 icon: file-pen
 ---
 
-# Update Metadata
+# Update SPL Token Metadata
 
-**Modify token metadata such as name, symbol, and icon.**
+This guide walks you through updating SPL token metadata on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/update-metadata](https://alphecca.io/update-metadata)
+#### Link : [Update SPL Token Metadata](https://alphecca.io/en/update-metadata)
 {% endhint %}
 
 ## How to Use Update Metadata?&#x20;

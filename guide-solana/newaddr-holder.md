@@ -2,12 +2,12 @@
 icon: users-between-lines
 ---
 
-# New Address Buy (↑Holders)
+# Solana New Address Buy (↑Holders)
 
-**Auto-generate new wallets to instantly increase the number of token makers.**
+This guide walks you through buying tokens from new wallets to increase holder count on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/newaddr-holder](https://alphecca.io/newaddr-holder)
+#### Link : [Solana New Address Holder Bot](https://alphecca.io/en/newaddr-holder)
 {% endhint %}
 
 ## How to Use **New Address Buy (↑Holders)**?&#x20;

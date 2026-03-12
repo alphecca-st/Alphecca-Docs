@@ -2,12 +2,12 @@
 icon: shuffle
 ---
 
-# Sell and Bundle Buy
+# Solana Sell and Bundle Buy
 
-**Sell from multiple wallets in one block to secure profits and protect against sandwich attacks.**
+This guide walks you through bundle selling and buying tokens simultaneously on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/bundle-sell-buy](https://alphecca.io/bundle-sell-buy)
+#### Link : [Solana Sell and Bundle Buy](https://alphecca.io/en/bundle-sell-buy)
 {% endhint %}
 
 ## How to Use **Sell and Bundle Buy**?&#x20;

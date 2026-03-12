@@ -2,12 +2,12 @@
 icon: octagon-xmark
 ---
 
-# Unfreeze Account
+# Unfreeze Solana Accounts
 
-**Unfreeze token accounts to block all token activity — maintain full control over your token.**
+This guide walks you through unfreezing a token account on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/unfreeze](https://alphecca.io/unfreeze)
+#### Link : [Unfreeze Solana Accounts](https://alphecca.io/unfreeze)
 {% endhint %}
 
 ## How to Use Unfreeze Token Accounts?&#x20;

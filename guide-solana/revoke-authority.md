@@ -2,12 +2,12 @@
 icon: lock
 ---
 
-# Revoke Authority
+# Revoke Solana Authority
 
-**Revoke token creator authorities to secure token trustworthiness. Revokable authorities include mint authority, freeze authority, and update authority.**
+This guide walks you through revoking token authority on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/revoke-authority](https://alphecca.io/revoke-authority)
+#### Link : [Revoke Solana Authorities](https://alphecca.io/en/revoke-authority)
 {% endhint %}
 
 ## How to Use Revoke Authority?&#x20;

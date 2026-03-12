@@ -2,12 +2,12 @@
 icon: octagon-xmark
 ---
 
-# Freeze Account
+# Freeze Solana Accounts
 
-**Freeze token accounts to block all token activity — maintain full control over your token.**
+This guide walks you through freezing a token account on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/freeze](https://alphecca.io/freeze)
+#### Link : [Freeze Solana Accounts](https://alphecca.io/en/freeze)
 {% endhint %}
 
 ## How to Use Freeze Accounts?&#x20;

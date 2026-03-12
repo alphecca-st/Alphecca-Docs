@@ -2,12 +2,12 @@
 icon: chart-line-up-down
 ---
 
-# Market Making
+# Solana Market Making Bot
 
-**Set your bot parameters and design the price chart exactly the way you envision.**
+This guide walks you through market making for your token on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/market-making](https://alphecca.io/market-making)
+#### Link : [Solana Market Making Bot](https://alphecca.io/en/market-making)
 {% endhint %}
 
 ## How to Use Maker Making?&#x20;

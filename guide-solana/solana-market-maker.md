@@ -2,12 +2,12 @@
 icon: robot
 ---
 
-# Volume Bot
+# Solana Volume Bot
 
-**Automatically create token activity and maker addresses with optimized gas usage.**
+This guide walks you through generating volume for your token on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/market-maker](https://alphecca.io/market-maker)
+#### Link : [Solana Volume Bot](https://alphecca.io/en/market-maker)
 {% endhint %}
 
 ## How to Use Maker and Volume Bot?&#x20;

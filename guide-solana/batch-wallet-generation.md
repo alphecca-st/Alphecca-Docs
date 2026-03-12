@@ -2,12 +2,12 @@
 icon: wallet
 ---
 
-# Batch Wallet Generation
+# Solana Batch Wallet Generator
 
-**Create multiple Solana wallets (public-private key pairs) with one click.**
+This guide walks you through generating multiple Solana wallets in batch with Alphecca Tools.:
 
 {% hint style="success" %}
-#### [https://alphecca.io/batch-wallet-generation](https://alphecca.io/batch-wallet-generation)
+#### Link : [Solana Batch Wallet Generator](https://alphecca.io/en/batch-wallet-generation)
 {% endhint %}
 
 ## How to Use **Batch Wallet Generation**?&#x20;

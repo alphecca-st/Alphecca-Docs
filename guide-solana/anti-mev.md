@@ -2,12 +2,12 @@
 icon: shield-check
 ---
 
-# Anti-MEV Bot
+# Solana Anti-MEV Bot
 
-**Boost trading volume rapidly and securely to increase visibility, avoid sandwich attacks, and drive traction.**
+This guide walks you through running an Anti-MEV volume bot on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/anti-mev](https://alphecca.io/anti-mev)
+#### Link : [Solana Anti-MEV Bot](https://alphecca.io/en/anti-mev)
 {% endhint %}
 
 ## How to Use Anti-MEV Volume Bot?&#x20;

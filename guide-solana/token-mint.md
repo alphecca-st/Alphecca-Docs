@@ -2,12 +2,12 @@
 icon: coins
 ---
 
-# Mint Token
+# Mint Token on Solana
 
-**Mint additional tokens to increase the total supply.**
+This guide walks you through minting additional tokens on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/token-mint](https://alphecca.io/token-mint)
+#### Link : [Mint Solana Tokens](https://alphecca.io/en/token-mint)
 {% endhint %}
 
 ## How to Use Mint Token?&#x20;

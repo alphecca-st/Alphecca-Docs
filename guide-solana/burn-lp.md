@@ -2,12 +2,12 @@
 icon: fire
 ---
 
-# Burn Liquidity Pool
+# Burn Liquidity Pool on Solana
 
-**Burn LP tokens to lock liquidity and build market trust.**
+This guide walks you through burning LP tokens on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/burn-lp](https://alphecca.io/burn-lp)
+#### Link : [Burn LP Tokens on Solana](https://alphecca.io/en/burn-lp)
 {% endhint %}
 
 ## How to Use Burn Liquidity Pool?&#x20;

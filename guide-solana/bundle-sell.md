@@ -2,12 +2,12 @@
 icon: rocket-launch
 ---
 
-# Bundle Sell
+# Solana Bundle Sell
 
-**Sell from multiple wallets in one block to secure profits and protect against sandwich attacks.**
+This guide walks you through bundle selling tokens on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/bundle-sell](https://alphecca.io/bundle-sell)
+#### Link : [Solana Bundle Sell](https://alphecca.io/en/bundle-sell)
 {% endhint %}
 
 ## How to Use Bundle Sell?&#x20;

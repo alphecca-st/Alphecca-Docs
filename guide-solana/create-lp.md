@@ -2,12 +2,12 @@
 icon: chart-simple
 ---
 
-# Create Liquidity Pool
+# Create Liquidity Pool on Solana
 
-**Set up a liquidity pool to make your token tradable.**
+This guide walks you through creating a liquidity pool on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/create-lp](https://alphecca.io/create-lp)
+#### Link : [Create Liquidity Pool on Solana](https://alphecca.io/en/create-lp)
 {% endhint %}
 
 ## How to Use Create Liquidity Pool?&#x20;

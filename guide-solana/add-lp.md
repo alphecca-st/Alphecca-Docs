@@ -2,12 +2,12 @@
 icon: circle-plus
 ---
 
-# Add Liquidity Pool
+# Add Liquidity Pool on Solana
 
-**Add liquidity to existing Raydium CPMM pools to receive LP tokens and earn trading fees.**
+This guide walks you through adding liquidity to a pool on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/add-lp](https://alphecca.io/add-lp)
+#### Link : [Add Liquidity on Solana](https://alphecca.io/en/add-lp)
 {% endhint %}
 
 ## How to Use Add Liquidity Pool?&#x20;

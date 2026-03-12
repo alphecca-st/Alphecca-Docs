@@ -2,12 +2,12 @@
 icon: trash-can-xmark
 ---
 
-# Remove Liquidity Pool
+# Remove Liquidity Pool on Solana
 
-**Withdraw liquidity and remove your token’s LP.**
+This guide walks you through removing liquidity from a pool on Solana with Alphecca Tools.
 
 {% hint style="success" %}
-#### [https://alphecca.io/remove-lp](https://alphecca.io/remove-lp)
+#### Link : [Remove Liquidity on Solana](https://alphecca.io/en/remove-lp)
 {% endhint %}
 
 ## How to Use Remove Liquidity Pool?&#x20;
