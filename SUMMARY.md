@@ -1,10 +1,12 @@
 # Table of contents
 
+## ALPHECCA INFO <a href="#info" id="info"></a>
+
 * [About Alphecca Tools](README.md)
 
 ## Alphecca Tool Guide (EVM) <a href="#guide-evm" id="guide-evm"></a>
 
-* [Create Token](<README (1).md>)
+* [Create Token](<README (2).md>)
 * [Create Liquidity Pool](guide-evm/create-lp.md)
 * [Multi Sender](guide-evm/multi-sender.md)
 * [SWAP](guide-evm/swap.md)
@@ -22,10 +24,10 @@
 
 ## Alphecca Tool Guide (Solana) <a href="#guide-solana" id="guide-solana"></a>
 
-* [Solana Token Creator](guide-solana/solana-token-creator.md)
-* [Pump.Fun Bundler](guide-solana/pump-fun-bundler.md)
-* [Raydium.LaunchLab Bundler](guide-solana/raydiumlaunchlab-bundler.md)
-* [Let'sBonk Bundle Launch](guide-solana/bonk-bundler.md)
+* [Solana Token Creator](<README (1).md>)
+* [Pump.Fun Bundler](guide-solana/pump-bundle-launch.md)
+* [Raydium.LaunchLab Bundler](guide-solana/raydiumlaunchlab-bundle-launch.md)
+* [Let'sBonk Bundle Launch](guide-solana/bonk-bundle-launch.md)
 * [Multi Sender](guide-solana/multi-sender.md)
 * [Batch Collection](guide-solana/air-drop.md)
 * [Reclaim ATA](guide-solana/recover-rent.md)
@@ -53,7 +55,3 @@
 * [Mint Token](guide-solana/token-mint.md)
 * [Update Metadata](guide-solana/update-metadata.md)
 * [Revoke Authority](guide-solana/revoke-authority.md)
-
-## ALPHECCA INFO <a href="#info" id="info"></a>
-
-* [Contact](info/contact.md)
