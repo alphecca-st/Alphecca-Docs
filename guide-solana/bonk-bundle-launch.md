@@ -12,7 +12,7 @@ This guide walks you through launching a token on Let's Bonk with Alphecca Tools
 * Link : [Let's Bonk Bundler](https://alphecca.io/en/bonk-bundle-launch)
 {% endhint %}
 
-## How to Use Raydium.LaunchLab Bundle Launch?&#x20;
+## How to Use Let's Bonk Bundle Launch?&#x20;
 
 * Click the **Connect Wallet** button in the top-right corner to connect.
 *   Enter the required fields:
